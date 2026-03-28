@@ -44,6 +44,14 @@ A fully refreshed execution-ready version can be prepared after final path stand
 ### Data availability
 Readers should consult the associated manuscript and linked public data sources for dataset descriptions, provenance, and any access conditions.
 
+## How to use this repository
+
+1. Review the notebook `gcdd-hgctm-s_github_clean.ipynb`.
+2. Install the basic Python dependencies listed in `requirements.txt`.
+3. Prepare access to the required datasets in the Kaggle environment or replace Kaggle-specific paths with your local paths.
+4. Execute the notebook step by step in the appropriate environment.
+5. Check generated outputs and intermediate files in the working directory as needed.
+
 ## Citation
 
 If this repository is used in academic work, please cite the associated paper when available.
