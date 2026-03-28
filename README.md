@@ -7,6 +7,7 @@ Code and reproducible workflow for the HGCTM-S analysis of the Global Copper Dep
 - `gcdd-hgctm-s_github_clean.ipynb` : cleaned notebook prepared for public GitHub sharing
 - `LICENSE` : MIT license
 - `.gitignore` : Python ignore rules
+- `requirements.txt` : basic Python package requirements
 
 ## Notes
 
