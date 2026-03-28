@@ -1,6 +1,7 @@
 # GCDD-HGCTM-S
 
 Code and reproducible workflow for the HGCTM-S analysis of the Global Copper Deposit Database (GCDD).
+Repository prepared for research transparency and peer review. The shared notebook is a cleaned public version of the Kaggle workflow.
 
 ## Repository contents
 
