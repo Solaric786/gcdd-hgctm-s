@@ -6,7 +6,7 @@ Repository prepared for research transparency and peer review. The shared notebo
 ## Repository contents
 
 - `gcdd-hgctm-s_github_clean.ipynb` : cleaned notebook prepared for public GitHub sharing
-- `LICENSE` : MIT license
+- `LICENSE : temporary rights notice for review version
 - `.gitignore` : Python ignore rules
 - `requirements.txt` : basic Python package requirements
 - `DATA_SOURCES.md` : summary of main input datasets, generated files, and execution environment notes
