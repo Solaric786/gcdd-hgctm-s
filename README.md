@@ -8,6 +8,7 @@ Code and reproducible workflow for the HGCTM-S analysis of the Global Copper Dep
 - `LICENSE` : MIT license
 - `.gitignore` : Python ignore rules
 - `requirements.txt` : basic Python package requirements
+- `DATA_SOURCES.md` : summary of main input datasets, generated files, and execution environment notes
 
 ## Notes
 
