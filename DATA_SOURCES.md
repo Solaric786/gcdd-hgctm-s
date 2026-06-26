@@ -1,57 +1,51 @@
-# Data Sources
+# Data sources and provenance
 
-This file summarizes the main datasets and generated files used in the HGCTM-S workflow.
+## Global Copper Deposit Dataset
 
-## Main input data
+Primary dataset:
 
-- **Global Copper Deposit Database**
-  - Kaggle path used in the notebook: `/kaggle/input/datasets/katerynaglin/global-copper-deposit-dataset-main`
-  - Role: main deposit database used for analysis
+- **Title:** Global Copper Deposit Dataset: A New Open-Source Database for Advanced Data Analysis and Exploration Targeting
+- **Authors:** Bin Wang, Renguang Zuo, and Oliver P. Kreuzer
+- **Journal:** Geoscience Data Journal
+- **DOI:** https://doi.org/10.1002/gdj3.70040
 
-- **HGCTM stage 0 data**
-  - Kaggle path used in the notebook: `/kaggle/input/datasets/katerynaglin/hgctm-stage0`
-  - Role: intermediate or prepared data for the workflow
+The supplied source workbook is stored as `data/raw/Global_Copper_Deposit_Main.xlsx`. The exact frozen Stage 0 matrices and covariates used by HGCTM-S are stored in `data/processed/stage0/`.
 
-- **HGCTM results**
-  - Kaggle path used in the notebook: `/kaggle/input/datasets/katerynaglin/hgctm-results`
-  - Role: stored results used in later stages of analysis
+## Macrostrat
 
-- **HGCTM results bundle**
-  - Kaggle path used in the notebook: `/kaggle/input/datasets/katerynaglin/hgctm-results-bandle`
-  - Role: archived or bundled result files
+Macrostrat was queried at deposit coordinates in the original workflow. The frozen response-derived table is `data/processed/stage0/macrostrat_lithology.csv`. The public platform and API documentation are available at:
 
-- **LDA sweep results**
-  - Kaggle path used in the notebook: `/kaggle/input/datasets/katerynaglin/hgctm-stage0/lda_sweep_results.csv`
-  - Role: topic-model sweep or model-selection results
+- https://macrostrat.org/
+- https://macrostrat.org/api/
 
-- **IMA / RRUFF mineral properties data**
-  - Kaggle path used in the notebook: `/kaggle/input/datasets/lsind18/ima-database-of-mineral-properties/RRUFF_Export_20230608_052338.csv`
-  - Role: mineral reference data used in the workflow
+The repository does not treat a coordinate query as confirmed deposit-scale host lithology.
 
-## Generated working files
+## GLiM / LiMW
 
-The notebook also writes intermediate or output files to `/kaggle/working/`, including:
+Independent regional lithology source:
 
-- `X_family_copper.csv`
-- `X_family_primary.csv`
-- `covariates.csv`
-- `deposit_completeness.csv`
-- `macrostrat_lithology.csv`
-- `mineral_to_family.csv`
-- `resolved_lithology_robustness_check.csv`
-- `lda_sweep_results.csv`
+- **Title:** The new global lithological map database GLiM: A representation of rock properties at the Earth surface
+- **Authors:** Jens Hartmann and Nils Moosdorf
+- **DOI:** https://doi.org/10.1029/2012GC004370
+- **Dataset DOI:** https://doi.org/10.1594/PANGAEA.788537
 
-## Generated figures
+The original polygon attributes, mapping metadata, and derived HGCTM-S classes are retained in the GLiM audit results and `data/covariates/`.
 
-Figures are written to `/kaggle/working/figures/`, including:
+## Mineral nomenclature and family mapping
 
-- `fig1_topic_heatmap.png`
-- `fig2_tau_ranking.png`
-- `fig3_litho_deviations.png`
-- `fig4_validation_panel.png`
-- `fig5_global_map.png`
+The primary notebook used IMA/RRUFF mineral-property data to support name normalisation and chemical-family assignment. The complete frozen mapping used by the analysis is:
 
-## Environment note
+`data/processed/stage0/mineral_to_family.csv`
 
-The notebook was originally developed in Kaggle and uses Kaggle-specific paths such as `/kaggle/input/` and `/kaggle/working/`.  
-If the workflow is executed outside Kaggle, these paths should be updated accordingly.
+RRUFF data portal:
+
+- https://rruff.info/ima/
+
+## Frozen cohorts
+
+- Full model cohort: 1,335 deposits.
+- Coordinate-valid cohort used for spatial and alternative-source experiments: 1,237 deposits.
+- Placeholder-coordinate records excluded from coordinate-derived analyses: 98.
+- Mineral-family vocabulary: 35 families.
+
+The data audit and experiment-specific manifests are retained under `results/`.
