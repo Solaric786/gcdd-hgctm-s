@@ -1,0 +1,8 @@
+macrostrat_class,carbonate,evaporite,felsic,mafic,metamorphic,siliciclastic,volcanic,All
+carbonate,15,0,3,0,14,24,8,64
+felsic,4,0,70,2,18,9,73,176
+mafic,5,0,12,11,15,14,73,130
+metamorphic,4,0,7,2,39,5,6,63
+siliciclastic,0,0,3,0,12,24,2,41
+volcanic,5,1,13,1,53,14,101,188
+All,33,1,108,16,151,90,263,662

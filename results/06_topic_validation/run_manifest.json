@@ -1,0 +1,37 @@
+{
+  "created_at_utc": "2026-06-25T04:35:02.271681+00:00",
+  "analysis": "post_hoc_topic_validation_against_known_deposit_types",
+  "final_model": {
+    "name": "HGCTM-S / M7b",
+    "likelihood": "Dirichlet-Multinomial",
+    "K": 7,
+    "F": 35,
+    "cohort_n": 1335,
+    "warm_start": "LDA",
+    "sparsity_schedule": "annealed family gate"
+  },
+  "inputs": {
+    "final_results_folder": "/kaggle/input/datasets/katerynaglin/hgctm-results-bandle",
+    "stage0_folder": "/kaggle/input/datasets/katerynaglin/hgctm-stage0"
+  },
+  "cohorts": {
+    "full_1335": 1335,
+    "coordinate_valid_1237": 1237
+  },
+  "validation_quantities": [
+    "posterior attribution weights",
+    "topic prevalence theta",
+    "dominant posterior attribution"
+  ],
+  "tests": [
+    "Kruskal-Wallis",
+    "epsilon-squared",
+    "pairwise Mann-Whitney with Holm correction",
+    "stratified bootstrap enrichment ratios",
+    "label permutation with max-statistic adjustment",
+    "chi-square and Cramer's V"
+  ],
+  "bootstrap_replicates": 2000,
+  "permutation_replicates": 5000,
+  "important_interpretation": "Deposit-type labels were not used to fit HGCTM-S. The analysis validates statistical enrichment and geological association of assemblage modes; it does not treat topics as one-to-one genetic deposit classes."
+}

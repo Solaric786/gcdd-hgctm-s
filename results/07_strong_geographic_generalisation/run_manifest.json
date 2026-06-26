@@ -1,0 +1,45 @@
+{
+  "created_at_utc": "2026-06-19T11:01:30.735485+00:00",
+  "analysis": "strong_geographic_generalisation_audit",
+  "notebook": "HGCTM_Strong_Geographic_Generalisation_Audit_K7.ipynb",
+  "cohort": {
+    "full_model_set": 1335,
+    "coordinate_valid": 1237,
+    "excluded_placeholder_coordinates": 98
+  },
+  "outer_holdout": {
+    "continents": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "Oceania",
+      "South America"
+    ],
+    "K": 7,
+    "pyro_seeds": [
+      42,
+      123,
+      7
+    ],
+    "fixed_fold_lda_seed": 42
+  },
+  "models": {
+    "hgctm": "Sparse M7b with fixed training-only LDA warm start.",
+    "context_only_dm": "Lithology- and age-conditioned DM without topics.",
+    "global_dm": "Training-only global DM."
+  },
+  "predictive_scoring": "All predictive models use the same complete held-out Dirichlet-Multinomial likelihood.",
+  "nested_k_audit": {
+    "enabled": true,
+    "candidates": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "interpretation": "Training-only LDA audit, not full nested HGCTM selection."
+  },
+  "limitation": "Post-selection geographic sensitivity analysis; not untouched external model selection."
+}

@@ -1,0 +1,55 @@
+{
+  "created_at_utc": "2026-06-18T18:17:45.191699+00:00",
+  "analysis": "presence_absence_sensitivity",
+  "notebook": "HGCTM_Presence_Absence_Sensitivity_K7.ipynb",
+  "original_notebook_sha256": "6900e1e53eb92730851c9bc35e87c4f2731722ed0deccb9bc403ba223a689f7b",
+  "run_mode": "full",
+  "inputs": {
+    "stage0": "/kaggle/input/datasets/katerynaglin/hgctm-stage0",
+    "phase1b": "/kaggle/input/datasets/katerynaglin/hgctm-phase1b-glim-audit-outputs",
+    "count_reference_runs": "/kaggle/input/datasets/katerynaglin/hgctm-prior-and-lithology-class-sensitivity-k7/runs"
+  },
+  "cohort": {
+    "original_model_n": 1335,
+    "excluded_invalid_coordinates": 98,
+    "common_valid_coordinate_n": 1237,
+    "families": 35
+  },
+  "binary_transformation": "X_binary = (X_counts > 0).astype(float)",
+  "likelihoods": {
+    "binary_dm": "Original sparse M7b architecture with the Dirichlet-Multinomial applied to binary family counts.",
+    "bernoulli": "Independent family-level Bernoulli observations conditional on mixed-membership topic and context probabilities."
+  },
+  "sources": [
+    "Macrostrat",
+    "GLiM"
+  ],
+  "prior_settings": {
+    "original": {
+      "sigma_litho": 0.3,
+      "sigma_age": 0.15
+    },
+    "equal_high": {
+      "sigma_litho": 0.3,
+      "sigma_age": 0.3
+    }
+  },
+  "seeds": [
+    42,
+    123,
+    7
+  ],
+  "model": {
+    "K": 7,
+    "sigma_mu": 2.0,
+    "tau_prior": "Beta(1,3)",
+    "omega_age_prior": "Beta(2,2)",
+    "learning_rate": 0.005,
+    "steps": 5000,
+    "anneal_end": 1500,
+    "LDA_random_state": 42,
+    "bernoulli_warm_signal_scale": 0.75
+  },
+  "primary_effect_metric": "Class-frequency-weighted nonmissing lithology effect divided by the corresponding nonmissing age effect.",
+  "strict_effect_metric": "Same ratio after excluding lithology classes other and unknown."
+}

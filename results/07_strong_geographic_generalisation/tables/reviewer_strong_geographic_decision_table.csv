@@ -1,0 +1,7 @@
+holdout_continent,n_test,hgctm_beats_context_all_seeds,context_beats_global_all_seeds,hgctm_beats_global_all_seeds,median_hgctm_minus_context_per_deposit,median_fold_lda_to_full_lda_cosine,median_hgctm_to_full_hgctm_cosine,conclusion
+Africa,78,False,False,False,-0.2976164110529975,0.9459529194100168,0.983240715094975,no_consistent_geographic_predictive_gain
+Asia,349,False,True,False,-0.13769660214975799,0.834092318670564,0.741509952715465,no_consistent_geographic_predictive_gain
+Europe,171,False,False,False,-0.4298073952226168,0.9774726484948143,0.930048269884927,no_consistent_geographic_predictive_gain
+North America,366,False,True,True,-0.19912298194247002,0.9000483662017416,0.7718116215297154,hgctm_beats_global_but_not_context_only
+Oceania,120,False,False,False,-0.13540843864847957,0.8377294459062663,0.7473756982944906,no_consistent_geographic_predictive_gain
+South America,153,True,True,True,0.14577351288286655,0.8110332437639229,0.7323462917868581,topic_layer_adds_prediction_but_topic_retention_is_partial

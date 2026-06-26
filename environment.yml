@@ -1,0 +1,23 @@
+name: gcdd-hgctm-s
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.12
+  - pip
+  - numpy=2.4.6
+  - pandas=2.3.3
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - requests
+  - geopandas
+  - pyogrio
+  - pyproj
+  - openpyxl
+  - jupyterlab
+  - ipykernel
+  - tqdm
+  - pip:
+      - torch==2.10.0
+      - pyro-ppl==1.9.1

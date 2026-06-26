@@ -1,0 +1,13 @@
+source,prior_setting,seed,count_reference_available
+Macrostrat,original,42,True
+Macrostrat,original,123,True
+Macrostrat,original,7,True
+Macrostrat,equal_high,42,True
+Macrostrat,equal_high,123,True
+Macrostrat,equal_high,7,True
+GLiM,original,42,True
+GLiM,original,123,True
+GLiM,original,7,True
+GLiM,equal_high,42,True
+GLiM,equal_high,123,True
+GLiM,equal_high,7,True

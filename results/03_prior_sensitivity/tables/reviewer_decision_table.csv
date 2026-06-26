@@ -1,0 +1,14 @@
+source,prior_setting,primary_ratio_median,primary_ratio_min,strict_ratio_min,topic_alignment_minimum_seed_mean,result_flag,reviewer_relevance
+Combined,equal_high,4.959012572223527,4.700703862557411,4.755470699438759,0.8464615363934949,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+Combined,learned_equal_hyperprior,4.178770361681117,3.912378461581342,3.9863820598476183,0.8440554224622995,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+Combined,original,4.927391125056275,4.581513510471204,4.625440764384016,0.8415473112580125,lithology_stronger_all_seeds,Submitted-prior reference
+GLiM,equal_high,2.406143141843829,2.4052654836595777,2.2977297187580565,0.8682245187536297,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+GLiM,equal_low,2.6059584156627467,2.4639555941507796,2.414021403824496,0.8594807306250098,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+GLiM,learned_equal_hyperprior,3.2438003029057207,3.0789361201909586,3.063780035417486,0.8531714140716417,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+GLiM,original,4.04498594135059,3.827041632482546,3.7366115022077304,0.858519387513826,lithology_stronger_all_seeds,Submitted-prior reference
+GLiM,reversed,1.8749395420543418,1.8133391357526027,1.798827147094434,0.8581767484489744,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+Macrostrat,equal_high,3.970483306629519,3.95412847280181,3.870870402428246,0.8523205850859155,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+Macrostrat,equal_low,3.109354851993248,2.9152546243741404,2.9500217565992775,0.8435895358969273,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+Macrostrat,learned_equal_hyperprior,4.051472667841598,4.048712995015685,4.001277715097564,0.8475855142713363,lithology_stronger_all_seeds,Direct prior-sensitivity evidence
+Macrostrat,original,4.4491847096841175,4.404303624924801,4.319605455301047,0.848253698867096,lithology_stronger_all_seeds,Submitted-prior reference
+Macrostrat,reversed,2.993767965408984,2.92885331783305,2.96205254594458,0.8515169784606691,lithology_stronger_all_seeds,Direct prior-sensitivity evidence

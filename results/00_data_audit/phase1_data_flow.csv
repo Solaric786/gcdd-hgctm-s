@@ -1,0 +1,5 @@
+stage,n_deposits
+Macrostrat coordinate queries / raw GCDD deposits,1483
+Deposits with mineral-family count records,1402
+Deposits satisfying >=3 mapped family counts,1335
+Deposits in final covariates/model set,1335

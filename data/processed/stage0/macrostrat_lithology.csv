@@ -1,0 +1,1484 @@
+Mindat_id,latitude,longitude,litho_raw,litho_class,api_status
+641.0,-22.2894444444,-68.9011111111,sedimentary rocks,other,ok
+2120.0,40.533055555556,8.3341666666667,limestone; sedimentary rocks,carbonate,ok
+2355.0,30.320611061173,-109.56493377686,acidic igneous intrusive; volcanic: felsic rocks; ignimbrite(s); felsic volcanic rocks,felsic,ok
+2596.0,44.7377777778,21.7025,"Major:{limestone}, Minor{dolomite/dolostone,conglomerate,sandstone}; sedimentary rocks",carbonate,ok
+3326.0,33.0583333333,-110.745833333,"plutonic: felsic and intermediate rocks; sedimentary rocks; Major:{sandstone,shale,limestone}; limestone",carbonate,ok
+3373.0,31.9822222222,-111.063055556,"sedimentary rocks; Major:{sand,silt,clay}; sedimentary",other,ok
+3374.0,32.4,-111.5,"Major:{rhyolite,dacite,andesite}, Minor:{clastic}; rhyolite; volcanic; sedimentary rocks; volcanic: interlayered sedimentary and volcanic rocks",felsic,ok
+3376.0,31.8930555556,-111.035,"sedimentary rocks; Major:{sand,silt,clay}; sedimentary",other,ok
+3377.0,33.149444444444,-110.98722222222,"Major:{conglomerate,sandstone}, Minor:{mudstone,siltstone,limestone,gypsum}; limestone; plutonic: granite; sedimentary rocks",carbonate,ok
+3978.0,32.79,-108.06731,"Major:{shale,sandstone}, Minor:{limestone}; shale; sedimentary; sedimentary rocks",carbonate,ok
+4181.0,40.5222222222,-112.148611111,"volcanic: intermediate rocks; Forms Bingham and Last Chance stocks and associated intrusions at Bingham mine; medium- to dark-gray, augite-actinolite-phlogopite (quartz) monzonite; where altered, augite is replaced by actinolite, chlorite, phlogopite, and quartz, and some plagioclase; monzonite; Major:{monzonite,granodiorite}, Incidental:{monzodiorite, quartz monzonite, granite, diorite, quartz diorite, quartz monzodiorite}; sedimentary rocks",felsic,ok
+4464.0,32.651040512379,-108.36550795271,"sedimentary; Major:{conglomerate sandstone,volcanic}; conglomerate; sedimentary rocks",volcanic,ok
+5436.0,33.0905555556,-109.366111111,"volcanic rocks; Major:{granite,granodiorite,diorite}; granite; sedimentary",felsic,ok
+5792.0,31.410301572411,97.73015250491,sedimentary rocks,other,ok
+5793.0,31.0166666667,97.9166666667,sedimentary rocks,other,ok
+5798.0,27.4,101.133333333,sedimentary rocks,other,ok
+6926.0,44.9833333333,21.7833333333,"sedimentary rocks; Major:{limestone}, Minor{siltstone,sandstone,marl}",carbonate,ok
+7314.0,0.0,0.0,,unknown,ok
+7377.0,45.6,-70.3333333333,Major:{quartz monzonite}; sedimentary rocks; plutonic: undivided granitic rocks,felsic,ok
+7378.0,45.5358333333,-70.2166666667,Major:{quartz monzonite}; intrusive igneous rocks; plutonic: undivided granitic rocks,felsic,ok
+8064.0,38.4891666667,-113.1275,"Major:{granodiorite}, Minor:{granite}, Incidental:{quartz monzonite, quartz diorite}; volcanic: intermediate rocks; sedimentary rocks",felsic,ok
+8417.0,40.8138888889,69.6463888889,sedimentary and volcanic rocks,volcanic,ok
+8428.0,7.33333333333,126.15,sedimentary rocks,other,ok
+8577.0,9.49166666667,122.679166667,sedimentary rocks,other,ok
+8582.0,17.3444444444,121.058333333,sedimentary rocks,other,ok
+8802.0,16.6377777778,120.676666667,sedimentary rocks,other,ok
+8831.0,-6.31513109142,155.495322227,sedimentary rocks,other,ok
+8859.0,49.879444444444,-120.00638888889,intrusive igneous rocks; plutonic: intermediate rocks; granodioritic intrusive rocks; granodiorite,felsic,ok
+8886.0,-33.149265422398,-70.280914306641,volcanic rocks,volcanic,ok
+9706.0,40.4722222222,23.7036111111,"Major:{gneiss}, Minor{phyllite,amphibolite,schist group}; metamorphic; crystalline metamorphic rocks",metamorphic,ok
+9905.0,47.899009728278,20.089933276176,"Major:{limestone}, Minor{marl,dolomite/dolostone,sandstone}; limestone; intermediate-felsic volcanic rocks",carbonate,ok
+10591.0,67.0725,20.9575,"Basalt, andesite and subordinate dacite, metamorphic; granite, monzonite, quartz monzonite, quartz monzodiorite; intrusive igneous rocks; meta-basalt group; metamorphic",felsic,ok
+11307.0,48.9705555556,-65.5202777778,sedimentary rocks; sedimentary,other,ok
+11459.0,34.4822222222,-111.856944444,"Major:{metasedimentary,metavolcanic,gneiss}; volcanic; plutonic: undivided granitic rocks; granodiorite; tonalite; volcanic rocks",volcanic,ok
+11973.0,18.8808333333,-101.640833333,acidic igneous intrusive; plutonic: undivided granitic rocks; sedimentary and volcanic rocks,volcanic,ok
+12054.0,63.7708333333,25.2338888889,"Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; mica schist; metasedimentary schist",siliciclastic,ok
+12057.0,50.6,-127.477777778,mafic volcanic rocks; mixed volcanic and sedimentary rocks; basalt; volcanic: intermediate rocks,mafic,ok
+12663.0,48.430248,18.769848,"Major:{andesite}, Minor{dacite,agglomerate/breccia group,tuffite group}; flow(s); intermediate volcanic rocks",felsic,ok
+13770.0,40.5815094,45.790990633643,sedimentary and volcanic rocks,volcanic,ok
+14115.0,19.0777777778,-102.031388889,acidic igneous intrusive; sedimentary and volcanic rocks; volcanic: mafic rocks,volcanic,ok
+15187.0,22.0166666667,80.7166666667,sedimentary and volcanic rocks,volcanic,ok
+15213.0,6.0270953261096,116.65560699783,carbonate-sandstone-conglomerate,carbonate,ok
+15963.0,48.5225,-81.1163888889,ultramafic rocks; metasedimentary schist; volcanic: mafic rocks,mafic,ok
+16033.0,42.601169444444,24.187177777778,"crystalline metamorphic rocks; Major:{gneiss}, Minor{migmatite/anatexite,mica schist,amphibolite}",metamorphic,ok
+16242.0,47.51152,-121.3498,"granodiorite; Major:{granodiorite,granite}, Minor:{quartz diorite,quartz monzonite}, Incidental:{diorite, tonalite, hypabyssal dacite, hypabyssal andesite, hypabyssal rhyolite, gabbro}; granite; diorite; sedimentary; mafic volcanic rocks",felsic,ok
+16510.0,22.123619596776,95.03357505746,sedimentary rocks,other,ok
+17175.0,-5.2080348283979,141.13899815844,sedimentary rocks,other,ok
+17816.0,48.1975,-120.978888889,"paragneiss/metavolcanic gneiss; granodiorite; Major:{granodiorite,granite}, Minor:{quartz diorite,quartz monzonite}, Incidental:{diorite, tonalite, hypabyssal dacite, hypabyssal andesite, hypabyssal rhyolite, gabbro}; granite; diorite; plutonic: intermediate rocks",felsic,ok
+18255.0,47.4966666667,-121.36,"granodiorite; Major:{granodiorite,granite}, Minor:{quartz diorite,quartz monzonite}, Incidental:{diorite, tonalite, hypabyssal dacite, hypabyssal andesite, hypabyssal rhyolite, gabbro}; granite; diorite; sedimentary; mafic volcanic rocks",felsic,ok
+18270.0,48.0086111111,-121.503611111,"sedimentary; metasedimentary and metavolcanic rocks; sedimentary rocks; Major:{arkose}, Minor:{conglomerate,shale}, Incidental:{coal, siltstone, volcanic}; siltstone",volcanic,ok
+18441.0,30.3333333333,-109.633333333,intermediate igneous extrusive; volcanic: felsic rocks; ignimbrite(s); felsic volcanic rocks,felsic,ok
+19949.0,50.9238888889,-121.421111111,alluvium; sedimentary rocks; marine sedimentary and volcanic rocks; diorite; volcanic: undivided volcanic rocks,volcanic,ok
+21099.0,39.04741,-119.2407,"Major:{granitic,granodiorite,quartz monzonite}, Minor:{plutonic}; granite; volcanic: felsic rocks; sedimentary rocks",felsic,ok
+21538.0,16.2627777778,120.6225,sedimentary rocks,other,ok
+21589.0,29.945,55.8619444444,mafic-felsic mixed volcanic rocks; granite,felsic,ok
+22183.0,48.9947222222,-119.477777778,"sedimentary; Major:{granite}, Minor:{granodiorite,quartz monzonite,tonalite,orthogneiss}, Incidental:{diorite, gabbro, schist, migmatite, syenite}; granite; granodiorite; intermediate intrusive igneous rocks; unclassified volcanic rocks",felsic,ok
+22204.0,48.6144444444,-120.381944444,"plutonic: intermediate rocks; intermediate intrusive igneous rocks; Major:{sandstone}, Minor:{andesite}, Incidental:{siltstone, shale, conglomerate}; sandstone; sedimentary rocks",felsic,ok
+22945.0,31.8708333333,-111.133333333,"Major:{sandstone,siltstone,conglomerate}, Minor:{felsic volcanic,limestone}; volcanic; volcanic: interlayered sedimentary and volcanic rocks; sedimentary rocks",volcanic,ok
+23362.0,-29.0,-67.75,intrusive igneous rocks,other,ok
+25120.0,42.546944444444,24.135833333333,"Major:{sandstone}, Minor{tuff group,andesite,tephrite group}; crystalline metamorphic rocks",felsic,ok
+25121.0,42.75,24.0333333333,"Major:{sandstone}, Minor{tuff group,andesite,tephrite group}; crystalline metamorphic rocks",felsic,ok
+25368.0,-17.245252375894,-70.613077242235,sedimentary rocks,other,ok
+25411.0,0.0,0.0,,unknown,ok
+25444.0,28.6322317118,-109.623084381,sedimentary; shale-sandstone; volcanic rocks,siliciclastic,ok
+25581.0,8.5,-81.7833333333,volcanic: felsic and intermediate rocks; felsic volcanic rocks,felsic,ok
+25845.0,29.858957075158,-109.95820999146,volcanic: felsic rocks; ignimbrite(s); felsic volcanic rocks; acidic igneous extrusive,felsic,ok
+25904.0,46.3561111111,-122.080555556,"pebble breccia; flood basalt(s); mafic volcanic rocks; basalt; basalt; Major:{andesite,basalt}, Incidental:{arkose, shale, dacite, rhyolite, quartz latite}; dacite; volcanic; plutonic: undivided granitic rocks",mafic,ok
+25949.0,44.123348392154,22.114625566226,andesite; volcanic rocks,felsic,ok
+26155.0,49.018733427287,104.12498717579,volcanic and intrusive igneous rocks,volcanic,ok
+26686.0,38.98351,-119.19408,"sedimentary rocks; Major:{granitic,granodiorite,quartz monzonite}, Minor:{plutonic}; granite; sedimentary",felsic,ok
+27162.0,44.3833333333,21.95,limestone; volcanic rocks,carbonate,ok
+27221.0,-26.4983333333,-69.3994444444,sedimentary rocks,other,ok
+27227.0,-26.2444444444,-69.5575,sedimentary rocks,other,ok
+27261.0,-4.0560167339,137.113198169,sedimentary rocks,other,ok
+28230.0,33.4077777778,-110.954722222,"Major:{metasedimentary,schist}, Minor:{conglomerate,carbonate,sedimentary}; volcanic; schist; sedimentary rocks; plutonic: granite",carbonate,ok
+28448.0,-27.3708333333,-66.28,sedimentary rocks,other,ok
+28588.0,10.313948183707,123.71268376923,sedimentary rocks,other,ok
+30204.0,50.6611111111,-120.515,plutonic: intermediate rocks; dioritic intrusive rocks; monzonite; sedimentary rocks,felsic,ok
+30976.0,29.805,-104.4025,"Major:{sandstone mudstone}, Incidental:{limestone}; limestone; sedimentary; sedimentary rocks",carbonate,ok
+32000.0,32.0275,-111.080555556,"sedimentary rocks; Major:{sand,silt,clay}; sedimentary",other,ok
+32440.0,32.10292,-110.06876,"Major:{shale,sandstone,quartzite}, Minor:{limestone,basalt,black shale}, Incidental:{conglomerate}; basalt; quartzite; plutonic: undivided granitic rocks; sedimentary rocks",mafic,ok
+33219.0,31.7705555556,-110.424166667,"Major:{granite,granodiorite,diorite}; granite; volcanic: interlayered sedimentary and volcanic rocks; sedimentary rocks",felsic,ok
+33241.0,64.9872222222,19.7716666667,"meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; volcanic rocks; felsic and intermediate volcanic rocks",felsic,ok
+34975.0,-27.3297222222,-66.6088888889,sedimentary rocks,other,ok
+36818.0,-30.241578766321,-71.102801250415,sedimentary rocks,other,ok
+37441.0,35.3674943,-114.1410656,"sedimentary rocks; Major:{granite,granodiorite,diorite}; granite; plutonic: undivided granitic rocks",felsic,ok
+39272.0,-24.272220317269,-69.068275471678,sedimentary rocks,other,ok
+39273.0,-20.98305202099,-68.673347057618,sedimentary rocks,other,ok
+39275.0,-21.9205555556,-68.8325,sedimentary rocks,other,ok
+43582.0,-8.9656674438947,116.86724497085,mafic-intermediate volcanic rocks,mafic,ok
+43585.0,-0.5,113.183333333,sedimentary rocks,other,ok
+43642.0,34.5811111111,-113.203888889,"sedimentary rocks; Major:{granite,granodiorite,tonalite}, Minor:{quartz diorite,diorite,gabbro}; granite; plutonic: undivided granitic rocks",felsic,ok
+44124.0,32.96821,-107.5417,"Major:{andesite,dacite}; lava; sedimentary; volcanic rocks",volcanic,ok
+46163.0,0.0,0.0,,unknown,ok
+47606.0,42.66526992821,75.579408637148,sedimentary rocks,other,ok
+50863.0,32.67,-110.67,"Major:{conglomerate,sandstone}, Minor:{mudstone,sedimentary breccia,limestone}; limestone; sedimentary; sedimentary rocks",carbonate,ok
+51058.0,32.5230555556,-111.901944444,"volcanic: interlayered sedimentary and volcanic rocks; Major:{granite,granodiorite,diorite}; granite; sedimentary rocks",felsic,ok
+52775.0,33.061157395057,-111.40899089207,"sedimentary rocks; sedimentary; Major:{silt,clay}, Minor:{gravel,sand}",other,ok
+53487.0,32.954448464616,-111.81661605835,"sedimentary rocks; Major:{granite,granodiorite,diorite}; granite; sedimentary",felsic,ok
+54260.0,-22.85357,-69.34511,sedimentary rocks,other,ok
+54489.0,43.0927777778,-111.322777778,"sedimentary; Major:{granodiorite,quartz monzodiorite,granite}, Minor:{diorite,hypabyssal dacite,syenite,hypabyssal rhyolite}; granite; sedimentary rocks",felsic,ok
+55427.0,-17.0455555556,-70.7072222222,sedimentary rocks,other,ok
+55597.0,-16.5352777778,-71.5916666667,intrusive igneous rocks,other,ok
+58352.0,-18.0416666667,178.175,mafic-intermediate volcanic rocks,mafic,ok
+59571.0,40.6875,-117.083333333,"flood basalt(s); mafic volcanic rocks; basalt; basalt; Major:{coarse alluvium,fine alluvium}; volcanic: interlayered sedimentary and volcanic rocks",mafic,ok
+60113.0,40.548538,-117.13252,"volcanic: interlayered sedimentary and volcanic rocks; Major:{siliciclastic,volcanic}, Minor:{carbonate,argillite,chert,basalt}; basalt; sedimentary rocks",mafic,ok
+60164.0,40.6119444444,-117.036111111,"Major:{sandstone,shale,siltstone}, Incidental:{limestone}; limestone; sedimentary; sedimentary rocks",carbonate,ok
+61612.0,0.0,0.0,,unknown,ok
+62248.0,41.5105555556,22.6019444444,crystalline metamorphic rocks,metamorphic,ok
+62514.0,33.0666666667,-110.796111111,"sedimentary; sedimentary rocks; Major:{shale,sandstone,quartzite}, Minor:{limestone,basalt,black shale}, Incidental:{conglomerate}; basalt; quartzite",mafic,ok
+63180.0,35.4833333333,-115.133333333,"metamorphic and undivided crystalline: sedimentary and volcanic gneiss; sedimentary rocks; Major:{gneiss,schist}",volcanic,ok
+63563.0,33.535833,54.544444,sedimentary rocks,other,ok
+64292.0,29.681789169728,115.80344526855,sedimentary rocks,other,ok
+64347.0,39.03,-119.18,"sedimentary; Major:{coarse alluvium,fine alluvium}; sedimentary rocks",other,ok
+64759.0,29.9997222222,114.837777778,sedimentary rocks,other,ok
+68257.0,46.314033189009,23.169895112514,"crystalline metamorphic rocks; Major:{conglomerate}, Minor{sandstone,limestone,marl}",metamorphic,ok
+68700.0,32.5891666667,-112.053888889,"sedimentary rocks; sedimentary; Major:{arenite,conglomerate}, Minor:{limestone}; limestone",carbonate,ok
+69552.0,9.8035347634699,122.45720684612,sedimentary rocks,other,ok
+86332.0,40.2166666667,-120.783333333,"intrusive igneous rocks; Major:{granodiorite}, Minor:{granite,tonalite,quartz diorite,quartz monzonite}, Incidental:{diorite, quartz syenite, quartz monzodiorite, gabbro, trondhjemite, monzonite, monzodiorite, pegmatite, alaskite, aplite}; granite; granodiorite; plutonic: undivided granitic rocks",felsic,ok
+107252.0,46.0108333333,-112.48,"Major:{granite}; plutonic: undivided granitic rocks; intrusive igneous rocks; Major:: {biotite-hornblende granodiorite, biotite-hornblende monzogranite, tonalite}",felsic,ok
+108197.0,-20.0447222222,-69.2597222222,intermediate-felsic volcanic rocks,felsic,ok
+114858.0,37.4063888889,-108.088333333,"Major:{arkose,siltstone,conglomerate}, Minor:{clastic}; sandstone; sedimentary; sandstone-conglomerate",siliciclastic,ok
+122228.0,-31.7138888889,-70.4888888889,volcanic rocks,volcanic,ok
+122804.0,50.480831312986,-121.0142405168,plutonic: intermediate rocks; alluvium; granodioritic intrusive rocks; granodiorite; intrusive igneous rocks,felsic,ok
+122928.0,50.558838888889,6.1339666666667,"Argillaceous slate, banded slate, sandstone, phyllite, quartzite; metamorphic; Major:{quartzite}, Minor{shale/slate,meta-granite group}; sedimentary rocks",siliciclastic,ok
+122945.0,-9.797208,160.022208,mafic volcanic rocks,mafic,ok
+122950.0,-21.65937462058,119.97837714324,igneous felsic intrusive; granite; rhyolite; intrusive igneous rocks,felsic,ok
+122951.0,-21.788877237102,119.87376717439,dacite; igneous mafic volcanic; basalt; mafic-ultramafic volcanic rocks,mafic,ok
+123464.0,35.3072222222,99.7886111111,sedimentary rocks,other,ok
+127444.0,43.00348378007,106.85218868256,mafic-felsic mixed volcanic rocks,felsic,ok
+131133.0,41.1218,41.9498,sedimentary and volcanic rocks,volcanic,ok
+132210.0,48.23,-121.5658,"phyllite, low grade; phyllite; Major:{phyllite}, Minor:{schist}, Incidental:{siltstone, greenstone, argillite, chert, granulite, gabbro, graywacke, limestone, quartzite, conglomerate, slate, marble}; limestone; schist; phyllite,semipelite; sedimentary",metamorphic,ok
+132814.0,19.7,-97.8166666667,"acidic igneous extrusive; sedimentary; carbonate,shale",carbonate,ok
+133117.0,-22.5333333333,-69.9166666667,intrusive igneous rocks,other,ok
+134565.0,29.4694444444,90.0277777778,felsic volcanic rocks,felsic,ok
+134575.0,29.6294444444,91.5988888889,sedimentary rocks,other,ok
+134576.0,29.7111111111,91.8388888889,sedimentary rocks,other,ok
+134676.0,31.1416666667,117.283333333,intermediate volcanic rocks,volcanic,ok
+134936.0,26.158205559589,100.18367765932,sedimentary rocks,other,ok
+135237.0,25.1852777778,116.4075,sedimentary rocks,other,ok
+135329.0,29.5111111111,90.0,felsic volcanic rocks,felsic,ok
+136123.0,45.3563888889,-113.993611111,"Major:: {siltite, metasandstone, argillite, argillaceous siltite}; Major:{quartzite,metasiltstone}, Minor:{argillite,carbonate}; carbonate; sedimentary rocks; quartzite;siltite;argillite; argillite; sedimentary",siliciclastic,ok
+142172.0,29.5,91.4055555556,sedimentary rocks,other,ok
+142173.0,30.0,98.5,sedimentary rocks,other,ok
+142174.0,31.2333333333,97.8666666667,sedimentary rocks,other,ok
+142175.0,31.6833333333,97.1333333333,sedimentary rocks,other,ok
+142183.0,31.1666666667,97.8583333333,sedimentary rocks,other,ok
+142185.0,30.4666666667,98.5,sedimentary rocks,other,ok
+142186.0,31.4833333333,97.35,sedimentary rocks,other,ok
+142187.0,29.9166666667,98.5833333333,sedimentary rocks,other,ok
+142189.0,29.4916666667,90.9222222222,sedimentary rocks,other,ok
+142195.0,31.25,97.7333333333,sedimentary rocks,other,ok
+142196.0,30.0333333333,98.5166666667,sedimentary rocks,other,ok
+142198.0,32.15,96.7666666667,sedimentary rocks,other,ok
+142686.0,42.0666666667,92.5333333333,sedimentary rocks,other,ok
+142687.0,42.1166666667,92.6166666667,sedimentary rocks,other,ok
+142688.0,42.3583333333,94.7555555556,sedimentary rocks,other,ok
+142689.0,42.1666666667,92.85,sedimentary rocks,other,ok
+142690.0,42.2,92.9666666667,sedimentary rocks,other,ok
+142691.0,42.5333333333,91.9166666667,sedimentary rocks,other,ok
+142692.0,28.038611111111,99.989722222222,sedimentary rocks,other,ok
+142695.0,42.25,112.5,intrusive igneous rocks,other,ok
+142696.0,49.425,117.298888889,sedimentary rocks,other,ok
+142697.0,32.0666666667,119.1,intermediate volcanic rocks,volcanic,ok
+142698.0,50.1313888889,125.786111111,intrusive igneous rocks,other,ok
+142699.0,29.8172222222,115.4525,sedimentary rocks,other,ok
+142700.0,35.3166666667,111.666666667,intermediate-felsic volcanic rocks,felsic,ok
+142703.0,29.65,87.479166666667,intrusive igneous rocks,other,ok
+143718.0,-32.7227777778,148.195,basalt; volcanic; intermediate-felsic volcanic rocks; sedimentary; metamorphic,mafic,ok
+143892.0,-32.9669601279,147.758734576,sedimentary rocks; sandstone; igneous felsic volcanic; felsic,felsic,ok
+146855.0,39.1438888889,46.1377777778,granite group; intrusive igneous rocks,felsic,ok
+155764.0,50.6166666667,19.3666666667,sedimentary rocks,other,ok
+155867.0,-38.25,-70.5833333333,volcanic rocks,volcanic,ok
+155898.0,29.6833333333,88.9333333333,sedimentary rocks,other,ok
+155979.0,8.63333333333,-82.2,volcanic: felsic and intermediate rocks; felsic volcanic rocks,felsic,ok
+158068.0,31.112474953211,-110.43371371659,conglomerate; sedimentary; ignimbrite(s); felsic volcanic rocks,siliciclastic,ok
+158696.0,23.4333333333,121.45,mafic-felsic-intermediate dominated volcanic rocks,felsic,ok
+162015.0,47.0258333333,-112.36,"sedimentary; mafic-intermediate volcanic rocks; limestone,shale,argillite,quartzite,dolomite,siltstone; turbidite; Major:{quartzite,argillite,metasiltstone}, Minor:{limestone}; limestone; Major:: {argillite, siltite, feldspathic metasandstone}; Minor:: {dolomitic limestone}",carbonate,ok
+183025.0,40.615907067831,-111.40513630613,"Major:{andesite}; volcanic; limestone,shale,sandstone,dolomite,siltstone; volcanic: interlayered sedimentary and volcanic rocks; latite",felsic,ok
+183459.0,39.8580555556,-112.125,"Major:{mixed clastic,coarse alluvium}, Minor:{carbonate}, Incidental:{felsic volcanic}; volcanic; salt; sedimentary; sedimentary rocks",felsic,ok
+185556.0,22.815784307634,103.02956451205,sedimentary rocks,other,ok
+185558.0,22.8833333333,102.583333333,sedimentary rocks,other,ok
+187465.0,18.9166666667,102.933333333,crystalline metamorphic rocks,metamorphic,ok
+188053.0,-21.00168271738,-68.808583068848,sedimentary rocks,other,ok
+189175.0,-20.9927777778,-68.6372222222,sedimentary rocks,other,ok
+191095.0,-6.4,-49.6166666667,"aplite, syenogranite, granite; volcanic rocks",felsic,ok
+191199.0,-23.8883333333,-69.3141666667,sedimentary rocks,other,ok
+191200.0,-23.410833,-68.818888,sedimentary rocks,other,ok
+191530.0,0.0,0.0,,unknown,ok
+191536.0,0.0,0.0,,unknown,ok
+191823.0,28.033333,-113.56666,sedimentary rocks; sandstone; sedimentary,siliciclastic,ok
+191957.0,53.4333333333,96.6666666667,intrusive igneous rocks,other,ok
+191971.0,-7.01666666667,-78.3166666667,sedimentary rocks,other,ok
+191972.0,-7.0383782713972,-78.321445428196,sedimentary rocks,other,ok
+191973.0,-6.915,-78.3594444444,sedimentary rocks,other,ok
+192115.0,-39.1833333333,-70.6333333333,intrusive igneous rocks,other,ok
+194183.0,46.15,22.8,"mudstone-carbonate-sandstone-conglomerate; Major:{andesite}, Minor{rhyolite,rhyodacite}",carbonate,ok
+194553.0,38.96,-119.27,"plutonic: undivided granitic rocks; Major:{volcanic,carbonate,clastic}; volcanic; sedimentary rocks",volcanic,ok
+194690.0,34.55,49.2666666667,sedimentary rocks,other,ok
+194728.0,32.7508333333,-110.475833333,"sedimentary rocks; Major:{granite,granodiorite,diorite}; granite; plutonic: felsic and intermediate rocks",felsic,ok
+194773.0,1.24166666667,-76.6666666667,granite; sedimentary rocks,felsic,ok
+195133.0,54.9463888889,-126.156666667,volcanic rocks; quartz dioritic intrusive rocks; granodiorite,volcanic,ok
+195134.0,55.1944444444,-126.315277778,"volcanic: bimodal rocks (mafic and alkaline mafic); volcanic rocks; argillite, greywacke, wacke, conglomerate turbidites; shale; ash",volcanic,ok
+195392.0,-13.766666,-75.716666,intrusive igneous rocks,other,ok
+195671.0,57.125,-131.45,volcanic rocks; marine sedimentary and volcanic rocks; volcanic; volcanic: undivided volcanic rocks,volcanic,ok
+195846.0,-20.175,-69.0833333333,intermediate-felsic volcanic rocks,felsic,ok
+196016.0,-19.8097222222,-69.2805555556,sedimentary rocks,other,ok
+196390.0,62.1052777778,-141.215833333,"Igneous; diorite; volcanic: undivided volcanic rocks; monzonite, quartz monzonite, granodiorite, diorite, tonalite, granitoid rocks; volcanic rocks",felsic,ok
+196445.0,56.5116666667,-158.384722222,sedimentary rocks; Unconsolidated; volcanic; sedimentary,volcanic,ok
+196596.0,62.1977777778,-142.702777778,"mafic volcanic rocks; Igneous; granodiorite; monzonite, quartz monzonite, granodiorite, diorite, tonalite, granitoid rocks",felsic,ok
+198360.0,60.36,-154.32,"sedimentary rocks; dacite, latite, andesite, rhyolite and related pyroclastic rocks; plutonic: undivided granitic rocks; Igneous; mafic; volcanic",felsic,ok
+198741.0,59.0194444444,-137.083333333,Metamorphic; conglomerate; sedimentary rocks; sedimentary,metamorphic,ok
+199212.0,58.99,-136.102777778,Metamorphic; schist; sedimentary,metamorphic,ok
+199265.0,62.2038888889,-142.844722222,"mafic volcanic rocks; monzonite, quartz monzonite, granodiorite, diorite, tonalite, granitoid rocks; Igneous; granodiorite; plutonic: undivided granitic rocks",felsic,ok
+199343.0,59.8969444444,-155.294722222,Unconsolidated; ash; volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+199526.0,55.6297222222,-160.67,Igneous; diorite; sedimentary rocks; volcanic: mafic rocks,felsic,ok
+199759.0,64.1333333333,-157.05,"Igneous; basalt; mafic volcanic rocks; volcanic: mafic rocks; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt or metamorphosed equivalent",mafic,ok
+200298.0,63.5208333333,-141.323611111,"Unconsolidated; sedimentary rocks; volcanic: felsic rocks; schist, gneiss, migmatite, diatexite, tectonite, mylonite, granulite",felsic,ok
+203397.0,-33.4666666667,149.0,sedimentary rocks; limestone; ash; igneous mafic volcanic; basalt,mafic,ok
+203635.0,0.0,0.0,,unknown,ok
+203679.0,56.4675,-130.268888889,marine sedimentary and volcanic rocks; felsic; volcanic: undivided volcanic rocks; volcanic rocks,volcanic,ok
+206431.0,57.6538888889,-130.243611111,"volcanic: undivided volcanic rocks; intrusive rocks, undivided; volcanic rocks",volcanic,ok
+203680.0,56.5,-130.266666667,marine sedimentary and volcanic rocks; felsic; volcanic: undivided volcanic rocks; volcanic rocks,volcanic,ok
+203681.0,56.6666666667,-131.1,volcanic rocks; volcanic: undivided volcanic rocks; marine sedimentary and volcanic rocks; felsic,volcanic,ok
+203737.0,-5.9666666,150.38333,intrusive igneous rocks,other,ok
+203740.0,-5.1666666,151.71666,intrusive igneous rocks,other,ok
+204650.0,54.936212607143,61.234102249146,"Major:{carbonates}, Minor{sandstone,schist group,basalt group}; sedimentary rocks",mafic,ok
+204651.0,54.9963888889,61.0880555556,"Major:{carbonates}, Minor{schist group,basalt group,tuff group}; intrusive igneous rocks",mafic,ok
+205026.0,38.701,46.705,volcanic; basalt; mafic-felsic mixed volcanic rocks,volcanic,ok
+205449.0,-14.229609307099,-49.372732004979,"chlorite schist, Ultramafito, quartz schist; medium-high grade unclassified metamorphic rock",metamorphic,ok
+205740.0,53.9166666667,157.383333333,crystalline metamorphic rocks,metamorphic,ok
+205741.0,0.0,0.0,,unknown,ok
+205742.0,67.8666666667,66.3333333333,"sandstone, siltstone, shale; marine fossils; ; orthogneiss/paragneiss; limestone",siliciclastic,ok
+205743.0,54.9611111111,61.1255555556,"Major:{carbonates}, Minor{sandstone,schist group,basalt group}; intrusive igneous rocks",mafic,ok
+205745.0,52.9333333333,96.7833333333,intrusive igneous rocks,other,ok
+205747.0,29.88,55.8994444444,volcanic; mafic-felsic mixed volcanic rocks,volcanic,ok
+205749.0,30.4205555556,55.1672222222,basalt; mafic-felsic mixed volcanic rocks,mafic,ok
+205750.0,28.9,57.2333333333,"limestone; deformed sedimentary, metamorphic, and igneous rocks",carbonate,ok
+205756.0,48.7083333333,98.3416666667,intrusive igneous rocks,other,ok
+205760.0,46.6833333333,104.883333333,intermediate-felsic volcanic rocks,felsic,ok
+205761.0,44.0,106.166666667,sedimentary rocks,other,ok
+205763.0,48.7166666667,98.3416666667,intrusive igneous rocks,other,ok
+205764.0,-12.6072222222,27.8819444444,sedimentary rocks; plutonic and metamorphic,metamorphic,ok
+205766.0,-3.15833333333,119.483333333,mafic-intermediate volcanic rocks,mafic,ok
+205767.0,0.951944444444,121.770555556,mafic-intermediate volcanic rocks,mafic,ok
+205768.0,0.345277777778,123.402222222,mafic-intermediate volcanic rocks,mafic,ok
+205769.0,0.516666666667,123.216666667,mafic-intermediate volcanic rocks,mafic,ok
+205772.0,-0.611666666667,128.091666667,sedimentary rocks,other,ok
+205773.0,-0.516666666667,127.583333333,mafic-intermediate volcanic rocks,mafic,ok
+205784.0,-7.22,106.56,sedimentary rocks,other,ok
+205785.0,-1.7,101.25,mafic volcanic rocks,mafic,ok
+205792.0,5.03333333333,95.95,crystalline metamorphic rocks,metamorphic,ok
+205795.0,42.3422222222,26.2958333333,"Major:{sandstone}, Minor{tuff group,andesite,tephrite group}; sedimentary rocks",felsic,ok
+205796.0,42.35097,24.213907,"Major:{granodiorite}, Minor{diorite,monzodiorite,gabbro group}; crystalline metamorphic rocks",felsic,ok
+205797.0,42.3552777778,24.3391666667,"Major:{conglomerate}, Minor{sandstone,claystone,sand}; sedimentary rocks",siliciclastic,ok
+205798.0,41.9741666667,27.5344444444,"Major:{marble}, Minor{quartzite,mica schist,greenschist}; metamorphic; crystalline metamorphic rocks",metamorphic,ok
+205799.0,42.4833333333,23.4166666667,"Major:{granodiorite}, Minor{diorite,monzodiorite,gabbro group}; crystalline metamorphic rocks",felsic,ok
+205844.0,-17.5333333333,-51.6,"sand, clay, gravel; sedimentary rocks",other,ok
+205845.0,-37.5736111111,148.008611111,sandstone; sedimentary; metamorphic; sedimentary rocks,siliciclastic,ok
+205846.0,-37.6113888889,142.6075,regolith; sedimentary rocks; volcanic; tuff,volcanic,ok
+205847.0,-32.7183333333,140.208888889,"igneous felsic intrusive; granite; granodiorite; sandstone,shale,limestone,siltstone,tillite,dolomite",felsic,ok
+205849.0,-20.890332290252,120.10404179858,granite; mafic-ultramafic volcanic rocks; igneous mafic volcanic; basalt,mafic,ok
+205854.0,45.9833333333,23.0333333333,"mudstone-carbonate-sandstone-conglomerate; Major:{andesite}, Minor{rhyolite,rhyodacite}",carbonate,ok
+205857.0,-28.6333333333,-69.8833333333,intrusive igneous rocks,other,ok
+205858.0,-22.9666666667,-69.0583333333,sedimentary rocks,other,ok
+205859.0,-27.7833333333,-69.2333333333,intrusive igneous rocks,other,ok
+205860.0,-22.975463130546,-69.061440941728,sedimentary rocks,other,ok
+205861.0,-21.9538888889,-68.7355555556,sedimentary rocks,other,ok
+205862.0,-20.9016666667,-68.8852777778,sedimentary rocks,other,ok
+205864.0,-22.9877777778,-69.0763888889,sedimentary rocks,other,ok
+205922.0,-31.3,-69.3666666667,sedimentary rocks,other,ok
+205923.0,-27.2666666667,-66.65,sedimentary rocks,other,ok
+205926.0,-27.4,-66.55,sedimentary rocks,other,ok
+205927.0,-27.2833333333,-66.5666666667,sedimentary rocks,other,ok
+205928.0,-26.3,-67.9,sedimentary rocks,other,ok
+205929.0,-27.3833333333,-66.2166666667,sedimentary rocks,other,ok
+205930.0,-30.0,-69.1666666667,sedimentary rocks,other,ok
+205931.0,-31.963613491568,-70.053673983493,sedimentary rocks,other,ok
+205932.0,-30.9333333333,-69.6333333333,sedimentary and volcanic rocks,volcanic,ok
+205933.0,-31.2416666667,-70.1766666667,unclassified volcanic rocks,volcanic,ok
+205935.0,-18.1066666667,178.178333333,mafic-intermediate volcanic rocks,mafic,ok
+205936.0,39.8116666667,25.1922222222,flow(s); intermediate volcanic rocks; rhyodacite,volcanic,ok
+205937.0,41.019946,25.746143,"Major:{gneiss}, Minor{phyllite,amphibolite,schist group}; metamorphic; felsic volcanic rocks",metamorphic,ok
+205938.0,41.089063397424,23.130098848306,"Major:{conglomerate}, Minor{limestone,marl,clay}; crystalline metamorphic rocks",carbonate,ok
+205939.0,18.5166666667,-70.25,volcanic: interlayered sedimentary and volcanic rocks; mafic-felsic mixed volcanic rocks,volcanic,ok
+205942.0,-22.4666666667,-68.9666666667,sedimentary rocks,other,ok
+205943.0,-23.3,-69.2333333333,sedimentary rocks,other,ok
+205944.0,-22.37964284915,-68.914602851868,sedimentary rocks,other,ok
+205945.0,-21.9166666667,-69.8333333333,sedimentary rocks,other,ok
+205947.0,-22.4166666667,-68.95,sedimentary rocks,other,ok
+205949.0,-32.4075,-70.425,intrusive igneous rocks,other,ok
+205950.0,-46.0333333333,-72.15,volcanic rocks,volcanic,ok
+205951.0,-18.5933333333,-69.45,intermediate-felsic volcanic rocks,felsic,ok
+205952.0,-28.5,-70.3,intrusive igneous rocks,other,ok
+205978.0,31.6591666667,53.8497222222,sedimentary rocks; granite,felsic,ok
+205979.0,31.5763888889,53.8233333333,limestone; sedimentary rocks,carbonate,ok
+205981.0,46.9897222222,74.9872222222,intrusive igneous rocks,other,ok
+205982.0,49.1591666667,75.6008333333,intermediate-felsic volcanic rocks,felsic,ok
+205983.0,52.3333333333,62.1833333333,clay; sedimentary rocks,other,ok
+205984.0,50.152366,73.004547,intermediate-felsic volcanic rocks,felsic,ok
+205985.0,51.846900508083,74.291111826897,sedimentary rocks,other,ok
+205986.0,19.3833333333,-100.683333333,sedimentary and volcanic rocks; acidic igneous extrusive; volcanic: mafic rocks,volcanic,ok
+205987.0,19.1166666667,-102.916666667,unclassified volcanic rocks; conglomerate; sedimentary,volcanic,ok
+205988.0,19.0013888889,-101.955555556,acidic igneous intrusive; plutonic: undivided granitic rocks; sedimentary and volcanic rocks,volcanic,ok
+205989.0,15.3188888889,-92.3305555556,gneiss; plutonic: undivided granitic rocks; intrusive igneous rocks,metamorphic,ok
+205991.0,27.0516666667,-108.341111111,volcanic: felsic rocks; acidic igneous extrusive; ignimbrite(s); felsic volcanic rocks,felsic,ok
+205992.0,26.2522222222,-107.329444444,acidic igneous intrusive; volcanic: felsic rocks; ignimbrite(s); felsic volcanic rocks,felsic,ok
+205993.0,19.45,-96.85,volcanic: mafic rocks; sedimentary and volcanic rocks; basic igneous extrusive,mafic,ok
+205994.0,31.0555555556,-110.420833333,sedimentary; plutonic: undivided granitic rocks; ignimbrite(s); felsic volcanic rocks,felsic,ok
+205996.0,25.6680555556,-107.351111111,acidic igneous intrusive; volcanic: felsic rocks; ignimbrite(s); felsic volcanic rocks,felsic,ok
+205998.0,26.7236111111,-108.233333333,intrusive igneous rocks; plutonic: undivided granitic rocks; metavolcanic,volcanic,ok
+206003.0,-5.715,-79.2069444444,intrusive igneous rocks,other,ok
+206004.0,-13.9291666667,-75.35,sedimentary rocks,other,ok
+206005.0,-17.097725754867,-70.627246168525,sedimentary rocks,other,ok
+206008.0,-14.9083333333,-71.3133333333,volcanic rocks,volcanic,ok
+206009.0,-6.08333333333,-79.2833333333,sedimentary rocks,other,ok
+206012.0,44.095,22.0941666667,andesite; volcanic rocks,felsic,ok
+206013.0,43.2333333333,20.7166666667,volcaniclastic; intrusive igneous rocks,volcanic,ok
+206132.0,45.869722222222,22.870833333333,"Major:{conglomerate}, Minor{sandstone,limestone,marl}; mudstone-carbonate-sandstone-conglomerate",carbonate,ok
+206134.0,44.75,21.95,"Major:{conglomerate}, Minor{sandstone,limestone,marl}; sedimentary rocks",carbonate,ok
+206135.0,45.5666666667,22.2333333333,"Major:{gravel}, Minor{sand,clay}; sedimentary rocks",other,ok
+206136.0,46.2666666667,22.15,"Major:{marble}, Minor{quartzite,meta-tuff group,shale/slate}; metamorphic; sedimentary rocks",volcanic,ok
+206137.0,44.75,22.0,"crystalline metamorphic rocks; Major:{gneiss}, Minor{amphibolite,mica schist,marble}; metamorphic",metamorphic,ok
+206138.0,45.55,22.35,"Major:{gravel}, Minor{sand,clay}; sedimentary rocks",other,ok
+206139.0,46.15,22.85,"mudstone-carbonate-sandstone-conglomerate; Major:{andesite}, Minor{rhyolite,rhyodacite}",carbonate,ok
+206140.0,46.0611111111,22.9666666667,"mudstone-carbonate-sandstone-conglomerate; Major:{andesite}, Minor{rhyolite,rhyodacite}",carbonate,ok
+206141.0,46.1666666667,22.9,"mudstone-carbonate-sandstone-conglomerate; Major:{andesite}, Minor{rhyolite,rhyodacite}",carbonate,ok
+206142.0,50.4666666667,19.6166666667,sedimentary rocks,other,ok
+206143.0,50.1166666667,19.95,"sedimentary rocks; Major:{clay}, Minor{sand,silt,limestone}",carbonate,ok
+206145.0,58.9666666667,152.683333333,sedimentary rocks,other,ok
+206147.0,66.6,164.566666667,"sandstone, siltstone, shale; marine fossils; ; volcanic; intrusive igneous rocks",siliciclastic,ok
+206148.0,66.4833333333,164.733333333,"sedimentary rocks; sandstone, siltstone, shale, coal; plant fossils; ; volcanic",siliciclastic,ok
+206152.0,54.2833333333,157.666666667,sedimentary rocks,other,ok
+206153.0,59.7166666667,150.316666667,intrusive igneous rocks,other,ok
+206154.0,59.25,153.766666667,intrusive igneous rocks,other,ok
+206156.0,53.75,126.616666667,intrusive igneous rocks,other,ok
+206157.0,54.05,89.5666666667,sedimentary rocks,other,ok
+206158.0,53.2333333333,60.5666666667,"Major:{limestone}, Minor{shale/slate,rhyolite,andesite group}; sedimentary rocks",felsic,ok
+206159.0,53.0875,57.4683333333,"Major:{siliclastics, consolidated}, Minor{schist group,basalt group,dacite}; sedimentary rocks",felsic,ok
+206160.0,54.7166666667,61.0666666667,limestone; intrusive igneous rocks,carbonate,ok
+206163.0,41.0977777778,70.1258333333,intrusive igneous rocks,other,ok
+206167.0,40.7986111111,69.7061111111,sedimentary and volcanic rocks,volcanic,ok
+206169.0,40.7769444444,69.7791666667,intrusive igneous rocks,other,ok
+206170.0,-9.61194,160.16424,mafic volcanic rocks,mafic,ok
+206171.0,-9.36666666667,159.733333333,mafic volcanic rocks,mafic,ok
+206172.0,-9.43333333333,159.833333333,mafic volcanic rocks,mafic,ok
+206173.0,-8.08333333333,157.516666667,mafic-intermediate volcanic rocks,mafic,ok
+206176.0,66.525,19.8136111111,"Major:{granodiorite-diorite group}, Minor{granite,syenite-monzonite group,meta-granodiorite-diorite group}; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; Metagreywacke, mica schist, graphite- and/or sulphide-bearing schist, paragneiss, migmatite, quartzite, amphibolite; schist; paragneiss",siliciclastic,ok
+206180.0,10.1333333333,124.25,mafic-intermediate volcanic rocks,mafic,ok
+206190.0,11.8166666667,125.25,sedimentary rocks,other,ok
+206191.0,9.43333333333,122.7,sedimentary rocks,other,ok
+206195.0,9.58333333333,122.566666667,sedimentary rocks,other,ok
+206196.0,9.56666666667,122.633333333,sedimentary rocks,other,ok
+206199.0,13.5,121.883333333,sedimentary rocks,other,ok
+206202.0,13.424352095715,121.98377421588,sedimentary rocks,other,ok
+206205.0,9.6002021352618,125.55099008653,sedimentary rocks,other,ok
+206207.0,7.55,126.166666667,sedimentary rocks,other,ok
+206208.0,7.59166666667,126.066666667,sedimentary rocks,other,ok
+206210.0,7.35,126.016666667,sedimentary rocks,other,ok
+206211.0,6.56666666667,124.4,sedimentary rocks,other,ok
+206212.0,40.8566666667,39.6530555556,sedimentary and volcanic rocks,volcanic,ok
+206213.0,41.8333333333,27.6783333333,plutonic; crystalline metamorphic rocks,metamorphic,ok
+206214.0,41.9333333333,27.45,crystalline metamorphic rocks; meta-sediment group; metamorphic,metamorphic,ok
+206217.0,41.9113888889,27.3166666667,crystalline metamorphic rocks,metamorphic,ok
+206218.0,41.2229,41.9574,sedimentary and volcanic rocks,volcanic,ok
+206219.0,39.2666666667,39.6,greenschist; metamorphic; intermediate volcanic rocks,metamorphic,ok
+206220.0,40.9261111111,35.44,sedimentary and volcanic rocks,volcanic,ok
+206222.0,39.630195375142,27.106821860005,plutonic; felsic volcanic rocks,felsic,ok
+206223.0,40.5775,40.9045,intrusive igneous rocks,other,ok
+206293.0,38.9219444444,46.1883333333,granite group; intrusive igneous rocks,felsic,ok
+206294.0,41.1047222222,44.8566666667,diorite; sedimentary and volcanic rocks,felsic,ok
+206295.0,39.1,46.4666666667,andesite tuffite; sedimentary and volcanic rocks,felsic,ok
+206296.0,39.375,46.0227777778,sedimentary rocks,other,ok
+206299.0,41.8,22.8666666667,crystalline metamorphic rocks,metamorphic,ok
+206300.0,41.3666666667,22.8166666667,crystalline metamorphic rocks,metamorphic,ok
+206301.0,41.6166666667,22.8833333333,metamorphic; crystalline metamorphic rocks,metamorphic,ok
+206303.0,-2.01666666667,146.883333333,mafic-felsic mixed volcanic rocks,felsic,ok
+206304.0,-2.11666666667,146.95,mafic-felsic mixed volcanic rocks,felsic,ok
+206306.0,-5.01666666667,141.216666667,sedimentary rocks,other,ok
+206307.0,-5.06666666667,141.333333333,sedimentary rocks,other,ok
+206308.0,-6.75,146.283333333,sedimentary and volcanic rocks,volcanic,ok
+206309.0,-9.3,147.583333333,sedimentary and volcanic rocks,volcanic,ok
+206311.0,-24.1333333333,-66.6,intermediate-felsic volcanic rocks,felsic,ok
+206312.0,-25.1444444444,-66.7625,intermediate-felsic volcanic rocks,felsic,ok
+206313.0,-24.2,-65.8666666667,sedimentary rocks,other,ok
+206314.0,-24.5666666667,-67.7833333333,intermediate-felsic volcanic rocks,felsic,ok
+206315.0,-24.5833333333,-67.7333333333,intermediate-felsic volcanic rocks,felsic,ok
+206317.0,-32.1377777778,-69.4391666667,sedimentary rocks,other,ok
+206318.0,-32.25,-69.4333333333,sedimentary rocks,other,ok
+206319.0,-37.4325,-70.4666666667,volcanic rocks,volcanic,ok
+206321.0,-32.4166666667,-69.0833333333,sedimentary rocks,other,ok
+206322.0,-32.4833333333,-69.1,sedimentary rocks,other,ok
+206323.0,40.0166666667,46.75,sedimentary and volcanic rocks,volcanic,ok
+206324.0,40.6333333333,45.85,"sedimentary and volcanic rocks; Major:{sandstone}, Minor{shale/slate,limestone}",volcanic,ok
+206325.0,40.575991933259,45.803415911642,sedimentary and volcanic rocks,volcanic,ok
+206326.0,40.5134,46.0806,sedimentary and volcanic rocks,volcanic,ok
+206328.0,22.1166666667,-80.0333333333,sedimentary; mafic volcanic rocks,mafic,ok
+206329.0,20.25,-76.8666666667,sedimentary; carbonate,carbonate,ok
+206330.0,9.69722222222,-83.3583333333,sedimentary rocks; sedimentary,other,ok
+206331.0,9.36944444444,-82.9763888889,plutonic: undivided granitic rocks; felsic volcanic rocks,felsic,ok
+206332.0,-28.053341290713,16.895548619208,plutonic and metamorphic; intrusive igneous rocks,metamorphic,ok
+206333.0,-28.697125,17.887326,intrusive igneous rocks; plutonic and metamorphic,metamorphic,ok
+206334.0,23.7083333333,95.5166666667,sedimentary rocks,other,ok
+206377.0,49.845,-91.085,tonalite to granodiorite-foliated to massive; mafic-ultramafic volcanic rocks; tholeiite,felsic,ok
+206378.0,47.0430555556,-84.6152777778,"intermediate volcanic rocks; basaltic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks, related migmatites; volcanic: mafic rocks",mafic,ok
+206380.0,48.2527777778,-79.0686111111,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+206381.0,46.085,-60.3541666667,volcanic: undivided volcanic rocks; rhyolite; sedimentary rocks,volcanic,ok
+206382.0,62.3416666667,-136.691666667,"Major: {granodiorite,diorite}; plutonic: intermediate rocks; intrusive igneous rocks; monzonite, quartz monzonite, granodiorite, diorite, tonalite, granitoid rocks",felsic,ok
+206383.0,62.7361111111,-138.829166667,"plutonic: intermediate rocks; intrusive igneous rocks; Major: {tonalite},Minor: {granite}; monzonite, quartz monzonite, granodiorite, diorite, tonalite, granitoid rocks",felsic,ok
+206384.0,62.4166666667,-137.616666667,"plutonic: syenite, monzogranite; syenite, lamprophyre, minette, foid syenite; Major: {syenite}; intrusive igneous rocks",felsic,ok
+206394.0,49.2555555556,-125.983333333,"intrusive rocks, undivided; granodiorite; sedimentary; mafic volcanic rocks",felsic,ok
+206395.0,49.5125,-123.36777777778,marine sedimentary and volcanic rocks; andesite,volcanic,ok
+206396.0,53.6811111111,-127.178055556,calc-alkaline volcanic rocks; basalt; sedimentary; sedimentary rocks,volcanic,ok
+206397.0,57.06,-126.759444444,marine sedimentary and volcanic rocks; volcanic; plutonic: granite; volcanic rocks,volcanic,ok
+206398.0,57.0058333333,-126.750833333,"conglomerate, coarse clastic sedimentary rocks; conglomerate; volcanic; volcanic rocks; volcanic: undivided volcanic rocks",volcanic,ok
+206399.0,51.313333333333,-121.08888888889,mafic volcanic rocks; syenitic to monzonitic intrusive rocks; syenite; volcanic: mafic rocks,mafic,ok
+206400.0,50.450727661956,-121.03843802177,quartz monzonitic intrusive rocks; granodiorite; plutonic: intermediate rocks; intrusive igneous rocks,felsic,ok
+206402.0,51.1044444444,-123.4,volcanic rocks; plutonic: intermediate rocks; mixed volcanic and sedimentary rocks; felsic,volcanic,ok
+206403.0,57.3641666667,-130.990277778,undivided volcanic rocks; mafic; alluvium; volcanic: undivided volcanic rocks; volcanic rocks,volcanic,ok
+206419.0,50.643333333333,-120.42444444444,sedimentary rocks; dioritic intrusive rocks; diorite; sedimentary,felsic,ok
+206420.0,50.6141666667,-120.530833333,basaltic volcanic rocks; mafic; volcanic: alkaline rocks; unclassified volcanic rocks,mafic,ok
+206423.0,49.6483333333,-120.526111111,dioritic intrusive rocks; diorite; volcanic: alkaline rocks; unclassified volcanic rocks,volcanic,ok
+206425.0,50.4941666667,-120.996666667,granodioritic intrusive rocks; granodiorite; plutonic: intermediate rocks; intrusive igneous rocks,felsic,ok
+206428.0,49.2933333333,-120.759444444,lower amphibolite/kyanite grade metamorphic rocks; diorite; volcanic: alkaline rocks; unclassified volcanic rocks,volcanic,ok
+206429.0,53.7583333333,-127.215,sedimentary; sedimentary rocks; calc-alkaline volcanic rocks; basalt,volcanic,ok
+206430.0,49.8833333333,-117.366666667,intrusive igneous rocks; feldspar porphyritic intrusive rocks; latite; plutonic: intermediate rocks,felsic,ok
+206432.0,54.75,-126.333333333,granodioritic intrusive rocks; granodiorite; volcanic: bimodal rocks (mafic and alkaline mafic); volcanic rocks,felsic,ok
+206434.0,58.4838888889,-129.107222222,plutonic: intermediate rocks; volcanic rocks; alluvium; undivided volcanic rocks; basalt,volcanic,ok
+206435.0,52.5180555556,-122.2875,plutonic: intermediate rocks; tonalite intrusive rocks; tonalite; sedimentary rocks,felsic,ok
+206436.0,50.430071782043,-120.99992603737,quartz monzonitic intrusive rocks; granodiorite; plutonic: intermediate rocks; intrusive igneous rocks,felsic,ok
+206437.0,54.852222222222,-127.68972222222,"intrusive rocks, undivided; granite; volcanic: undivided volcanic rocks; limestone,conglomerate,siltstone,sandstone,shale",felsic,ok
+206438.0,52.5544444444,-121.641666667,volcanic: alkaline rocks; syenitic to monzodioritic intrusive rocks; monzonite; intermediate-felsic volcanic rocks,felsic,ok
+206439.0,53.6736111111,-127.056944444,calc-alkaline volcanic rocks; basalt; sedimentary; sedimentary rocks,volcanic,ok
+206448.0,56.6666666667,-131.0925,volcanic rocks; volcanic: undivided volcanic rocks; marine sedimentary and volcanic rocks; felsic,volcanic,ok
+206449.0,53.535,-127.2375,feldspar porphyritic intrusive rocks; sedimentary; sedimentary rocks,other,ok
+206451.0,58.253611111111,-129.82666666667,undivided volcanic rocks; mafic; volcanic: undivided volcanic rocks; volcanic rocks,volcanic,ok
+206452.0,55.126128299635,-124.02642917616,volcanic rocks; syenitic to monzonitic intrusive rocks; monzonite; volcanic: undivided volcanic rocks,volcanic,ok
+206453.0,54.809722222222,-126.89611111111,feldspar porphyritic intrusive rocks; volcanic rocks; volcanic: bimodal rocks (mafic and alkaline mafic),volcanic,ok
+206454.0,54.0166666667,-126.99,volcanic: undivided volcanic rocks; sedimentary rocks; andesitic volcanic rocks; dacite,volcanic,ok
+206455.0,55.915833333333,-125.51361111111,plutonic: intermediate rocks; intrusive igneous rocks; syenitic to monzonitic intrusive rocks; granodiorite; syenite,felsic,ok
+206456.0,53.8036111111,-127.435,quartz monzonitic intrusive rocks; monzonite; sedimentary rocks; sedimentary,felsic,ok
+206458.0,51.1333333333,-122.614166667,undivided sedimentary rocks; sandstone; sedimentary; sedimentary rocks,siliciclastic,ok
+206459.0,50.710555555556,-127.97222222222,volcanic: intermediate rocks; quartz diorite to quartz-feldspar±hornblende±biotite porphyry; diorite; mafic volcanic rocks,felsic,ok
+206460.0,57.736346377519,-129.75351309812,volcanic: interlayered sedimentary and volcanic rocks; undivided sedimentary rocks; volcanic; alluvium; volcanic rocks,volcanic,ok
+206462.0,55.9269444444,-125.431111111,"syenitic to monzonitic intrusive rocks; granodiorite; syenite; plutonic: syenite, monzogranite; intrusive igneous rocks",felsic,ok
+206464.0,55.2477777778,-126.166388889,"limestone,conglomerate,siltstone,sandstone,shale; volcanic: interlayered sedimentary and volcanic rocks; granodioritic intrusive rocks; granodiorite",carbonate,ok
+206465.0,50.5833333333,-120.966666667,granodioritic intrusive rocks; granodiorite; plutonic: intermediate rocks; intrusive igneous rocks,felsic,ok
+206466.0,49.148055555556,-117.33694444444,basaltic volcanic rocks; mafic; intrusive igneous rocks; volcanic: undivided volcanic rocks,mafic,ok
+206467.0,57.2166666667,-126.716666667,"alluvium; volcanic: undivided volcanic rocks; volcanic rocks; intrusive rocks, undivided; granodiorite",volcanic,ok
+206849.0,-3.578908312764,-78.433699622227,sedimentary rocks,other,ok
+206850.0,0.333055555556,-78.5830555556,intrusive igneous rocks,other,ok
+206851.0,-3.6,-78.5,sedimentary rocks,other,ok
+206852.0,-1.56638888889,-79.1330555556,sedimentary rocks,other,ok
+206853.0,-3.78305555556,-78.6,sedimentary rocks,other,ok
+206854.0,-4.33305555556,-80.0,intrusive igneous rocks,other,ok
+206855.0,-4.2,-79.5830555556,sedimentary rocks,other,ok
+206856.0,-2.93305555556,-79.4163888889,sedimentary rocks,other,ok
+206858.0,-3.58305555556,-79.3330555556,sedimentary rocks,other,ok
+206859.0,-3.05,-79.683333,sedimentary rocks,other,ok
+206860.0,-1.38305555556,-79.1163888889,sedimentary rocks,other,ok
+206889.0,-23.6897222222,150.629722222,"chert,phyllite,sandstone,shale,limestone,siltstone,schist; sedimentary; volcanic",carbonate,ok
+206890.0,-23.6,150.4,"chert,phyllite,sandstone,shale,limestone,siltstone,schist; rhyolite; volcanic; igneous mafic volcanic; igneous felsic volcanic; felsic",felsic,ok
+206892.0,-20.5697222222,148.26,granite; igneous felsic intrusive; tonalite; intermediate-felsic volcanic rocks,felsic,ok
+206893.0,-25.242444561942,151.6252116256,intrusive igneous rocks; granodiorite; diorite; igneous felsic intrusive; granite,felsic,ok
+206895.0,-24.8072222222,150.872777778,granite; igneous felsic intrusive; tonalite; intrusive igneous rocks,felsic,ok
+206896.0,-20.4244444444,146.778333333,igneous felsic intrusive; granite; granodiorite; diorite; intermediate-felsic volcanic rocks,felsic,ok
+206897.0,-23.6108333333,150.4575,"chert,phyllite,sandstone,shale,limestone,siltstone,schist; igneous mafic volcanic; igneous felsic volcanic; felsic; andesite",felsic,ok
+206898.0,-24.8163888889,151.366388889,"andesite; igneous felsic intrusive; granite; chert,phyllite,sandstone,shale,limestone,siltstone,schist",felsic,ok
+206900.0,-25.6434,151.8514,intrusive igneous rocks; volcanic; igneous mafic volcanic; basalt,mafic,ok
+206901.0,-24.6680555556,150.876111111,"granite; igneous mafic volcanic; basalt; sandstone,shale,limestone,siltstone",mafic,ok
+206902.0,-18.2533333333,143.423333333,paragneiss/metavolcanic gneiss; sandstone; igneous felsic intrusive; granite,felsic,ok
+206903.0,-20.5783333333,146.9775,"siltstone,schist,sandstone,shale,limestone,chert,phyllite; andesite; volcanic; sedimentary; metamorphic",carbonate,ok
+206905.0,-20.2,147.95,intermediate-felsic volcanic rocks; igneous felsic intrusive; granite; granodiorite,felsic,ok
+206906.0,-20.9166666667,148.0,"sandstone; sedimentary; metamorphic; tillite,siltstone,limestone,mudstone,sandstone",siliciclastic,ok
+206908.0,29.2705555556,61.5844444444,sedimentary rocks,other,ok
+206910.0,29.554444,64.504166,sedimentary rocks,other,ok
+206911.0,29.1225,62.194166,sedimentary rocks,other,ok
+206942.0,-11.6,-76.133333,sedimentary rocks,other,ok
+206943.0,-6.76138888889,-78.6055555556,sedimentary rocks,other,ok
+206944.0,-16.5455555556,-71.5525,intrusive igneous rocks,other,ok
+206945.0,-17.6813888889,-69.9005555556,sedimentary rocks,other,ok
+206946.0,-14.07164,-72.33606,volcanic and intrusive igneous rocks,volcanic,ok
+206947.0,-8.21527777778,-77.7713888889,sedimentary rocks,other,ok
+206948.0,-14.9797222222,-71.3063888889,volcanic rocks,volcanic,ok
+206949.0,-7.11777777778,-78.5752777778,sedimentary rocks,other,ok
+206950.0,-14.4613888889,-72.9930555556,sedimentary rocks,other,ok
+206951.0,-14.1577777778,-73.1330555556,volcanic and intrusive igneous rocks,volcanic,ok
+206952.0,-15.6247222222,-70.9913888889,volcanic rocks,volcanic,ok
+206953.0,-14.9519444444,-71.2625,volcanic rocks,volcanic,ok
+206956.0,-14.181111,-72.348055,volcanic and intrusive igneous rocks,volcanic,ok
+206957.0,-14.96,-71.3463888889,volcanic rocks,volcanic,ok
+206958.0,-6.725,-78.6691666667,sedimentary rocks,other,ok
+206959.0,-13.6858333333,-75.0927777778,sedimentary rocks,other,ok
+206960.0,-13.2344444444,-75.9163888889,sedimentary rocks,other,ok
+206961.0,-15.8163888889,-73.5830555556,sedimentary rocks,other,ok
+206962.0,-8.775,-77.991666666667,sedimentary rocks,other,ok
+207056.0,-16.7733333333,-71.3575,sedimentary rocks,other,ok
+207057.0,-6.35805555556,-79.1191666667,sedimentary rocks,other,ok
+207058.0,-12.9755555556,-76.1391666667,sedimentary rocks,other,ok
+207059.0,-4.94416666667,-79.3080555556,intrusive igneous rocks,other,ok
+207060.0,-8.16666666667,-78.1833333333,volcanic rocks,volcanic,ok
+207061.0,-8.55944444444,-77.8963888889,sedimentary rocks,other,ok
+207062.0,-14.2,-74.45,volcanic rocks,volcanic,ok
+207063.0,-14.1830555556,-75.1480555556,sedimentary rocks,other,ok
+207064.0,-11.4794444444,-76.0841666667,sedimentary rocks,other,ok
+207065.0,-5.70444444444,-79.2805555556,sedimentary rocks,other,ok
+207164.0,17.7666666667,121.233333333,sedimentary rocks,other,ok
+207165.0,16.75,121.35,sedimentary rocks,other,ok
+207166.0,14.2333333333,122.733333333,mafic volcanic rocks,mafic,ok
+207167.0,15.0083333333,120.366666667,mafic volcanic rocks,mafic,ok
+207169.0,16.7333333333,120.766666667,sedimentary rocks,other,ok
+207170.0,17.3,121.01,sedimentary rocks,other,ok
+207172.0,16.75,120.7,sedimentary rocks,other,ok
+207174.0,13.8,121.133333333,sedimentary rocks,other,ok
+207175.0,14.7666666667,121.316666667,sedimentary and volcanic rocks,volcanic,ok
+207177.0,17.4,120.866666667,sedimentary rocks,other,ok
+207179.0,14.9736111111,120.204166667,intrusive igneous rocks,other,ok
+207181.0,16.3205555556,121.291388889,volcanic rocks,volcanic,ok
+207288.0,-28.2166666667,-69.6,intrusive igneous rocks,other,ok
+207289.0,-23.4277777778,-69.5113888889,sedimentary rocks,other,ok
+207309.0,-18.2897222222,-69.7213888889,intermediate-felsic volcanic rocks,felsic,ok
+207310.0,-19.8666666667,-68.9666666667,intermediate-felsic volcanic rocks,felsic,ok
+207311.0,6.03305555556,116.75,carbonate-sandstone-conglomerate,carbonate,ok
+207312.0,6.1,116.466666667,carbonate-sandstone-conglomerate,carbonate,ok
+207314.0,23.3330555556,-106.066388889,acidic igneous extrusive; ignimbrite(s); felsic volcanic rocks; volcanic: intermediate rocks,felsic,ok
+207315.0,27.1677777778,-109.019166667,plutonic: undivided granitic rocks; intrusive igneous rocks; acidic igneous intrusive,other,ok
+207316.0,28.4111111111,-109.802777778,acidic igneous intrusive; volcanic rocks; volcanic: intermediate rocks,volcanic,ok
+207317.0,30.4816666667,-109.7525,plutonic: undivided granitic rocks; acidic igneous intrusive; ignimbrite(s); felsic volcanic rocks,felsic,ok
+207355.0,62.051111,-141.21805,"volcanic rocks; Sedimentary; limestone; sedimentary; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate",carbonate,ok
+208266.0,17.3333333333,101.5,sedimentary rocks,other,ok
+208267.0,17.5,101.666666667,sedimentary rocks,other,ok
+208268.0,18.1166666667,102.083333333,sedimentary rocks,other,ok
+208271.0,49.1333333333,103.65,volcanic and intrusive igneous rocks,volcanic,ok
+208273.0,45.7833333333,100.6,sedimentary rocks,other,ok
+208275.0,48.5833333333,97.7833333333,intrusive igneous rocks,other,ok
+208276.0,44.2333333333,108.033333333,mafic-felsic mixed volcanic rocks,felsic,ok
+208277.0,44.5741666667,109.435555556,mafic-felsic mixed volcanic rocks,felsic,ok
+208279.0,44.1666666667,107.5,mafic-felsic mixed volcanic rocks,felsic,ok
+208280.0,48.775,104.21126,sedimentary rocks,other,ok
+208285.0,9.28333333333,-79.3833333333,plutonic: undivided granitic rocks; intrusive igneous rocks,other,ok
+208328.0,8.4875,-77.3211111111,sedimentary; sedimentary rocks,other,ok
+208330.0,7.05,-76.75,sedimentary; crystalline metamorphic rocks,metamorphic,ok
+208331.0,2.1,-76.8833333333,low grade unclassified metamorphic rock,metamorphic,ok
+208332.0,7.31666666667,-72.8666666667,volcanic: intermediate rocks; low grade unclassified metamorphic rock,volcanic,ok
+208333.0,46.95157188965,79.864566853136,sedimentary rocks,other,ok
+208334.0,48.6833333333,73.7,intermediate-felsic volcanic rocks,felsic,ok
+208335.0,51.7666666667,61.75,"sedimentary rocks; Major:{sandstone}, Minor{conglomerate,basalt group,andesite}",felsic,ok
+208336.0,51.95,72.3333333333,sedimentary rocks,other,ok
+208337.0,53.0166666667,62.5666666667,clay; sedimentary rocks,other,ok
+208338.0,48.924797990484,58.673687628615,"Major:{limestone}, Minor{schist group,sandstone,basalt group}; mafic volcanic rocks",mafic,ok
+208339.0,44.45,78.4333333333,sedimentary and volcanic rocks,volcanic,ok
+208340.0,46.65,73.6333333333,intermediate-felsic volcanic rocks,felsic,ok
+208341.0,43.62,74.2666666667,intermediate volcanic rocks,volcanic,ok
+208343.0,49.368737,75.708303,intermediate-felsic volcanic rocks,felsic,ok
+208346.0,50.1619444444,76.1619444444,sedimentary rocks,other,ok
+208348.0,47.5333333333,84.4166666667,sedimentary rocks,other,ok
+208390.0,48.2263888889,76.2719444444,intermediate-felsic volcanic rocks,felsic,ok
+208391.0,47.1844444444,74.7113888889,volcanic rocks,volcanic,ok
+208392.0,52.8833333333,61.4166666667,clay; crystalline metamorphic rocks,metamorphic,ok
+208393.0,47.5,75.1,volcanic rocks,volcanic,ok
+208394.0,46.6,74.4166666667,intermediate-felsic volcanic rocks,felsic,ok
+208396.0,46.2563888889,73.1983333333,intermediate-felsic volcanic rocks,felsic,ok
+208397.0,47.9166666667,79.3333333333,intermediate-felsic volcanic rocks,felsic,ok
+208398.0,47.3833333333,75.2333333333,intrusive igneous rocks,other,ok
+208474.0,-6.88333320617676,146.449996948242,sedimentary and volcanic rocks,volcanic,ok
+208475.0,-5.75,145.166666667,ophiolite complex; mafic volcanic rocks; basalt,mafic,ok
+208476.0,-3.2,151.65,volcanic rocks,volcanic,ok
+208477.0,-5.71666666667,150.016666667,mafic-felsic mixed volcanic rocks,felsic,ok
+208478.0,-5.98333333333,150.466666667,intrusive igneous rocks,other,ok
+208484.0,16.8583333333,120.783333333,sedimentary rocks,other,ok
+208930.0,16.3833333333,120.983333333,sedimentary rocks,other,ok
+208931.0,7.16666666667,125.991666667,sedimentary rocks,other,ok
+208932.0,6.475,125.05,sedimentary and volcanic rocks,volcanic,ok
+208933.0,7.93333333333,123.3,sedimentary rocks,other,ok
+208934.0,8.12222222222,126.381666667,sedimentary rocks,other,ok
+208935.0,16.45,120.866666667,sedimentary rocks,other,ok
+208936.0,17.1666666667,120.733333333,sedimentary rocks,other,ok
+208937.0,16.490278,120.65556,sedimentary rocks,other,ok
+209628.0,-3.65,-78.416667,sedimentary rocks,other,ok
+209671.0,0.0,0.0,,unknown,ok
+209836.0,-4.1155371964011,-78.583557670277,sedimentary rocks,other,ok
+209837.0,-1.66666666667,-79.15,sedimentary rocks,other,ok
+209838.0,29.4,64.1416666667,sedimentary rocks,other,ok
+209839.0,29.1227777778,62.0788888889,sedimentary rocks,other,ok
+210060.0,29.516666666667,88.566666666667,felsic volcanic rocks,felsic,ok
+210573.0,0.0,0.0,,unknown,ok
+222961.0,-29.8394444444,152.371388889,"shale,schist,chert,phyllite,greywacke,limestone,volcanigenic siltstone; sedimentary; volcanic; felsic",carbonate,ok
+226944.0,-4.7,141.783333333,intrusive igneous rocks,other,ok
+227882.0,-30.5,-69.75,unclassified volcanic rocks,volcanic,ok
+227886.0,-33.4292120574,148.800007394,granite; igneous mafic volcanic; basalt; sedimentary rocks,mafic,ok
+227904.0,-34.275393028984,148.84150783535,igneous felsic intrusive; granite; volcanic; intermediate-felsic volcanic rocks; tuff; ignimbrite,felsic,ok
+227973.0,38.7816666667,-117.949722222,"Major:{coarse alluvium,fine alluvium}; volcanic: felsic rocks; sedimentary rocks",felsic,ok
+227974.0,44.0288888889,-109.683055556,"volcanic: interlayered sedimentary and volcanic rocks; Major:{felsic hypabyssal,mafic hypabyssal}; felsic; flood basalt(s); mafic volcanic rocks; basalt; basalt",felsic,ok
+227976.0,38.4919444444,-118.075,"sedimentary rocks; Major:{carbonate,arenite,clastic}, Minor:{volcanic}; volcanic; sedimentary",volcanic,ok
+227979.0,38.3333333333,-117.5,"flood basalt(s); mafic volcanic rocks; basalt; basalt; Major:{coarse alluvium,fine alluvium}; sedimentary",mafic,ok
+227982.0,-22.6666666667,-68.75,sedimentary rocks,other,ok
+227985.0,-25.2166666667,-69.2333333333,sedimentary rocks,other,ok
+227986.0,-26.775306834597,-69.874478793685,sedimentary rocks,other,ok
+227991.0,19.55,-71.7833333333,mafic-felsic mixed volcanic rocks; sedimentary,felsic,ok
+228007.0,40.4166666667,-117.216666667,"sedimentary; carbonate-sandstone-chert; Major:{felsic volcanic}, Minor:{sedimentary}; rhyolite; tuff",felsic,ok
+228008.0,40.2666666667,-117.75,"volcanic: interlayered sedimentary and volcanic rocks; Major:{andesite,rhyolite,clastic}; rhyolite; carbonate-sandstone-chert",felsic,ok
+228015.0,39.8,-115.15,"sedimentary rocks; Major:{coarse alluvium,fine alluvium}; sedimentary",other,ok
+228019.0,9.25833333333,125.523333333,sedimentary rocks,other,ok
+228020.0,7.54333333333,126.1,sedimentary rocks,other,ok
+228021.0,18.25,-66.8166666667,volcanic; volcanic: interlayered sedimentary and volcanic rocks; mafic volcanic rocks,volcanic,ok
+228022.0,18.25,-66.4166666667,volcanic: interlayered sedimentary and volcanic rocks; volcanic; mafic volcanic rocks,volcanic,ok
+228029.0,8.63333333333,-77.5666666667,volcanic: mafic rocks; intrusive igneous rocks,mafic,ok
+228031.0,8.83333333333,-80.6666666667,plutonic: undivided granitic rocks; felsic volcanic rocks,felsic,ok
+228045.0,57.1166666667,-131.345,volcanic: undivided volcanic rocks; undivided volcanic rocks; mafic; volcanic rocks,volcanic,ok
+228046.0,50.675,-127.858333333,volcanic: intermediate rocks; quartz diorite to granodiorite; granodiorite; mafic volcanic rocks,felsic,ok
+228053.0,-33.9666666667,147.416666667,sedimentary rocks; sedimentary; metamorphic,metamorphic,ok
+228066.0,50.5666666667,-121.0,granodioritic intrusive rocks; granodiorite; plutonic: intermediate rocks; intrusive igneous rocks,felsic,ok
+228067.0,49.767777777778,-120.47472222222,basaltic volcanic rocks; mafic; volcanic: alkaline rocks; unclassified volcanic rocks,mafic,ok
+228088.0,28.3861111111,-109.656944444,volcanic: felsic rocks; acidic igneous intrusive; volcanic rocks,felsic,ok
+228106.0,-32.7666666667,148.666666667,mafic; felsic volcanic rocks; sedimentary; metamorphic,mafic,ok
+228123.0,55.260555555556,-124.54305555556,volcanic rocks; volcanic: undivided volcanic rocks; syenitic to monzonitic intrusive rocks; monzonite,volcanic,ok
+228124.0,49.163611111111,-121.02472222222,"sedimentary rocks; mudstone, siltstone, shale fine clastic sedimentary rocks; tuff; sedimentary",siliciclastic,ok
+228126.0,0.0,0.0,,unknown,ok
+228128.0,3.35,-75.0333333333,sedimentary rocks; tuff,volcanic,ok
+228131.0,6.7,-76.5,granodiorite; crystalline metamorphic rocks,felsic,ok
+230046.0,43.866666666667,108.33333333333,sedimentary rocks,other,ok
+232876.0,25.516666666667,100.43333333333,sedimentary rocks,other,ok
+236806.0,46.225277777778,23.186388888889,"Major:{conglomerate}, Minor{sandstone,limestone,marl}; crystalline metamorphic rocks",carbonate,ok
+237940.0,0.0,0.0,,unknown,ok
+240070.0,0.0,0.0,,unknown,ok
+265644.0,33.2916666667,-111.058333333,"volcanic: interlayered sedimentary and volcanic rocks; Major:{basalt,andesite,dacite}, Minor:{rhyolite}; rhyolite; tuff; sedimentary rocks",volcanic,ok
+274837.0,32.869822832797,-109.54275431436,"sedimentary; Major:{silt,clay}, Minor:{gravel,sand}; sedimentary rocks",other,ok
+274995.0,0.0,0.0,,unknown,ok
+275332.0,0.0,0.0,,unknown,ok
+276086.0,0.0,0.0,,unknown,ok
+279364.0,0.0,0.0,,unknown,ok
+280334.0,0.0,0.0,,unknown,ok
+285574.0,-23.1352276233,150.746036275,"chert,phyllite,sandstone,shale,limestone,siltstone,schist; sedimentary; volcanic; sandstone",carbonate,ok
+301415.0,51.451151835756,-123.61036212384,undivided sedimentary rocks; sandstone; mafic volcanic rocks; volcanic: mafic rocks; alluvium,mafic,ok
+413873.0,-32.917608,148.04941695033,intermediate-felsic volcanic rocks; ash; igneous felsic volcanic; felsic,felsic,ok
+426034.0,41.897222222222,25.329166666667,"sedimentary rocks; Major:{rhyolite}, Minor{andesite,dacite,basalt group}",felsic,ok
+433182.0,-24.150860785689,-69.139838250555,sedimentary rocks,other,ok
+434649.0,8.851972,-80.644778,plutonic: undivided granitic rocks; felsic volcanic rocks,felsic,ok
+444419.0,29.397727866142,88.390417098999,felsic volcanic rocks,felsic,ok
+446953.0,0.0,0.0,,unknown,ok
+230618.0,30.96056,-110.33139,volcanic: felsic rocks; acidic igneous extrusive; ignimbrite(s); felsic volcanic rocks,felsic,ok
+126.0,-17.386763822239,131.11581797283,igneous mafic volcanic; basalt; sandstone; volcanic; mafic volcanic rocks,mafic,ok
+152.0,-33.6780555556,138.926388889,"sedimentary; metamorphic; dolomite; sandstone,shale,limestone,siltstone,tillite,dolomite",carbonate,ok
+163.0,-31.44388961792,137.14721679688,"sandstone,shale,limestone,siltstone,tillite,dolomite; sedimentary; metamorphic",carbonate,ok
+2214.0,0.0,0.0,,unknown,ok
+2778.0,56.5833333333,118.5,crystalline metamorphic rocks,metamorphic,ok
+3856.0,46.75,-89.55,"sandstone-conglomerate; Major:{siltstone,shale,sandstone}; sandstone; shale; volcanic: mafic rocks",siliciclastic,ok
+4322.0,-10.713490343447,25.445446855678,sedimentary; sedimentary rocks,other,ok
+4331.0,-11.6344444444,27.5808333333,sedimentary; sedimentary rocks,other,ok
+4342.0,-12.55,27.8305555556,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+4343.0,-12.6819444444,27.9166666667,plutonic and metamorphic; orthogneiss/paragneiss,metamorphic,ok
+4345.0,-12.5227777778,28.2361111111,plutonic and metamorphic; orthogneiss/paragneiss,metamorphic,ok
+4346.0,-13.039544,28.713245,plutonic and metamorphic; orthogneiss/paragneiss,metamorphic,ok
+4349.0,-12.833055555556,28.201666666667,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+4350.0,-12.7733333333,28.1591666667,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+4555.0,0.0,0.0,,unknown,ok
+7971.0,35.993888855,-106.896942139,"Major:{sandstone,mudstone,conglomerate}, Minor:{limestone}; sedimentary; sedimentary rocks",carbonate,ok
+8302.0,26.180074,103.05997,mafic-intermediate volcanic rocks,mafic,ok
+8744.0,-31.087736111111,138.67381944444,"sedimentary; metamorphic; carbonate; sandstone,shale,limestone,siltstone,tillite,dolomite",carbonate,ok
+9736.0,-12.648545714661,28.040627977094,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+10049.0,-12.82324,28.07512,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+10790.0,45.9369444444,-64.4769444444,sedimentary; sedimentary rocks,other,ok
+13203.0,0.0,0.0,,unknown,ok
+13473.0,-35.0919444444,139.004722222,sandstone; sedimentary; metamorphic; amphibolite grade metasedimentary/metavolcanic schist,siliciclastic,ok
+13474.0,-32.0744438171387,138.279724121094,"limestone; sedimentary; metamorphic; sandstone,shale,limestone,siltstone,tillite,dolomite",carbonate,ok
+13477.0,-34.3472222222,138.917777778,dolomite; sedimentary; metamorphic; amphibolite grade metasedimentary/metavolcanic schist,carbonate,ok
+13482.0,-10.9755555556,25.9002777778,sedimentary; sedimentary rocks,other,ok
+13841.0,40.3236111111,-75.47,"Major:{mudstone}, Minor:{siltstone,shale}, Incidental:{argillite}; shale; sedimentary; mafic volcanic rocks",siliciclastic,ok
+13949.0,-12.379562748361,27.828448825423,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+14351.0,-11.513835,27.440574,sedimentary; sedimentary rocks,other,ok
+14738.0,-11.0163888889,25.2261111111,sedimentary; sedimentary rocks,other,ok
+15217.0,-16.8794444444,30.15,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+15998.0,-12.083470845877,26.426579394645,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+16144.0,-12.513055555556,27.854166666667,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+16404.0,-16.933055555556,30.15,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+17053.0,-13.4608742,24.9932957,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+17154.0,-22.978311,17.077479,crystalline metamorphic rocks; sedimentary,metamorphic,ok
+19036.0,0.20487741679014,30.002605319023,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+19089.0,-32.1075,138.77,"dolomite; sandstone,shale,limestone,siltstone,tillite,dolomite; sedimentary; metamorphic",carbonate,ok
+20111.0,-10.677777777778,25.535277777778,sedimentary rocks; sedimentary,other,ok
+22531.0,38.3108333333,-108.948888889,"sedimentary; Major:{sandstone,siltstone,shale}; sandstone; sandstone-conglomerate",siliciclastic,ok
+22701.0,34.5166666667,-99.55,Major:{fine alluvium}; sedimentary; sedimentary rocks,other,ok
+24511.0,-12.5419553,27.8545867,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+25286.0,29.75589558947,34.989183355439,"sedimentary rocks; Major:{chalk}, Minor{marl,limestone,phonolite}; sedimentary",carbonate,ok
+25293.0,34.81733,-97.24153,Major:{black shale}; shale; sedimentary; sedimentary rocks,siliciclastic,ok
+26702.0,-30.1766666667,139.279166667,"trachyte; volcanic; sedimentary; metamorphic; sandstone,shale,limestone,siltstone,tillite,dolomite",felsic,ok
+28042.0,-17.3758333333,30.0688888889,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+30621.0,34.2718898,69.2937133,crystalline metamorphic rocks; conglomerate and sandstone; mafic,metamorphic,ok
+30673.0,-27.600833333333,-70.163055555556,volcanic rocks,volcanic,ok
+32562.0,-19.361370105939,-66.861841680366,sedimentary rocks,other,ok
+33114.0,0.0,0.0,,unknown,ok
+33127.0,0.0,0.0,,unknown,ok
+33179.0,0.0,0.0,,unknown,ok
+37411.0,0.0,0.0,,unknown,ok
+37499.0,0.0,0.0,,unknown,ok
+38508.0,38.2411,-109.26375,"Major:{sandstone}, Minor:{mixed clastic}; sandstone; limestone; sedimentary; sandstone-conglomerate",siliciclastic,ok
+41271.0,-11.1688888889,27.0091666667,sedimentary; sedimentary rocks,other,ok
+41272.0,-10.9525,26.7722222222,sedimentary; sedimentary rocks,other,ok
+41275.0,-10.8466666667,26.4783333333,sedimentary; sedimentary rocks,other,ok
+42054.0,31.169445037842,-104.90000152588,"sedimentary rocks; Major:{conglomerate,sandstone}, Incidental:{limestone}; volcanic; sedimentary",carbonate,ok
+42058.0,31.224445343018,-104.90528106689,"sedimentary; sedimentary rocks; Major:{conglomerate,sandstone}, Incidental:{limestone}; volcanic",carbonate,ok
+42400.0,-10.728248534883,26.381352481256,sedimentary rocks; sedimentary,other,ok
+44003.0,-10.719444444444,25.402777777778,sedimentary; sedimentary rocks,other,ok
+45680.0,47.48157,-115.72882,"mafic-intermediate volcanic rocks; limestone,shale,argillite,quartzite,dolomite,siltstone; turbidite; Major:{metasiltstone,quartzite}, Minor:{argillite,calc silicate gneiss}; argillite; sedimentary; Major:: {argillite, quartzite, green argillite}",siliciclastic,ok
+45788.0,47.49017,-115.76322,"Major:: {argillite, quartzite, green argillite}; mafic-intermediate volcanic rocks; limestone,shale,argillite,quartzite,dolomite,siltstone; turbidite; Major:{metasiltstone,quartzite}, Minor:{argillite,calc silicate gneiss}; argillite; sedimentary",siliciclastic,ok
+45790.0,47.499249132,-115.75112466,"mafic-intermediate volcanic rocks; limestone,shale,argillite,quartzite,dolomite,siltstone; turbidite; Major:{quartzite}, Minor:{metasiltstone,argillite,schist}; argillite; sedimentary; Major:: {impure quartzite, argillite}",siliciclastic,ok
+48276.0,34.8544842033,-104.85985170677,"Major:{sandstone,conglomerate sandstone}, Minor:{shale}; sedimentary; sedimentary rocks",siliciclastic,ok
+49888.0,0.0,0.0,,unknown,ok
+54518.0,0.0,0.0,,unknown,ok
+55929.0,48.26667,67.3333,sedimentary rocks,other,ok
+65223.0,-17.68,-68.37,sedimentary rocks,other,ok
+68115.0,62.691902777778,-126.665375,"sedimentary rocks; quartz arenite, sandstone, siltstone, shale dolomite, chert, limestone; undivided; sedimentary",carbonate,ok
+71511.0,30.0944444444,-8.35,mafic-intermediate undivided volcanic rocks; basalt; sedimentary,mafic,ok
+105775.0,32.75,-0.583333333333,sedimentary; sedimentary rocks,other,ok
+123105.0,-13.1325,28.3925,plutonic and metamorphic; orthogneiss/paragneiss,metamorphic,ok
+124002.0,46.8333333333,-87.75,"Major:{sandstone}, Minor:{siltstone,shale,conglomerate}; sandstone; sedimentary; bimodal volcanic rocks; shale,quartz arenite,dolomite,quartzite,conglomerate,greywacke,siltstone,iron formation; turbidite",siliciclastic,ok
+126508.0,-23.7894444444,16.6438888889,metamorphic; mafic-felsic mixed volcanic rocks,metamorphic,ok
+126948.0,-30.5233954,138.5314475,"sedimentary; metamorphic; sandstone,shale,limestone,siltstone,tillite,dolomite; dolomite",carbonate,ok
+132305.0,-17.4789,-68.356,sedimentary rocks,other,ok
+135092.0,-17.329166666667,-68.407777777778,sedimentary rocks,other,ok
+135234.0,-31.1130555556,137.153055556,"sandstone; quartzite; sandstone,shale,limestone,siltstone,tillite,dolomite; sedimentary; metamorphic",siliciclastic,ok
+153539.0,26.5225,102.2,sedimentary rocks,other,ok
+155467.0,0.0,0.0,,unknown,ok
+155468.0,24.116666666667,102.16666666667,mafic volcanic rocks,mafic,ok
+155678.0,24.15,102.16666666667,mafic volcanic rocks,mafic,ok
+157353.0,26.783333333333,112.56666666667,sedimentary rocks,other,ok
+163419.0,48.0694444444,-115.637777778,"mafic-intermediate volcanic rocks; limestone,shale,argillite,quartzite,dolomite,siltstone; turbidite; Major:{quartzite,argillite,metasiltstone}, Minor:{limestone}; limestone; Major:: {(argillite, siltite)|  (siltite)|  (argillite, siltite)}; Minor:: {(quartzite)| |}; sedimentary",carbonate,ok
+164790.0,48.2294444444,-115.898611111,"mafic-intermediate volcanic rocks; limestone,shale,argillite,quartzite,dolomite,siltstone; turbidite; Major:: {dolomite, argillite}; Minor:: {quartzite}; Major:{quartzite,metasiltstone,argillite}, Minor:{limestone,dolostone}; limestone; sedimentary",carbonate,ok
+174278.0,42.7377777778,-108.617777778,"sand, mud, chalk, carbonate; Major:{siltstone,shale}, Minor:{limestone}, Incidental:{gypsum}; limestone; sandstone,marl,shale",carbonate,ok
+185349.0,-10.815,26.5886111111,sedimentary; sedimentary rocks,other,ok
+185781.0,-18.181922222222,-68.192369444444,sedimentary rocks,other,ok
+187080.0,27.95,110.116666667,sedimentary rocks,other,ok
+187092.0,26.5416666667,112.475,sedimentary rocks,other,ok
+188137.0,-27.7583333333,-70.1916666667,volcanic rocks,volcanic,ok
+188882.0,-8.8968317923421,28.268504280197,sedimentary; sedimentary rocks,other,ok
+189279.0,32.2538888889,-111.182777778,"Major:{sandstone,siltstone,conglomerate}, Minor:{felsic volcanic,limestone}; volcanic; plutonic: undivided granitic rocks; sedimentary rocks",felsic,ok
+192407.0,25.8583333333,101.391666667,sedimentary rocks,other,ok
+196547.0,63.2127777778,-149.650833333,"volcanic: interlayered sedimentary and volcanic rocks; Sedimentary; sandstone; sedimentary rocks; redbeds, quartz arenite, arkose, conglomerate, evaporites",siliciclastic,ok
+196592.0,61.515,-142.836944444,"sedimentary; mafic volcanic rocks; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt or metamorphosed equivalent",mafic,ok
+196701.0,63.2227777778,-149.638888889,"Sedimentary; sandstone; volcanic: interlayered sedimentary and volcanic rocks; sedimentary rocks; redbeds, quartz arenite, arkose, conglomerate, evaporites",siliciclastic,ok
+197726.0,63.04,-149.939722222,"volcanic: interlayered sedimentary and volcanic rocks; Metamorphic; serpentinite; pyroxenite, peridotite, dunite, harzburgite, wherlite, gabbro; sedimentary rocks",mafic,ok
+198517.0,63.2077777778,-149.652777778,"volcanic: interlayered sedimentary and volcanic rocks; Sedimentary; sandstone; sedimentary rocks; redbeds, quartz arenite, arkose, conglomerate, evaporites",siliciclastic,ok
+198681.0,63.2258333333,-149.623888889,"pyroxenite, peridotite, dunite, harzburgite, wherlite, gabbro; Sedimentary; basalt; volcanic: interlayered sedimentary and volcanic rocks; sedimentary rocks",mafic,ok
+199407.0,65.1769444444,-141.052777778,"siltstone,shale,carbonate; sedimentary; quartzite and quartz-rich sandstone; Sedimentary; limestone",carbonate,ok
+199695.0,63.2397222222,-149.61,Unconsolidated; ash; volcanic: interlayered sedimentary and volcanic rocks; sedimentary and/or volcanic rock: undivided; sedimentary rocks,volcanic,ok
+199951.0,63.1638888889,-149.785833333,"volcanic: interlayered sedimentary and volcanic rocks; Sedimentary; basalt; sedimentary rocks; redbeds, quartz arenite, arkose, conglomerate, evaporites",volcanic,ok
+200678.0,65.0358333333,-141.098888889,"Sedimentary; basalt; siltstone,shale,carbonate; sedimentary; quartzite and quartz-rich sandstone",mafic,ok
+202837.0,65.38,-141.05,"Sedimentary; dolomite; limestone; sedimentary; siltstone,shale,carbonate; limestone, dolostone, shale, evaporites, chalk; carbonate  reefs or metamorphosed equivalent",carbonate,ok
+203795.0,-32.5255555556,138.485833333,"dolomite; sedimentary; metamorphic; sandstone,shale,limestone,siltstone,tillite,dolomite",carbonate,ok
+204813.0,51.215080401552,15.733901222229,granitoid gneiss; orthogneiss,metamorphic,ok
+210140.0,-17.1927777778,-46.8780555556,low grade unclassified metamorphic rock,metamorphic,ok
+211939.0,26.257930555556,102.46292222222,sedimentary rocks,other,ok
+211957.0,0.0,0.0,,unknown,ok
+212605.0,52.8838888889,-8.86055555556,"Major:{limestone}, Minor{claystone,sandstone}; sedimentary rocks",carbonate,ok
+212969.0,-16.9444444444,30.2958333333,crystalline metamorphic rocks; volcanic-sedimentary,metamorphic,ok
+212971.0,-17.2655555556,30.0444444444,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+212975.0,33.8469444444,-0.341388888889,sedimentary; sedimentary rocks,other,ok
+212976.0,32.85,-0.45,sedimentary; sedimentary rocks,other,ok
+212977.0,32.8330555556,-0.241388888889,sedimentary; sedimentary rocks,other,ok
+212978.0,32.7697222222,-0.666388888889,sedimentary; sedimentary rocks,other,ok
+212981.0,31.5,-2.96638888889,sedimentary; sedimentary rocks,other,ok
+218987.0,0.0,0.0,,unknown,ok
+226338.0,34.85,68.65,sandstone and siltstone; andesite; crystalline metamorphic rocks,siliciclastic,ok
+226377.0,34.2319444444,69.2611111111,Fan alluvium and colluvium; crystalline metamorphic rocks,metamorphic,ok
+226441.0,34.2666666667,69.4,limestone and dolomite; limestone; crystalline metamorphic rocks,carbonate,ok
+226455.0,34.3980555556,69.3055555556,crystalline metamorphic rocks; limestone and dolomite; limestone,carbonate,ok
+226456.0,34.4069444444,69.2597222222,limestone and dolomite; limestone; crystalline metamorphic rocks,carbonate,ok
+226485.0,34.3347222222,69.2666666667,crystalline metamorphic rocks; limestone and dolomite; limestone,carbonate,ok
+226488.0,34.4313888889,69.3786111111,limestone and dolomite; limestone; crystalline metamorphic rocks,carbonate,ok
+226501.0,34.3158333333,69.3027777778,limestone and dolomite; limestone; crystalline metamorphic rocks,carbonate,ok
+228164.0,32.200677777778,-6.2988888888889,sedimentary; sedimentary rocks,other,ok
+228165.0,30.7833333333,-9.1,sedimentary; mafic volcanic rocks,mafic,ok
+228166.0,30.4666666667,-7.5,mafic-intermediate undivided volcanic rocks; sedimentary,mafic,ok
+228169.0,29.3833333333,-9.03333333333,sedimentary and volcaniclastic; mafic-intermediate undivided volcanic rocks,volcanic,ok
+228176.0,16.9833333333,7.93333333333,sedimentary; sedimentary rocks,other,ok
+228182.0,15.1666666667,-9.98333333333,subvolcanic (camp); intrusive igneous rocks,volcanic,ok
+228183.0,14.0833333333,-9.75,subvolcanic (camp); intrusive igneous rocks,volcanic,ok
+228184.0,12.2666666667,-11.35,sedimentary; sedimentary rocks,other,ok
+228186.0,-10.602738864377,26.134671612671,sedimentary rocks; sedimentary,other,ok
+228187.0,-10.609825464404,26.300497171316,sedimentary rocks; sedimentary,other,ok
+228188.0,-11.0083333333,14.5,plutonic and metamorphic; orthogneiss,metamorphic,ok
+228191.0,-11.0833333333,14.0944444444,sedimentary rocks; metamorphic,metamorphic,ok
+228192.0,-12.5111111111,13.5166666667,sedimentary; sedimentary rocks,other,ok
+228193.0,-11.16552,27.45077,sedimentary; sedimentary rocks,other,ok
+228195.0,-12.0163888889,27.9005555556,sedimentary rocks; sedimentary,other,ok
+228202.0,-12.2752777778,27.9672222222,sedimentary rocks; sedimentary,other,ok
+228203.0,-12.0516666667,25.9583333333,crystalline metamorphic rocks; sedimentary and volcaniclastic,metamorphic,ok
+228205.0,-12.217891205489,25.81169128418,crystalline metamorphic rocks; volcanic-sedimentary,metamorphic,ok
+228206.0,0.0,0.0,,unknown,ok
+228207.0,-12.419444444444,28.335277777778,sedimentary; sedimentary rocks,other,ok
+228210.0,-12.5863888889,28.3655555556,plutonic and metamorphic; orthogneiss/paragneiss,metamorphic,ok
+228212.0,-12.6455555556,27.8655555556,sedimentary rocks; plutonic and metamorphic,metamorphic,ok
+228213.0,-12.6583333333,27.9866666667,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+228214.0,-12.7133333333,27.9766666667,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+228215.0,-12.7408333333,28.1063888889,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+228217.0,-12.7591666667,28.0047222222,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+228222.0,-12.7998,28.5007,plutonic and metamorphic; orthogneiss/paragneiss,metamorphic,ok
+228223.0,-12.912613123866,28.080340787545,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+228254.0,-12.98674406151,28.661012649536,plutonic and metamorphic; orthogneiss/paragneiss,metamorphic,ok
+228255.0,-12.92889211011,28.07190557013,orthogneiss/paragneiss; plutonic and metamorphic,metamorphic,ok
+228256.0,-12.8280555556,28.1933333333,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+228257.0,-12.8544444444,28.2125,volcanic-sedimentary; orthogneiss/paragneiss,volcanic,ok
+228258.0,-20.5,26.5583333333,sedimentary (karoo); sedimentary rocks,other,ok
+228259.0,-20.75,23.1,sedimentary rocks; sedimentary,other,ok
+228261.0,-21.0833333333,26.75,crystalline metamorphic rocks; volcanic-sedimentary and plutonic,metamorphic,ok
+228263.0,-21.7280555556,21.6119444444,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+228264.0,-22.3833333333,18.5333333333,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+228268.0,-22.9583333333,17.6833333333,sedimentary; sedimentary rocks,other,ok
+228272.0,-24.3333333333,29.0,gabbro; intrusive igneous rocks; plutonic,mafic,ok
+228273.0,68.25,87.25,"sedimentary rocks; limestone, dolostone, shale, evaporites, chalk; carbonate  reefs; ; limestone",carbonate,ok
+228274.0,68.0,66.8333333333,"sandstone, siltstone, shale; marine fossils; ; Major:{schist group}, Minor{quartzite,sandstone}; metamorphic; orthogneiss/paragneiss",siliciclastic,ok
+228275.0,67.8333333333,86.8,"sedimentary rocks; limestone, dolostone, shale, evaporites, chalk; carbonate  reefs; ; limestone",carbonate,ok
+228277.0,67.6666666667,87.0,"sedimentary rocks; Major:{amphibolite}, Minor{mica schist,quartzite,marble}; metamorphic; sedimentary rocks; undivided",carbonate,ok
+228278.0,67.6,86.75,"sedimentary rocks; Major:{sandstone}, Minor{shale/slate,limestone}; metasedimentary rocks; undivided",carbonate,ok
+228280.0,67.0,65.0,"sandstone, siltstone, shale; marine fossils; ; limestone; sedimentary rocks",siliciclastic,ok
+228282.0,66.5166666667,87.55,"Major:{clay}, Minor{sandstone,limestone,coal}; sandstone, siltstone, shale, limestone; ; sedimentary rocks",carbonate,ok
+228308.0,61.25,137.5,"shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; ; volcanic; sedimentary rocks",carbonate,ok
+228325.0,56.7833333333,117.083333333,intrusive igneous rocks,other,ok
+228326.0,56.5,50.75,"Major:{sand}, Minor{sandstone,clay}; sedimentary rocks",siliciclastic,ok
+228327.0,56.5,119.916666667,crystalline metamorphic rocks,metamorphic,ok
+228328.0,56.4166666667,118.666666667,crystalline metamorphic rocks,metamorphic,ok
+228329.0,55.5,103.75,sedimentary rocks,other,ok
+228351.0,50.7,92.4,sedimentary and volcanic rocks,volcanic,ok
+228352.0,50.5,91.5,sedimentary rocks,other,ok
+228353.0,50.1444444444,91.4791666667,sedimentary rocks,other,ok
+228356.0,0.0,0.0,,unknown,ok
+228357.0,37.6333333333,87.0,sedimentary rocks,other,ok
+228361.0,24.183333333333,102.16666666667,mafic volcanic rocks,mafic,ok
+228363.0,25.998888888889,103.12055555556,flood basalt(s); mafic volcanic rocks; alkali basalt; basalt,mafic,ok
+228364.0,23.75,103.58333333333,sedimentary rocks,other,ok
+228365.0,26.05,101.333333333,sedimentary rocks,other,ok
+228368.0,23.583333333333,104.08333333333,sedimentary rocks,other,ok
+229581.0,-38.85,-69.0,sedimentary rocks,other,ok
+233107.0,-32.645847,137.468664,"limestone; sedimentary; metamorphic; sandstone,shale,limestone,siltstone,tillite,dolomite",carbonate,ok
+233347.0,70.513759246927,24.106634126953,"Major:{quartzite}, Minor{meta-sandstone,mica schist,meta-basalt group}; metamorphic; quartzite, conglomerate, grit, tillite; minor arkose, mica schist, diabase, metabasalt, uffite, gneiss, marble",mafic,ok
+234528.0,0.0,0.0,,unknown,ok
+234529.0,0.0,0.0,,unknown,ok
+239423.0,-31.449280808735,137.17378686567,"sandstone,shale,limestone,siltstone,tillite,dolomite; sandstone; sedimentary; metamorphic",carbonate,ok
+242440.0,23.5,103.91666666667,sedimentary rocks,other,ok
+245304.0,48.1742504888,67.5921472168,sedimentary rocks,other,ok
+250732.0,34.5166666667,-99.5497222222,Major:{fine alluvium}; sedimentary; sedimentary rocks,other,ok
+251683.0,0.0,0.0,,unknown,ok
+258149.0,52.203,-8.747,"Major:{limestone}, Minor{claystone,sandstone}; sedimentary rocks",carbonate,ok
+270268.0,-29.8754904,137.8166906,"dolomite; sedimentary; metamorphic; sandstone,shale,limestone,siltstone,tillite,dolomite",carbonate,ok
+290467.0,50.3546614597,4.06150817871,"Major:{clay}, Minor{sand,gravel}; sedimentary rocks",other,ok
+292624.0,-22.7225,-68.2344444444,intermediate-felsic volcanic rocks,felsic,ok
+295917.0,0.0,0.0,,unknown,ok
+341109.0,0.0,0.0,,unknown,ok
+413086.0,-10.875871038485,26.596670663273,sedimentary; sedimentary rocks,other,ok
+418454.0,26.126666666667,103.00527777778,mafic-intermediate volcanic rocks,mafic,ok
+424355.0,0.0,0.0,,unknown,ok
+440458.0,73.680725698693,-94.302520751953,"sedimentary rocks; sedimentary; limestone, dolostone, shale, evaporites, chalk; carbonate reefs",carbonate,ok
+443145.0,36.825,47.866666666667,sedimentary rocks,other,ok
+140.0,-23.642494444444,150.37543055556,"andesite; chert,phyllite,sandstone,shale,limestone,siltstone,schist; igneous mafic volcanic; igneous felsic volcanic; felsic",felsic,ok
+231.0,-20.863855555556,117.83245555556,rhyolite; igneous mafic volcanic; basalt; mafic-ultramafic volcanic rocks,mafic,ok
+511.0,49.89466,-56.081527,volcanic: mafic rocks; mafic volcanic rocks; gabbro,mafic,ok
+559.0,46.4155555556,-81.3613888889,"mafic, intermediate and felsic metavolcanic rocks, intercalated metasedimentary rocks and epiclastic rocks; mudstone; plutonic: mafic rocks",felsic,ok
+579.0,49.7197222222,-77.7180555556,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+609.0,48.25427,-79.011281,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+648.0,-27.5902777778,-70.35,sedimentary rocks,other,ok
+1666.0,62.761111111111,29.0925,"Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; mica schist; metasedimentary schist",siliciclastic,ok
+1728.0,45.8958333333,4.61277777778,andesite [50.0%..95.0%]; schist [5.0%..50.0%]; tuffite [5.0%..50.0%]; granite; sedimentary rocks,felsic,ok
+2461.0,69.2833333333,22.4833333333,"metavolcanic gneiss; tholeiitic basalt, trachyandesite, trachytic basalt, dacite, rhyolite, picrobasalt, quartzite-conglomerate, dolomite; tholeiitic basalt",volcanic,ok
+2567.0,16.859871411637,120.77577662768,sedimentary rocks,other,ok
+3123.0,37.699166666667,-6.5708333333333,"sedimentary rocks; conglomerate, sandstone, slate and limestone. coal; limestone; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}",carbonate,ok
+3346.0,34.75,-112.122222222,"Major:{granite,granodiorite,tonalite}, Minor:{quartz diorite,diorite,gabbro}; granite; sedimentary; rhyolite; volcanic rocks",felsic,ok
+4364.0,40.402012533194,140.69662520124,sedimentary and volcanic rocks,volcanic,ok
+4381.0,48.69,-81.3666666667,"volcanic: mafic rocks; rhyolitic, rhyodacitic flows, tuffs and breccias; mafic-ultramafic volcanic rocks; tholeiite",mafic,ok
+4496.0,45.4425,-91.115277777778,Major:{metavolcanic}; volcanic; sedimentary; intrusive igneous rocks,volcanic,ok
+5774.0,-42.0657812716,145.570973714,"felsic; igneous felsic volcanic; volcanic; limestone,sandstone,slate,quartzite,conglomerate",felsic,ok
+6001.0,44.566012554007,-71.257580934437,"plutonic: undivided granitic rocks; Major:{felsic volcanic,mafic volcanic}; volcanic; amphibolite grade orthogneiss/paragneiss/metavolcanic gneiss",volcanic,ok
+6771.0,49.1552777778,-85.7894444444,"wacke, siltstone, arkose, argillite, slate, mudstone, marble, chert, iron formation, minor metavolcanic rocks, conglomerate, arenite, paragneiss, migmatites; metamorphic and undivided crystalline: mainly tonalite gneiss; mafic volcanic rocks",volcanic,ok
+7372.0,0.0,0.0,,unknown,ok
+7376.0,0.0,0.0,,unknown,ok
+8418.0,18.0163888889,43.7011111111,sedimentary; sedimentary rocks,other,ok
+8563.0,15.987921786818,119.95553389241,intrusive igneous rocks,other,ok
+8587.0,23.1097222222,97.2966666667,crystalline metamorphic rocks,metamorphic,ok
+8588.0,24.35,56.4,intrusive igneous rocks,other,ok
+8667.0,33.8527777778,133.313888889,sedimentary rocks,other,ok
+8700.0,54.6611111111,-102.033333333,basic to intermediate volcanic; volcanic rocks; plutonic: undivided granitic rocks,volcanic,ok
+8794.0,55.393361111111,-129.85136388889,intrusive igneous rocks; basaltic volcanic rocks; basalt,mafic,ok
+8875.0,49.61,-123.141666667,intrusive igneous rocks; volcanic: undivided volcanic rocks; marine sedimentary and volcanic rocks; andesite,volcanic,ok
+8905.0,47.4083333333,-65.8225,bimodal volcanic rocks; sedimentary,volcanic,ok
+8906.0,47.4788888889,-65.8922222222,sedimentary rocks; sedimentary,other,ok
+9014.0,50.1975,82.4347222222,sedimentary rocks,other,ok
+9496.0,64.871667,20.362968,"sedimentary rocks; Rhyolite, dacite, metamorphic; meta-rhyolite; metamorphic; felsic and intermediate volcanic rocks",felsic,ok
+9552.0,38.2294444444,-120.881944444,"Major:{slate,graywacke}, Minor:{siltstone,conglomerate}, Incidental:{chert, volcanic, basalt}; limestone; slate; volcanic: interlayered sedimentary and volcanic rocks; mudstone-carbonate-sandstone-conglomerate",carbonate,ok
+9592.0,-35.5915697261,149.442210503,"sedimentary; metamorphic; ignimbrite; volcanic; intermediate-felsic volcanic rocks; sandstone,phyllite,conglomerate,slate,chert,siltstone",volcanic,ok
+9697.0,64.058,24.79,"Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; mica schist; metasedimentary schist",siliciclastic,ok
+9702.0,64.4138888889,25.1422222222,"felsic and intermediate volcanic rocks; Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; mica schist; metasedimentary schist",metamorphic,ok
+9743.0,24.41869265,56.40773624,intrusive igneous rocks,other,ok
+9832.0,48.3061111111,-79.0672222222,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+10058.0,54.8333333333,-100.283333333,volcanic: undivided volcanic rocks; volcanic rocks; porphyritc granite; granite,volcanic,ok
+10277.0,0.0,0.0,,unknown,ok
+10351.0,54.6513888889,-102.331388889,acid to intermediate volcanics; volcanic rocks,volcanic,ok
+10452.0,54.722092157646,-101.70988082886,29a gabbro; gabbro; volcanic: undivided volcanic rocks; volcanic rocks,mafic,ok
+10617.0,67.785476874728,20.078332900302,"felsic and intermediate volcanic rocks; Major:{schist group}, Minor{basalt group,dolerite}; metamorphic; Basalt, andesite, metamorphic; mafic volcanic rocks; quartzite,graphitic schist",felsic,ok
+10618.0,67.8776890181,20.1402924561,"mica schist, graphitic quartzite, siltstone, shungite, dolostone, limestone, metabasalt and metarhyolite; Major:{schist group}, Minor{basalt group,dolerite}; metamorphic; Basalt, andesite, metamorphic; mafic volcanic rocks; quartzite,graphitic schist",felsic,ok
+10663.0,64.8467083298,20.2762852907,"meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; volcanic rocks",felsic,ok
+10687.0,47.4297222222,-66.4016666667,volcanic: bimodal rocks (mafic and alkaline mafic); bimodal volcanic rocks,mafic,ok
+10867.0,48.0727777778,-77.7133333333,volcanic: mafic rocks; intermediate volcanic rocks,mafic,ok
+10915.0,65.141854,19.157208,"Metagreywacke, mica schist, graphite- and/or sulphide-bearing schist, paragneiss, migmatite, quartzite, amphibolite; Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; volcanic rocks",siliciclastic,ok
+10917.0,65.09996,19.102939,"Rhyolite, dacite, metamorphic; Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; red sandstone and mudstone, conglomerate, meta volcanic rocks; sedimentary rocks",felsic,ok
+10918.0,65.089900871547,14.45798134795,"Acid and subordinate basic metavolcanic rock in Köli Nappe Complex; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; unclassified volcanic rocks",volcanic,ok
+11182.0,54.763888888889,-101.88361111111,volcanic: undivided volcanic rocks; volcanic rocks,volcanic,ok
+11434.0,0.0,0.0,,unknown,ok
+11508.0,0.0,0.0,,unknown,ok
+11605.0,31.364692687987,-8.0559644848108,sedimentary rocks; sedimentary,other,ok
+185489.0,0.0,0.0,,unknown,ok
+188080.0,40.323333333333,140.55333333333,sedimentary and volcanic rocks,volcanic,ok
+188088.0,0.0,0.0,,unknown,ok
+188083.0,0.0,0.0,,unknown,ok
+188087.0,0.0,0.0,,unknown,ok
+188085.0,0.0,0.0,,unknown,ok
+11734.0,40.1669444444,140.832777778,sedimentary and volcanic rocks,volcanic,ok
+11777.0,47.2908333333,-66.0805555556,volcanic: bimodal rocks (mafic and alkaline mafic); bimodal volcanic rocks,mafic,ok
+11803.0,-41.8402208296,145.516600589,"felsic; igneous felsic volcanic; volcanic; limestone,sandstone,slate,quartzite,conglomerate",felsic,ok
+11824.0,55.4333333333,-129.816666667,intrusive igneous rocks; undivided sedimentary rocks; volcanic; sedimentary,volcanic,ok
+11886.0,-25.453766666667,118.57144444444,"sedimentary; metamorphic; dolomite; mafic volcanic rocks; basalt; greywacke,iron formation,shale,sandstone,conglomerate",metamorphic,ok
+12048.0,60.194208643377,23.363960814819,"greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; Major:{granodiorite-diorite group}, Minor{granite,syenite-monzonite group,meta-granodiorite-diorite group}; metavolcanic schist",siliciclastic,ok
+12053.0,61.71,23.25,"intrusive igneous rocks; Major:{granodiorite-diorite group}, Minor{granite,syenite-monzonite group,meta-granodiorite-diorite group}; felsic and intermediate volcanic rocks",felsic,ok
+13126.0,63.6833333333,25.9833333333,"intrusive igneous rocks; Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; granite, monzonite, quartz monzonite, quartz monzodiorite",siliciclastic,ok
+13132.0,62.4622222222,30.03,"greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; Major:{mica schist}, Minor{meta-sandstone,schist group,conglomerate}; metamorphic; mafic volcanic rocks",siliciclastic,ok
+13955.0,65.065722605543,18.564164400013,"Granitoid and subordinate syenitoid, metamorphic; meta-rhyolite; metamorphic; sedimentary rocks; tonalite, granite, diorite, granodiorite, monzonite, migmatite",metamorphic,ok
+14050.0,0.0,0.0,,unknown,ok
+14096.0,24.273273850227,56.433540153503,intrusive igneous rocks,other,ok
+14413.0,67.132777777778,16.077222222222,"carbonate; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",carbonate,ok
+14752.0,37.573056,-7.970833,"sedimentary rocks; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone}",carbonate,ok
+14853.0,49.5980555556,-55.9411111111,volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+15806.0,49.8738888889,-90.9708333333,"volcanic: mafic rocks; mafic-ultramafic volcanic rocks; tholeiite; rhyolitic, rhyodacitic, dacitic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks; related migmatites",mafic,ok
+16723.0,47.5252777778,-66.4316666667,volcanic: mafic rocks; bimodal volcanic rocks,mafic,ok
+16762.0,-31.25874246,146.8696319,ash; sedimentary rocks; mafic; sedimentary; metamorphic,volcanic,ok
+17055.0,65.230748903939,18.88184022886,"Major:{granite}, Minor{granodiorite,syenite-monzonite group,meta-granite}; volcanic rocks; Basalt, trachyandesite, andesite, komatiite and metamorphic equivalents; felsic and intermediate volcanic rocks",felsic,ok
+17373.0,33.5138888889,132.655555556,sedimentary rocks,other,ok
+17460.0,54.962555555556,-99.728194444444,"sedimentary; rhyolite, dacite; rhyolite; sedimentary rocks",felsic,ok
+17539.0,15.55,-89.7166666667,sedimentary rocks,other,ok
+17692.0,-35.062222222222,149.57027777778,"rhyolite; mudstone,limestone,tillite,siltstone,sandstone; sedimentary; metamorphic",felsic,ok
+18571.0,64.8256136963,20.2283273935,"meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; volcanic rocks; felsic and intermediate volcanic rocks",felsic,ok
+18578.0,65.375332040886,18.641685962502,"intrusive igneous rocks; Basalt, andesite and subordinate dacite, metamorphic; felsic and intermediate volcanic rocks; Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic",felsic,ok
+18580.0,64.9232070708,20.0928840623,"meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; volcanic rocks; felsic and intermediate volcanic rocks",felsic,ok
+18581.0,64.9391649158,20.0698227881,"meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; volcanic rocks; felsic and intermediate volcanic rocks",felsic,ok
+18583.0,64.922144814,20.2669007776,"meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; volcanic rocks; felsic and intermediate volcanic rocks",felsic,ok
+18672.0,48.462462,-3.6091719999999,limestone [5.0%..50.0%]; sandstone [5.0%..50.0%]; schist [50.0%..95.0%]; schist [5.0%..50.0%]; quartzite; metamorphic; sedimentary rocks,carbonate,ok
+18705.0,51.6333333333,81.75,sedimentary rocks,other,ok
+18790.0,35.097000904691,32.890835189352,"ophiolite complex; mafic volcanic rocks; Major:{basalt group}, Minor{basalt tuffite,basalt agglomerate}",mafic,ok
+18839.0,-28.408309962785,121.14965749495,intrusive igneous rocks; granite; igneous felsic volcanic; felsic,felsic,ok
+19265.0,-41.588229072894,145.71030842773,"igneous felsic volcanic; felsic; limestone,sandstone,slate,quartzite,conglomerate; volcanic",felsic,ok
+19429.0,50.357467942368,83.540028127001,intrusive igneous rocks,other,ok
+19493.0,45.229721069336,-116.66889190674,"Major:: {greenstone basalt, andesite, keratophyre}; mafic-intermediate volcanic rocks; sandstone,shale,carbonate,conglomerate,chert; Major:{basalt,rhyolite}, Minor:{limestone}; basalt; volcanic: interlayered sedimentary and volcanic rocks",felsic,ok
+19649.0,18.3104572,-99.9312356,volcanic: interlayered sedimentary and volcanic rocks; limestone-shale; unclassified volcanic rocks,volcanic,ok
+19966.0,56.475,-99.6372222222,30 tonalite-granodiorite; granodiorite; sedimentary rocks; volcanic: undivided volcanic rocks,felsic,ok
+19975.0,23.851570017734,40.939985211657,sedimentary rocks; plutonic,other,ok
+20269.0,48.291666666667,86.333333333333,sedimentary rocks,other,ok
+21603.0,33.9038888889,133.541666667,sedimentary rocks,other,ok
+21605.0,54.719166666667,-101.82527777778,volcanic: undivided volcanic rocks; volcanic rocks; mafic metavolcanics; mafic,volcanic,ok
+21755.0,41.041111111111,40.76,sedimentary and volcanic rocks,volcanic,ok
+22987.0,-54.829694444444,-68.395836111111,low-medium grade unclassified metamorphic rock,metamorphic,ok
+23128.0,64.626159,13.102498,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; metasedimentary schist; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent",metamorphic,ok
+23197.0,37.638611111111,-6.8569444444444,"volcanics and volcaniclastic rocks; volcanic; sedimentary rocks; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}",volcanic,ok
+23365.0,54.856080555556,-99.941711111111,mafic metavolcanics; mafic; sedimentary rocks; volcanic: undivided volcanic rocks,mafic,ok
+23547.0,41.36028851,44.44438468,"Major:{limestone}, Minor{sandstone,marl}; sedimentary and volcanic rocks",carbonate,ok
+24322.0,0.0,0.0,,unknown,ok
+25303.0,65.65,-112.816666667,"volcanic: mafic rocks; intrusive igneous rocks; rhyodacite, rhyolite and related intrusive rocks and derived sediments; minor basalt, andesite",mafic,ok
+25473.0,0.0,0.0,,unknown,ok
+107981.0,0.0,0.0,,unknown,ok
+25611.0,22.89167,-83.24444,sedimentary; sedimentary rocks,other,ok
+25612.0,22.066666666667,-80.116666666667,sedimentary rocks; sedimentary,other,ok
+25613.0,20.046255874675,-75.944366455078,volcanic: felsic rocks; mafic volcanic rocks,felsic,ok
+25615.0,22.47,-84.13,sedimentary; sedimentary rocks,other,ok
+25693.0,45.4708333333,-88.9194444444,Major:{metavolcanic}; volcanic; volcanic: undivided volcanic rocks; intrusive igneous rocks,volcanic,ok
+25940.0,48.3597222222,-79.0825,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+26138.0,47.3966666667,-66.1297222222,volcanic: bimodal rocks (mafic and alkaline mafic); bimodal volcanic rocks,mafic,ok
+26201.0,49.6,-56.0075,volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+27717.0,19.983247964966,42.012391984463,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+27934.0,40.7333333333,-122.083333333,"Major:{mafic volcanic,felsic volcanic}, Minor:{clastic}; rhyolite; andesite; mudstone-carbonate-sandstone-conglomerate; volcanic: interlayered sedimentary and volcanic rocks",felsic,ok
+28095.0,38.2833328247,39.7666664124,ophiolite complex; unclassified volcanic rocks; basalt,volcanic,ok
+28109.0,35.074463,32.843125,"ophiolite complex; mafic volcanic rocks; Major:{basalt group}, Minor{basalt tuffite,basalt agglomerate}",mafic,ok
+28110.0,35.1041666667,32.8458333333,"ophiolite complex; mafic volcanic rocks; Major:{basalt group}, Minor{basalt tuffite,basalt agglomerate}",mafic,ok
+28152.0,35.036793294095,32.482280733821,metasedimentary rocks,metamorphic,ok
+28584.0,13.2,124.15,,unknown,ok
+28719.0,34.2475,135.438888889,sedimentary rocks,other,ok
+28720.0,34.0288888889,134.322222222,sedimentary rocks,other,ok
+28721.0,34.0211111111,134.225,sedimentary rocks,other,ok
+28722.0,35.085,137.833333333,sedimentary rocks,other,ok
+28723.0,33.8277777778,133.472222222,sedimentary rocks,other,ok
+28724.0,36.6291666667,140.605555556,sedimentary rocks,other,ok
+29703.0,65.372503014476,18.649008035572,"intrusive igneous rocks; Basalt, andesite and subordinate dacite, metamorphic; felsic and intermediate volcanic rocks; Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic",felsic,ok
+30641.0,0.0,0.0,,unknown,ok
+32728.0,67.137472,16.059489,"carbonate; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",carbonate,ok
+32790.0,59.3572222222,5.23083333333,"metavolcanic schist; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",volcanic,ok
+33954.0,64.853111,13.884918,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent; metasedimentary schist",metamorphic,ok
+34420.0,68.200929,15.991373,"granodiorite, tonolite; Major:{granite}, Minor{monzonite,meta-granodiorite,meta-monzonite}; granitoid gneiss; orthogneiss/paragneiss",felsic,ok
+34428.0,67.095265,16.001146,"carbonate; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",carbonate,ok
+35613.0,68.329524898,16.7902514037,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; metasedimentary schist; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent",metamorphic,ok
+36285.0,67.132786,16.089266,"carbonate; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",carbonate,ok
+36363.0,62.10968,9.824278,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; metasedimentary schist",metamorphic,ok
+44061.0,34.4558333333,-112.193888889,Major:{metavolcanic}; rhyolite; schist; metamorphic and undivided crystalline: sedimentary and volcanic gneiss; felsic; volcanic rocks,volcanic,ok
+44460.0,-23.300852777778,150.65216944444,"chert,phyllite,sandstone,shale,limestone,siltstone,schist; volcanic; igneous mafic volcanic; basalt",mafic,ok
+44769.0,34.545,-113.230277778,plutonic: undivided granitic rocks; Major:{metavolcanic}; rhyolite; schist; sedimentary rocks,volcanic,ok
+45920.0,64.958201522173,19.837623594794,"meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; volcanic rocks",felsic,ok
+46287.0,67.14302,16.034353,"carbonate; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",carbonate,ok
+46329.0,62.15085,10.087722,"Major:{meta-basalt}, Minor{greenschist,gabbro}; metasedimentary schist; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent",mafic,ok
+46331.0,62.139762175078,9.9936747550964,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; monzonite, quartz monzonite, granodiorite, diorite, tonalite, granitoid rocks; metasedimentary schist",metamorphic,ok
+46414.0,65.006890719953,19.613289356057,"greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; meta-rhyolite; metamorphic; Rhyolite, dacite, metamorphic; volcanic rocks",felsic,ok
+46421.0,38.034842007676,-8.4232566983213,"sedimentary rocks; Major:{meta-rhyolite}, Minor{meta-basalt group,shale/slate,quartzite}; metamorphic",felsic,ok
+46430.0,37.883678,-8.182083,"Major:{meta-rhyolite}, Minor{meta-basalt group,shale/slate,quartzite}; metamorphic; sedimentary rocks",felsic,ok
+46432.0,0.0,0.0,,unknown,ok
+46745.0,38.281718,-7.729614,"Major:{quartzite}, Minor{phyllite,shale/slate,meta-volcanic rock group}; metamorphic; orthogneiss/paragneiss/metavolcanic gneiss",volcanic,ok
+46971.0,34.4555555556,-112.192777778,Major:{metavolcanic}; rhyolite; schist; metamorphic and undivided crystalline: sedimentary and volcanic gneiss; felsic; volcanic rocks,volcanic,ok
+47837.0,69.736273,21.591482,"Major:{meta-sandstone}, Minor{quartzite,marble,tillite}; metamorphic; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; intrusive igneous rocks",carbonate,ok
+48271.0,35.759107943126,-105.66824490989,"sedimentary; Major:{metavolcanic,metaclastic,gneiss}, Minor:{amphibolite}; volcanic; almandine amphibolite grade metavolcanic schist",volcanic,ok
+48424.0,62.795424,11.473154,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; metasedimentary schist",metamorphic,ok
+50665.0,34.500831604004,-112.25666809082,"basalt; Major:{conglomerate,sandstone}, Minor:{mudstone,siltstone,limestone,gypsum}; limestone; metamorphic and undivided crystalline: sedimentary and volcanic gneiss; volcanic rocks",carbonate,ok
+51825.0,0.0,0.0,,unknown,ok
+53669.0,38.1527777778,140.197222222,sedimentary and volcanic rocks,volcanic,ok
+56299.0,0.0,0.0,,unknown,ok
+56379.0,33.9333333333,133.633333333,sedimentary rocks,other,ok
+56940.0,48.293,-2.933,"sedimentary rocks; limestone [5.0%..50.0%]; quartzite [5.0%..50.0%]; sandstone [5.0%..50.0%]; schist [50.0%..95.0%]; Major:{siltstone}, Minor{limestone,sandstone}",carbonate,ok
+58783.0,40.5422222222,-117.556944444,"carbonate-sandstone-chert; Major:{siliciclastic,volcanic}, Minor:{carbonate,argillite,chert,basalt}; basalt; volcanic: interlayered sedimentary and volcanic rocks",mafic,ok
+60100.0,-0.39,-78.925,sedimentary rocks,other,ok
+60101.0,-0.925533,-79.061604,sedimentary rocks,other,ok
+64183.0,42.016666666667,124.51527777778,crystalline metamorphic rocks,metamorphic,ok
+64578.0,41.416934906985,44.542694091797,"Major:{limestone}, Minor{sandstone,marl}; sedimentary and volcanic rocks",carbonate,ok
+64579.0,41.41121408,44.50804163,"Major:{limestone}, Minor{sandstone,marl}; sedimentary and volcanic rocks",carbonate,ok
+65283.0,60.229,23.539,"Major:{granodiorite-diorite group}, Minor{granite,syenite-monzonite group,meta-granodiorite-diorite group}; metavolcanic schist; felsic and intermediate volcanic rocks",felsic,ok
+66391.0,0.0,0.0,,unknown,ok
+66858.0,34.50232,-83.9593,"paragneiss; paragneiss/metavolcanic gneiss; sedimentary; Major:{mica schist,amphibolite}",volcanic,ok
+66898.0,33.75774,-84.93281,"Major:{hornblende gneiss,amphibolite}; paragneiss; paragneiss/metavolcanic gneiss; sedimentary",metamorphic,ok
+68188.0,-20.7303225905,140.420393451,medium grade metamorphic rock; schist; amphibolite grade orthogneiss/paragneiss/metavolcanic gneiss; ash,metamorphic,ok
+73136.0,42.475,141.05,felsic volcanic rocks,felsic,ok
+73233.0,40.7291666667,140.958333333,sedimentary and volcanic rocks,volcanic,ok
+73255.0,19.036683507473,-100.22958260237,metasedimentary; unclassified volcanic rocks; sedimentary,metamorphic,ok
+75449.0,37.9763888889,-120.642777778,"Major:{mafic volcanic}, Minor:{felsic volcanic}, Incidental:{chert, sandstone, conglomerate}; rhyolite; volcanic; volcanic: interlayered sedimentary and volcanic rocks; mudstone-carbonate-sandstone-conglomerate",felsic,ok
+81928.0,37.6013888889,-120.315833333,"volcanic: interlayered sedimentary and volcanic rocks; mudstone-carbonate-sandstone-conglomerate; Major:{mafic volcanic}, Minor:{felsic volcanic}, Incidental:{chert, sandstone, conglomerate}; rhyolite; volcanic",volcanic,ok
+84746.0,39.1155555556,-121.270555556,"Major:{mafic volcanic}, Minor:{felsic volcanic}, Incidental:{chert, sandstone, conglomerate}; rhyolite; volcanic; volcanic: interlayered sedimentary and volcanic rocks; mudstone-carbonate-sandstone-conglomerate",felsic,ok
+85223.0,39.0308333333,-121.288055556,"Major:{mafic volcanic}, Minor:{felsic volcanic}, Incidental:{chert, sandstone, conglomerate}; rhyolite; volcanic; mudstone-carbonate-sandstone-conglomerate; volcanic: interlayered sedimentary and volcanic rocks",felsic,ok
+92443.0,40.7252777778,-122.498055556,"volcanic: interlayered sedimentary and volcanic rocks; Major:{mafic volcanic}, Minor:{felsic volcanic,mudstone}, Incidental:{sandstone, conglomerate}; diabase; rhyolite; conglomerate,sandstone,shale,carbonate,chert",felsic,ok
+92495.0,40.7991666667,-122.202777778,"Major:{mafic volcanic,felsic volcanic}, Minor:{clastic}; rhyolite; andesite; mudstone-carbonate-sandstone-conglomerate",felsic,ok
+93923.0,41.95,-123.1,"sedimentary; mudstone-carbonate-sandstone-conglomerate; Major:{schist}, Minor:{amphibole schist}, Incidental:{chert}; schist",metamorphic,ok
+98618.0,39.175,-121.291666667,"Major:{mafic volcanic}, Minor:{felsic volcanic}, Incidental:{chert, sandstone, conglomerate}; rhyolite; volcanic; volcanic: interlayered sedimentary and volcanic rocks; mudstone-carbonate-sandstone-conglomerate",felsic,ok
+105730.0,0.0,0.0,,unknown,ok
+108083.0,0.0,0.0,,unknown,ok
+108163.0,35.1644444444,132.441666667,intermediate-felsic volcanic rocks,felsic,ok
+108673.0,-37.323411111111,142.85678888889,granite; schist; sedimentary rocks; sedimentary; metamorphic,metamorphic,ok
+109677.0,-28.7780555556,116.962777778,felsic; intrusive igneous rocks; igneous felsic intrusive; granite,felsic,ok
+109688.0,-27.046141130114,117.71221058717,igneous mafic volcanic; basalt; gabbro; greenstone belt; mafic-ultramafic volcanic rocks,mafic,ok
+122949.0,-21.0805555556,116.925,mafic-ultramafic volcanic rocks; rhyolite; igneous mafic volcanic; basalt,mafic,ok
+123462.0,5.93333,-76.18333,tuff; sedimentary rocks,volcanic,ok
+125608.0,35.036111111111,33.116388888889,"ophiolite complex; mafic volcanic rocks; Major:{basalt group}, Minor{basalt tuffite,basalt agglomerate}",mafic,ok
+131315.0,45.7719444444,-71.31,sedimentary rocks; volcanic: intermediate rocks,volcanic,ok
+131316.0,40.3472222222,140.766666667,sedimentary and volcanic rocks,volcanic,ok
+134605.0,24.1,101.683333333,sedimentary rocks,other,ok
+135298.0,34.384781223876,100.11875336329,sedimentary rocks,other,ok
+143888.0,42.35,113.433333333,intrusive igneous rocks,other,ok
+144055.0,42.280555555556,89.5225,sedimentary rocks,other,ok
+144272.0,47.3527777778,89.1983333333,sedimentary rocks,other,ok
+144903.0,31.25,99.5666666667,sedimentary rocks,other,ok
+144955.0,36.6427777778,104.262222222,mafic-intermediate volcanic rocks,mafic,ok
+144957.0,36.6577777778,104.229444444,mafic-intermediate volcanic rocks,mafic,ok
+144964.0,36.783333333333,103.7,mafic-intermediate volcanic rocks,mafic,ok
+144966.0,36.64905,104.25845,mafic-intermediate volcanic rocks,mafic,ok
+145027.0,34.9,106.483333333,crystalline metamorphic rocks,metamorphic,ok
+145060.0,37.4,101.1,mafic volcanic rocks,mafic,ok
+145237.0,29.9333333333,120.5,sedimentary rocks,other,ok
+146259.0,44.2083333333,142.702777778,mafic-intermediate volcanic rocks,mafic,ok
+146933.0,31.1844444444,99.5386111111,sedimentary rocks,other,ok
+147142.0,59.349836,5.232108,"metavolcanic schist; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",volcanic,ok
+147151.0,28.4938888889,101.688888889,sedimentary rocks,other,ok
+155653.0,0.0,0.0,,unknown,ok
+156937.0,45.3191666667,-71.9202777778,"sedimentary; melange; shale,breccia",siliciclastic,ok
+157060.0,0.0,0.0,,unknown,ok
+158668.0,37.585133778547,-7.1153895556927,"sandstone, slate and limestone; volcanic; Major:{meta-rhyolite}, Minor{meta-basalt group,shale/slate,quartzite}; metamorphic; sedimentary rocks",carbonate,ok
+159565.0,40.278527979238,140.67520582896,sedimentary and volcanic rocks,volcanic,ok
+171360.0,40.25,140.6,sedimentary and volcanic rocks,volcanic,ok
+175692.0,51.47,58.49,"Major:{limestone}, Minor{dolomite/dolostone,andesite}; sedimentary rocks",felsic,ok
+185726.0,57.384914,61.535013,"Major:{limestone}, Minor{dolomite/dolostone,andesite}; mafic-felsic mixed volcanic rocks",felsic,ok
+185841.0,54.12,59.33,plutonic ultramafic group; mafic volcanic rocks,mafic,ok
+186441.0,31.5666666667,99.3,sedimentary rocks,other,ok
+186761.0,24.3333333333,99.75,crystalline metamorphic rocks,metamorphic,ok
+186817.0,49.7694444444,-77.5705555556,plutonic: early tonalite plutons in the Superior province; intrusive igneous rocks,felsic,ok
+186819.0,49.7891666667,-77.8355555556,intermediate volcanic rocks,volcanic,ok
+186820.0,49.7755555556,-77.6575,intermediate volcanic rocks; plutonic: gabbro-anorthosite,volcanic,ok
+186826.0,49.7269444444,-77.7455555556,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+186827.0,49.71,-77.7077777778,volcanic: undivided volcanic rocks; intrusive igneous rocks,volcanic,ok
+186828.0,49.713611111111,-77.748888888889,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+187984.0,60.0583333333,-147.903333333,sedimentary and/or volcanic rock: undivided; ; volcanic: interlayered sedimentary and volcanic rocks,volcanic,ok
+187986.0,60.02175,-147.91921,"shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; Sedimentary; limestone; volcanic: interlayered sedimentary and volcanic rocks; sedimentary rocks",carbonate,ok
+187989.0,60.8947222222,-146.701388889,"shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; Sedimentary; sandstone",carbonate,ok
+187990.0,60.8533333333,-146.5375,Sedimentary; basalt; sedimentary; sedimentary rocks; sedimentary and/or volcanic rock: undivided; ,mafic,ok
+190419.0,54.166353512661,59.293088063831,"mafic volcanic rocks; Major:{siliclastics, consolidated}, Minor{schist group,basalt group,dacite}",mafic,ok
+190420.0,51.42382079,60.20430834,"Major:{limestone}, Minor{shale/slate,rhyolite,andesite group}; intrusive igneous rocks",felsic,ok
+190504.0,0.0,0.0,,unknown,ok
+191851.0,35.4333333333,99.6833333333,sedimentary rocks,other,ok
+192017.0,38.247394,100.02285,sedimentary rocks,other,ok
+192018.0,37.4166666667,102.0,mafic-intermediate volcanic rocks,mafic,ok
+192116.0,61.426944444444,-130.13222222222,"volcanic: mafic rocks; sandstone, siltstone, shale, limestone or metamorphosed equivalent; Major: {carbonaceous phyllite},Minor: {sandstone}; sandstone; sedimentary rocks",siliciclastic,ok
+192118.0,61.458333333333,-130.60833333333,"Major: {fp-ms-qtz schist}; schist; sedimentary rocks; sedimentary; sandstone, siltstone, shale, limestone or metamorphosed equivalent",metamorphic,ok
+192120.0,61.883333333333,-131.41666666667,"volcanic: mafic rocks; sedimentary rocks; Major: {basalt},Minor: {chert, argillite}; basalt; sedimentary and/or volcanic rock: undivided; metamorphosed equivalent",mafic,ok
+192198.0,40.6175,39.347777777778,sedimentary and volcanic rocks,volcanic,ok
+193448.0,54.860116666667,-99.994002777778,mafic metavolcanics; mafic; sedimentary rocks; volcanic: undivided volcanic rocks,mafic,ok
+193482.0,41.2517,41.5811,sedimentary and volcanic rocks,volcanic,ok
+193486.0,40.87,38.6666,sedimentary and volcanic rocks,volcanic,ok
+193982.0,53.107081,55.367362,"sedimentary rocks; Major:{carbonates}, Minor{clay,sandstone}",carbonate,ok
+194033.0,56.71,60.09,gabbro group; paragneiss/metavolcanic gneiss,mafic,ok
+194041.0,58.363056,52.362778,"Major:{claystone}, Minor{sandstone,marl,conglomerate}; sedimentary rocks",carbonate,ok
+194046.0,0.0,0.0,,unknown,ok
+194178.0,49.811686111111,-55.805925,volcanic: mafic rocks; mafic volcanic rocks; lava,mafic,ok
+194599.0,49.0008333333,-79.3663888889,volcanic: undivided volcanic rocks; intermediate volcanic rocks,volcanic,ok
+195124.0,31.868106326343,-8.1770946993493,sedimentary rocks; sedimentary,other,ok
+195346.0,54.702085362391,-101.71880722046,29a gabbro; gabbro; volcanic: undivided volcanic rocks; volcanic rocks,mafic,ok
+195350.0,40.75,40.25,sedimentary and volcanic rocks,volcanic,ok
+195374.0,51.1111111111,-92.6722222222,tonalite to granodiorite-foliated to massive; volcanic: interlayered sedimentary and volcanic rocks; intermediate volcanic rocks,volcanic,ok
+195437.0,54.854261111111,-100.493675,gabbro; mafic; volcanic: undivided volcanic rocks; volcanic rocks,mafic,ok
+195439.0,54.8594181364,-99.9136161804,mafic metavolcanics; mafic; sedimentary rocks; volcanic: undivided volcanic rocks,mafic,ok
+195441.0,54.839322222222,-100.09614722222,"rhyolite, dacite; rhyolite; volcanic: undivided volcanic rocks; volcanic rocks",felsic,ok
+195445.0,54.7775,-101.8825,volcanic: undivided volcanic rocks; volcanic rocks,volcanic,ok
+195447.0,54.702555555556,-101.67497222222,volcanic: undivided volcanic rocks; volcanic rocks; mafic metavolcanics; mafic,volcanic,ok
+195448.0,54.672877777778,-101.8507,basic to intermediate volcanic; volcanic: undivided volcanic rocks; volcanic rocks,volcanic,ok
+195450.0,54.773738888889,-101.59105833333,"rhyolite, dacite; rhyolite; volcanic: undivided volcanic rocks; volcanic rocks",felsic,ok
+195451.0,54.726944444444,-101.83222222222,volcanic: undivided volcanic rocks; volcanic rocks; mafic metavolcanics; mafic,volcanic,ok
+195453.0,54.676944444444,-102.02861111111,basic to intermediate volcanic; volcanic rocks; plutonic: undivided granitic rocks,volcanic,ok
+195454.0,0.0,0.0,,unknown,ok
+195460.0,41.1269,41.126,sedimentary and volcanic rocks,volcanic,ok
+195554.0,37.709724,-6.8515252527005,"volcanics and volcaniclastic rocks; volcanic; sedimentary rocks; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}",volcanic,ok
+195712.0,60.121,-152.954,"dacite, latite, andesite, rhyolite and related pyroclastic rocks; sedimentary rocks; Igneous; monzonite",felsic,ok
+196312.0,67.1738888889,-156.386944444,"sedimentary rocks; Metamorphic; rhyolite; sedimentary; sandstone, siltstone, shale, limestone or metamorphosed equivalent",metamorphic,ok
+197027.0,60.3522222222,-147.65,"ophiolite complex; mafic volcanic rocks; basalt; Igneous; basalt; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate",mafic,ok
+197159.0,63.2683333333,-144.265,"sedimentary rocks; Metamorphic; dacite; sandstone, siltstone, shale, limestone or metamorphosed equivalent; volcanic: interlayered sedimentary and volcanic rocks",metamorphic,ok
+198217.0,67.1247222222,-155.956944444,"sedimentary rocks; sedimentary; Metamorphic; schist; sandstone, siltstone, shale, limestone or metamorphosed equivalent",metamorphic,ok
+200220.0,67.0702777778,-155.042777778,"sedimentary; sandstone, siltstone, shale, limestone or metamorphosed equivalent; Metamorphic; schist; sedimentary rocks",metamorphic,ok
+203361.0,35.041434061824,33.107964992523,"ophiolite complex; mafic volcanic rocks; Major:{basalt group}, Minor{basalt tuffite,basalt agglomerate}",mafic,ok
+203368.0,34.976388888889,33.346388888889,"ophiolite complex; mafic volcanic rocks; Major:{basalt group}, Minor{basalt tuffite,basalt agglomerate}",mafic,ok
+203668.0,48.5341666667,-81.5608333333,"volcanic: felsic rocks; rhyolitic, rhyodacitic flows, tuffs and breccias; intrusive igneous rocks",felsic,ok
+203671.0,48.5911111111,-81.605,"mafic-ultramafic volcanic rocks; tholeiite; plutonic: mafic rocks; basaltic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks, related migmatites",mafic,ok
+203694.0,0.0,0.0,,unknown,ok
+203712.0,0.0,0.0,,unknown,ok
+204066.0,38.234867,-8.4652,sand; sedimentary rocks,other,ok
+204443.0,37.775328150648,-6.8592882195662,"volcanics and volcaniclastic rocks; volcanic; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}; orthogneiss/paragneiss/metavolcanic gneiss",volcanic,ok
+204899.0,37.698147,-6.850006,"sedimentary rocks; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}; conglomerate, sandstone, slate and limestone. coal; limestone",carbonate,ok
+204902.0,0.0,0.0,,unknown,ok
+204906.0,0.0,0.0,,unknown,ok
+204909.0,37.638611111111,-6.8569444444444,"volcanics and volcaniclastic rocks; volcanic; sedimentary rocks; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}",volcanic,ok
+204913.0,0.0,0.0,,unknown,ok
+204915.0,37.635277777778,-6.7677777777778,"volcanics and volcaniclastic rocks; volcanic; sedimentary rocks; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}",volcanic,ok
+204918.0,37.637222222222,-6.8013888888889,"volcanics and volcaniclastic rocks; volcanic; sedimentary rocks; Major:{meta-sandstone}, Minor{shale/slate,meta-limestone,greenschist}",volcanic,ok
+204920.0,0.0,0.0,,unknown,ok
+204923.0,0.0,0.0,,unknown,ok
+204925.0,0.0,0.0,,unknown,ok
+204926.0,0.0,0.0,,unknown,ok
+204927.0,0.0,0.0,,unknown,ok
+204928.0,0.0,0.0,,unknown,ok
+204930.0,37.799351372967,-6.966848151502,"orthogneiss/paragneiss/metavolcanic gneiss; Major:{meta-rhyolite}, Minor{meta-basalt group,shale/slate,quartzite}; metamorphic; volcanics and volcaniclastic rocks; volcanic",volcanic,ok
+204933.0,0.0,0.0,,unknown,ok
+204934.0,0.0,0.0,,unknown,ok
+204935.0,0.0,0.0,,unknown,ok
+204941.0,0.0,0.0,,unknown,ok
+204943.0,0.0,0.0,,unknown,ok
+204946.0,0.0,0.0,,unknown,ok
+204949.0,37.77543,-8.649542,"Major:{meta-sandstone}, Minor{shale/slate,meta-limestone}; sedimentary rocks",carbonate,ok
+205423.0,45.7666666667,135.966666667,sedimentary rocks,other,ok
+205483.0,48.3552777778,-79.1175,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+205613.0,0.0,0.0,,unknown,ok
+205614.0,0.0,0.0,,unknown,ok
+205615.0,37.3880555556,139.441666667,sedimentary and volcanic rocks,volcanic,ok
+206050.0,-21.304821351187,119.27789306641,mafic-ultramafic volcanic rocks; igneous mafic volcanic; basalt,mafic,ok
+206052.0,-21.122252058441,119.25905055786,sedimentary; metamorphic; sandstone; mafic-ultramafic volcanic rocks,metamorphic,ok
+206690.0,49.198825,-56.157344444444,intrusive igneous rocks; volcanic: mafic rocks,mafic,ok
+207910.0,49.4530555556,-78.3525,volcanic: undivided volcanic rocks; intermediate volcanic rocks,volcanic,ok
+207911.0,49.6833333333,-78.95,metasedimentary schist; volcanic: undivided volcanic rocks,metamorphic,ok
+209445.0,48.9786111111,-87.375,"gabbro, anorthosite, ultramafic rocks; plutonic: late felsic and intermediate plutons in the Superior province; intrusive igneous rocks",mafic,ok
+209909.0,45.8025,-71.2866666667,sedimentary rocks; volcanic: intermediate rocks,volcanic,ok
+210265.0,39.3391666667,97.9422222222,intermediate volcanic rocks,volcanic,ok
+210267.0,66.334072,14.083099,"carbonate; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; Major:{mica schist}, Minor{gneiss,marble,amphibolite}; metamorphic",carbonate,ok
+212179.0,41.2644444444,140.994444444,sedimentary and volcanic rocks,volcanic,ok
+214669.0,67.140521,16.138064,"metavolcanic schist; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",volcanic,ok
+214670.0,67.149939,16.004646,"carbonate; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",carbonate,ok
+214671.0,67.137544,16.114855,"metavolcanic schist; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",volcanic,ok
+214679.0,67.119864,16.012537,"carbonate; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic",carbonate,ok
+217008.0,-20.343977777778,145.76904444444,"regolith; sandstone,conglomerate; ash",siliciclastic,ok
+217330.0,43.0083333333,140.658333333,sedimentary and volcanic rocks,volcanic,ok
+217344.0,41.1933333333,140.894444444,sedimentary and volcanic rocks,volcanic,ok
+217350.0,37.3416666667,139.333333333,sedimentary and volcanic rocks,volcanic,ok
+220728.0,49.5080555556,-55.7197222222,,unknown,ok
+222130.0,18.881666666667,-70.245,mafic volcanic rocks,mafic,ok
+224829.0,33.7963888889,133.252777778,sedimentary rocks,other,ok
+230048.0,37.500555555556,-6.0933333333333,"sandstone, conglomerate, clay; limestone and evaporites; limestone; sedimentary rocks; Major:{marl}, Minor{conglomerate,limestone,gypsum}",carbonate,ok
+231161.0,22.03,-80.15,sedimentary; sedimentary rocks,other,ok
+231326.0,64.85622,13.434215,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; metasedimentary schist; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent",metamorphic,ok
+231677.0,50.6333333333,-117.4,"limestone, slate, siltstone, argillite; limestone; sedimentary; sedimentary rocks",carbonate,ok
+232935.0,0.0,0.0,,unknown,ok
+233725.0,48.302533333333,-79.055944444444,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+235751.0,0.0,0.0,,unknown,ok
+237747.0,41.805094059629,33.68852612482,mudstone-carbonate-sandstone-conglomerate,carbonate,ok
+445550.0,41.809060673643,33.691787690783,mudstone-carbonate-sandstone-conglomerate,carbonate,ok
+237746.0,41.807943359521,33.688893314322,mudstone-carbonate-sandstone-conglomerate,carbonate,ok
+239474.0,-37.004386111111,147.88663333333,gneiss; paragneiss; andesite; sedimentary; metamorphic,metamorphic,ok
+239475.0,-36.989305555556,147.91134444444,gneiss; paragneiss; andesite; sedimentary; metamorphic,metamorphic,ok
+241607.0,51.1444444444,-119.809444444,"greenstone, greenschist metamorphic rocks; sedimentary rocks; sedimentary",metamorphic,ok
+242867.0,45.7038888889,-71.3727777778,sedimentary rocks; volcanic: intermediate rocks,volcanic,ok
+243323.0,54.659584684389,-99.877266642928,diorite; mafic; sedimentary; sedimentary rocks,felsic,ok
+243349.0,54.765555555556,-101.6175,volcanic: undivided volcanic rocks; volcanic rocks; mafic metavolcanics; mafic,volcanic,ok
+243351.0,54.938333333333,-101.17083333333,plutonic: undivided granitic rocks; tonalite-granodiorite; granodiorite; volcanic rocks,felsic,ok
+243373.0,54.581316666667,-100.47068611111,"limestone, dolomite; limestone; sedimentary; sedimentary rocks",carbonate,ok
+243607.0,54.626895333719,-100.53168582846,volcanic rocks; tonalite-granodiorite; granodiorite,felsic,ok
+243676.0,48.9780555556,-87.3647222222,"plutonic: late felsic and intermediate plutons in the Superior province; gabbro, anorthosite, ultramafic rocks; intrusive igneous rocks",felsic,ok
+243680.0,49.8669444444,-91.0369444444,"mafic-ultramafic volcanic rocks; tholeiite; rhyolitic, rhyodacitic, dacitic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks; related migmatites",mafic,ok
+243681.0,49.8769444444,-90.8830555556,"volcanic: mafic rocks; mafic-ultramafic volcanic rocks; tholeiite; rhyolitic, rhyodacitic, dacitic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks; related migmatites",mafic,ok
+243684.0,49.8869444444,-90.89,"basaltic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks, related migmatites; volcanic: mafic rocks; mafic-ultramafic volcanic rocks; tholeiite",mafic,ok
+244258.0,49.1566666667,-85.8252777778,"rhyolitic, rhyodacitic, dacitic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks; related migmatites; metamorphic and undivided crystalline: mainly tonalite gneiss; mafic volcanic rocks",volcanic,ok
+244355.0,26.45,37.5333333333,sedimentary and volcaniclastic; intrusive igneous rocks,volcanic,ok
+244359.0,17.4833333333,43.9166666667,sedimentary and volcaniclastic; sedimentary rocks,volcanic,ok
+244362.0,25.5916666667,41.4416666667,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+244581.0,48.379080555556,-78.909311111111,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+244583.0,48.298380555556,-79.152322222222,intermediate volcanic rocks; plutonic: early tonalite plutons in the Superior province,volcanic,ok
+244584.0,48.2211272811,-79.2380332947,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+244626.0,50.5330555556,81.8755555556,sedimentary rocks,other,ok
+244917.0,48.356066666667,-79.058297222222,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+244918.0,48.343544444444,-79.078644444444,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+244919.0,48.440833333333,-79.350833333333,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+246047.0,42.8525,-8.48833333333,"Major:{shale/slate}, Minor{quartzite,siliceous ooze,greenschist}; metamorphic; intrusive igneous rocks; mica schist, phyllite, sandstone, marble, limestone, dolomite and marl; felsic",siliciclastic,ok
+247015.0,0.0,0.0,,unknown,ok
+248675.0,11.8004,125.2658,sedimentary rocks,other,ok
+248677.0,8.0008,117.0493,sedimentary rocks,other,ok
+248824.0,48.339563888889,-79.089980555556,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+248892.0,49.6561111111,-56.0322222222,volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+251086.0,51.19784851042,82.196097169946,sedimentary rocks,other,ok
+251681.0,0.0,0.0,,unknown,ok
+252865.0,54.8434578678,-100.110855103,volcanic: undivided volcanic rocks; volcanic rocks; mafic metavolcanics; mafic,volcanic,ok
+254752.0,46.2069444444,-82.6491666667,"conglomerate, sandstone, silstone, argillite; plutonic: undivided granitic rocks",siliciclastic,ok
+254956.0,49.1647222222,-85.8463888889,"metamorphic and undivided crystalline: mainly tonalite gneiss; mafic volcanic rocks; rhyolitic, rhyodacitic, dacitic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks; related migmatites",felsic,ok
+254957.0,49.1758333333,-85.8838888889,"mafic volcanic rocks; rhyolitic, rhyodacitic, dacitic and andesitic flows, tuffs and breccias, chert, iron formation, minor metasedimentary and intrusive rocks; related migmatites; volcanic: interlayered sedimentary and volcanic rocks",volcanic,ok
+256822.0,48.2641666667,-79.0219444444,intermediate volcanic rocks; volcanic: undivided volcanic rocks,volcanic,ok
+256957.0,48.2547222222,-78.4347222222,mafic-ultramafic volcanic rocks; tholeiite; volcanic: undivided volcanic rocks,mafic,ok
+257036.0,48.0997222222,-77.5163888889,mafic-ultramafic volcanic rocks; tholeiite; volcanic: mafic rocks,mafic,ok
+257043.0,48.0877777778,-77.6102777778,mafic-ultramafic volcanic rocks; tholeiite; volcanic: mafic rocks,mafic,ok
+257044.0,48.0758333333,-77.5772222222,mafic-ultramafic volcanic rocks; tholeiite; volcanic: mafic rocks,mafic,ok
+257046.0,48.1011111111,-77.6611111111,mafic-ultramafic volcanic rocks; tholeiite; volcanic: mafic rocks,mafic,ok
+258979.0,40.2818,140.565,sedimentary and volcanic rocks,volcanic,ok
+259043.0,56.211111,-130.345,volcanic rocks; volcanic: undivided volcanic rocks; andesitic volcanic rocks; tuff,volcanic,ok
+260898.0,0.0,0.0,,unknown,ok
+262768.0,54.302602637933,85.778760139051,sedimentary rocks,other,ok
+265657.0,0.0,0.0,,unknown,ok
+270647.0,42.879131583385,-8.3512287975163,"serpentinite and peridotite. basic and ultrabasic rocks; serpentinite; Major:{phyllite}, Minor{meta-sandstone,gneiss}; orthogneiss/paragneiss",mafic,ok
+270836.0,0.0,0.0,,unknown,ok
+248876.0,48.825,-56.8763888889,volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+8945.0,48.8230555556,-56.8661111111,volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+248877.0,48.8330555556,-56.8836111111,volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+271803.0,49.900497427534,-56.059610833083,gabbro; volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+272287.0,49.409222,76.11543,intermediate-felsic volcanic rocks,felsic,ok
+272685.0,-20.8807773753,117.809023778,rhyolite; igneous mafic volcanic; basalt; mafic-ultramafic volcanic rocks,mafic,ok
+284245.0,0.0,0.0,,unknown,ok
+289643.0,51.583055555556,81.593055555556,sedimentary rocks,other,ok
+290390.0,0.0,0.0,,unknown,ok
+295016.0,22.2138888889,-80.0805555556,volcanic: mafic rocks; mafic volcanic rocks,mafic,ok
+295017.0,0.0,0.0,,unknown,ok
+296327.0,50.4799095249,59.1083021376,"Major:{sandstone}, Minor{schist group,basalt group,andesite}; mafic volcanic rocks",felsic,ok
+297488.0,50.933576265461,81.36501967907,sedimentary rocks,other,ok
+297491.0,50.237526705976,82.350054234266,sedimentary rocks,other,ok
+298562.0,54.27506175,59.48218101,plutonic ultramafic group; mafic volcanic rocks,mafic,ok
+298565.0,54.13992599,59.3718978,plutonic ultramafic group; mafic volcanic rocks,mafic,ok
+298567.0,54.11818001,59.37500437,plutonic ultramafic group; mafic volcanic rocks,mafic,ok
+301111.0,-20.336366185142,145.77473397006,"regolith; sandstone,conglomerate; ash",siliciclastic,ok
+302291.0,47.28362,-65.87829,volcanic: bimodal rocks (mafic and alkaline mafic); bimodal volcanic rocks,mafic,ok
+302593.0,51.5,-119.83333333333,sedimentary; sedimentary rocks; paragneiss metamorphic rocks; gneiss,metamorphic,ok
+303860.0,0.0,0.0,,unknown,ok
+308054.0,59.8,59.666666666667,"Major:{carbonates}, Minor{schist group,basalt group,tuff group}; mafic volcanic rocks",mafic,ok
+308438.0,49.240279126543,86.622313510478,sedimentary rocks,other,ok
+308609.0,-31.395552935688,146.72125220105,ash; sedimentary rocks; sedimentary; metamorphic,volcanic,ok
+310457.0,63.452777777778,-110.91805555556,"intrusive igneous rocks; granite, granodiorite, tonalite, quartz diorite, diorite, gabbro; plutonic: undivided granitic rocks",felsic,ok
+332884.0,-4.9166666666667,-80.166666666667,intrusive igneous rocks,other,ok
+333368.0,58.253611111111,-128.58472222222,sedimentary; gabbroic to dioritic intrusive rocks; diorite; intrusive igneous rocks,mafic,ok
+333667.0,38.49834,67.65078,sedimentary rocks,other,ok
+335886.0,0.0,0.0,,unknown,ok
+407137.0,62.382940012759,10.406801998615,"Major:{meta-sandstone}, Minor{phyllite,conglomerate,meta-volcanic rock group}; metamorphic; shale, chert, iron-formation, greywacke, turbidite, argillaceous limestone, matrix-supported conglomerate; metamorphosed equivalent; metasedimentary schist",metamorphic,ok
+412590.0,45.733333333333,-60.416666666667,volcanic: interlayered sedimentary and volcanic rocks; felsic; sedimentary and volcanic rocks,volcanic,ok
+413604.0,-18.786606129632,144.69074255751,volcanic; schist; igneous mafic volcanic; igneous felsic volcanic; felsic; mudstone-sandstone-siltstone,felsic,ok
+423145.0,62.681771309381,11.128394007683,"Major:{meta-basalt}, Minor{greenschist,gabbro}; metasedimentary schist; basalt, olivine basalt, tholeiite, alkali basalt, basanite, pillow basalt, flood basalt; metamorphosed equivalent",mafic,ok
+423314.0,34.140994,107.718021,intrusive igneous rocks,other,ok
+424161.0,47.718888888889,-66.283333333333,sedimentary rocks; volcanic: undivided volcanic rocks,volcanic,ok
+424809.0,50.0,84.0,intrusive igneous rocks,other,ok
+433522.0,65.917222222222,-108.36305555556,"sedimentary; rhyodacite, rhyolite and related intrusive rocks and derived sediments; minor basalt, andesite; intermediate volcanic rocks",felsic,ok
+435447.0,0.0,0.0,,unknown,ok
+440657.0,0.0,0.0,,unknown,ok
+442215.0,-13.072789867328,-48.265686035156,mafic volcanic rocks,mafic,ok
+444000.0,41.2518,41.8195,sedimentary and volcanic rocks,volcanic,ok
+446710.0,42.878652888977,-8.3208722667072,"Major:{phyllite}, Minor{meta-sandstone,gneiss}; orthogneiss/paragneiss; mica schist, phyllite, sandstone, marble, limestone, dolomite and marl; felsic",siliciclastic,ok
+448213.0,0.0,0.0,,unknown,ok
+252247.0,0.0,0.0,,unknown,ok
+455407.0,37.58493268501,-7.1064014732838,"sandstone, slate and limestone; volcanic; Major:{meta-rhyolite}, Minor{meta-basalt group,shale/slate,quartzite}; metamorphic; sedimentary rocks",carbonate,ok
+506.0,55.7197625842,-97.8353118896,plutonic: tonalite; intrusive igneous rocks; ortho- and paragneiss; aplite,felsic,ok
+721.0,41.992858333333,110.12308055556,intrusive igneous rocks,other,ok
+730.0,30.6986111111,101.909722222,sedimentary rocks,other,ok
+2725.0,67.922425,32.838977777778,"Major:{mica schist}, Minor{gneiss,amphibolite}; metamorphic; intrusive igneous rocks; gabbro, monzodiorite, mafic dykes and sills, anorthosite, peridotite",metamorphic,ok
+2751.0,69.4918008,88.4238928,"sandstone, siltstone, shale, limestone; ; Major:{limestone}, Minor{dolomite/dolostone,andesite}; sedimentary rocks",carbonate,ok
+3063.0,0.0,0.0,,unknown,ok
+3064.0,-24.2972222,29.8791667,plutonic; gabbro; intrusive igneous rocks,mafic,ok
+3075.0,-30.716666666667,29.299722222222,sedimentary (karoo); sedimentary rocks; dolerite,mafic,ok
+7797.0,-27.22868394857,120.54439591183,igneous mafic volcanic; basalt; ash; greenstone belt; mafic-ultramafic volcanic rocks,mafic,ok
+8049.0,46.458842,-81.080933,"sedimentary; mudstone; norite-gabbro, quartz norite, sublayer and offset rocks",siliciclastic,ok
+8082.0,46.6333333333,-81.3833333333,granophyre; sedimentary; intrusive igneous rocks,other,ok
+8182.0,46.5361111111,-80.9988888889,"mudstone; mafic, intermediate and felsic metavolcanic rocks, intercalated metasedimentary rocks and epiclastic rocks; plutonic: late felsic and intermediate plutons in the Superior province",felsic,ok
+8701.0,55.7022222222,-97.9247222222,sedimentary; intrusive igneous rocks; ortho- and paragneiss; aplite,metamorphic,ok
+9386.0,61.4652777778,-139.5275,"dacite, latite, andesite, rhyolite and related pyroclastic rocks; volcanic: undivided volcanic rocks; Major: {peridotite,dunite},Minor: {pyroxenite,gabbro}; volcanic rocks",volcanic,ok
+10328.0,46.476256349528,-81.06023639679,"siltstone, wacke, argillite; mudstone; plutonic: late felsic and intermediate plutons in the Superior province",siliciclastic,ok
+10383.0,46.462280137519,-81.186388528286,"norite-gabbro, quartz norite, sublayer and offset rocks; mudstone; plutonic: late felsic and intermediate plutons in the Superior province",mafic,ok
+11127.0,46.58,-80.795,"mudstone; siltstone, wacke, argillite; plutonic: late felsic and intermediate plutons in the Superior province",siliciclastic,ok
+11952.0,-25.541142,27.184777,intrusive igneous rocks; pyroxenite; plutonic,mafic,ok
+14297.0,46.6511111111,-81.3777777778,tonalite to granodiorite-foliated to gneissic-with minor supracrustal inclusions; intrusive igneous rocks; sedimentary,felsic,ok
+15930.0,62.0086,32.6768,"Major:{basalt}, Minor{andesite group,rhyolite}; volcanic and sedimentary rocks, amphibolite, mica gneiss, iron-formation; volcanic rocks",volcanic,ok
+16397.0,47.7083333333,-91.9416666667,"metamorphic and undivided crystalline: mainly tonalite gneiss; Major:{monzonite,quartz monzonite,granodiorite}; granodiorite; felsic volcanic rocks",felsic,ok
+16722.0,46.5177777778,-81.0588888889,"norite-gabbro, quartz norite, sublayer and offset rocks; mudstone; plutonic: late felsic and intermediate plutons in the Superior province",mafic,ok
+18379.0,-21.9469444444,27.8552777778,volcanic-sedimentary and metamorphic; crystalline metamorphic rocks,volcanic,ok
+18963.0,-17.06367713504,31.655559539795,crystalline metamorphic rocks; plutonic and metamorphic,metamorphic,ok
+20202.0,0.0,0.0,,unknown,ok
+21132.0,41.1666666667,117.383333333,crystalline metamorphic rocks,metamorphic,ok
+21217.0,0.0,0.0,,unknown,ok
+21221.0,0.0,0.0,,unknown,ok
+21638.0,-19.776944444444,29.365833333333,volcanic-sedimentary and plutonic; mafic volcanic rocks,volcanic,ok
+22091.0,22.75,33.6,volcanic and intrusive igneous rocks; sedimentary and volcaniclastic,volcanic,ok
+25759.0,56.33,-62.0952777778,sedimentary; sedimentary rocks,other,ok
+25958.0,-24.775342067169,27.350738258634,plutonic; gabbro; intrusive igneous rocks,mafic,ok
+26179.0,0.0,0.0,,unknown,ok
+26314.0,-20.332577642886,30.059181153774,mafic volcanic rocks; plutonic and metamorphic,mafic,ok
+47950.0,61.6805555556,-73.6833333333,"bimodal-mainly mafic volcanic rocks; basalt; volcanic: mafic rocks; sandstone, quartzite; polymictic conglomerate; marble, calcsilicate; slate, ironstone, chert; minor basalt, gabbro, peridotite",mafic,ok
+48983.0,33.25,106.366666667,sedimentary rocks,other,ok
+52166.0,38.4666666667,102.166666667,sedimentary rocks,other,ok
+56760.0,-23.987938588912,28.904128281476,intrusive igneous rocks; gabbro; plutonic,mafic,ok
+122759.0,-27.8152777778,120.704166667,felsic; igneous mafic volcanic; basalt; greenstone belt; mafic-ultramafic volcanic rocks,mafic,ok
+122767.0,-26.8833333333,120.383333333,greenstone belt; mafic-ultramafic volcanic rocks; ash; igneous mafic volcanic; basalt,mafic,ok
+123423.0,47.7208333333,-91.8241666667,intrusive igneous rocks; Major:{troctolite}; troctolite; metamorphic and undivided crystalline: mainly tonalite gneiss,mafic,ok
+134599.0,22.8583333333,102.966666667,sedimentary rocks,other,ok
+143447.0,42.866666666667,127.375,crystalline metamorphic rocks,metamorphic,ok
+143624.0,41.670833333333,125.70833333333,intermediate-felsic volcanic rocks,felsic,ok
+143633.0,43.3027777778,127.419444444,intrusive igneous rocks,other,ok
+143648.0,42.8833333333,126.5,intrusive igneous rocks,other,ok
+143685.0,43.1291666667,129.668055556,intrusive igneous rocks,other,ok
+143975.0,46.7575,89.6763888889,sedimentary rocks,other,ok
+144051.0,42.3367557,94.73407634,sedimentary rocks,other,ok
+144069.0,42.25,94.1166666667,sedimentary rocks,other,ok
+144070.0,42.15,94.2666666667,sedimentary rocks,other,ok
+144071.0,42.29718102,94.60404525,sedimentary rocks,other,ok
+144072.0,42.2166666667,94.6833333333,sedimentary rocks,other,ok
+144073.0,42.39329096,94.58143114,sedimentary rocks,other,ok
+144081.0,42.70423487,95.70082923,sedimentary rocks,other,ok
+144083.0,41.92970185,94.98848499,sedimentary rocks,other,ok
+144450.0,45.1277777778,131.344444444,sedimentary rocks,other,ok
+144713.0,36.05,102.2,mafic volcanic rocks,mafic,ok
+147060.0,26.3166666667,102.083333333,sedimentary rocks,other,ok
+147067.0,26.7952777778,101.575,sedimentary rocks,other,ok
+155526.0,25.05,100.866666667,mafic metavolcanics; paragneiss,mafic,ok
+155865.0,25.7833333333,101.9,sedimentary rocks,other,ok
+156831.0,0.0,0.0,,unknown,ok
+157684.0,24.975,108.758333333,mafic volcanic rocks,mafic,ok
+166723.0,47.7502777778,-91.8177777778,"Major:{granite,granodiorite}; granite; intrusive igneous rocks",felsic,ok
+167211.0,47.8013888889,-91.7555555556,Major:{troctolite}; troctolite; felsic volcanic rocks,mafic,ok
+185759.0,0.0,0.0,,unknown,ok
+185761.0,41.86751307,94.92629621,sedimentary rocks,other,ok
+185767.0,40.21668356,91.51722021,sedimentary rocks,other,ok
+188445.0,0.0,0.0,,unknown,ok
+190656.0,-21.212079647903,27.765530415137,volcanic-sedimentary and metamorphic; crystalline metamorphic rocks,volcanic,ok
+192016.0,36.6,100.866666667,sedimentary rocks,other,ok
+192786.0,24.995422222222,108.77481388889,mafic volcanic rocks,mafic,ok
+192788.0,24.991786111111,108.85221944444,mafic volcanic rocks,mafic,ok
+210332.0,46.4927777778,-81.0688888889,"mudstone; mafic, intermediate and felsic metavolcanic rocks, intercalated metasedimentary rocks and epiclastic rocks; plutonic: late felsic and intermediate plutons in the Superior province",felsic,ok
+225030.0,-25.742962,30.61667,limestone; sedimentary and volcaniclastic; sedimentary and volcanic rocks,volcanic,ok
+225646.0,25.75,100.25,sedimentary rocks,other,ok
+231947.0,-19.15,29.8,mafic-intermediate volcanic rocks; volcanic-sedimentary and plutonic,mafic,ok
+232236.0,42.5363888889,95.7016666667,sedimentary rocks,other,ok
+232918.0,0.0,0.0,,unknown,ok
+232939.0,41.839961111111,109.99635555556,intrusive igneous rocks,other,ok
+232947.0,0.0,0.0,,unknown,ok
+232948.0,0.0,0.0,,unknown,ok
+234066.0,0.0,0.0,,unknown,ok
+234067.0,0.0,0.0,,unknown,ok
+247872.0,-18.4677777778,29.4522222222,volcanic-sedimentary; mafic-intermediate volcanic rocks,volcanic,ok
+248178.0,-31.2,121.666666667,igneous mafic volcanic; basalt; sedimentary rocks; andesite,mafic,ok
+250844.0,0.0,0.0,,unknown,ok
+254843.0,42.9333333333,82.3,intrusive igneous rocks,other,ok
+255031.0,0.0,0.0,,unknown,ok
+259234.0,-25.4630555556,27.1283333333,intrusive igneous rocks; pyroxenite; plutonic,mafic,ok
+260009.0,36.4930555556,93.3611111111,sedimentary rocks,other,ok
+266410.0,56.316666666667,157.2,sedimentary rocks,other,ok
+298078.0,-17.332132591184,31.281606261019,mafic-intermediate undivided volcanic rocks; volcanic-sedimentary and plutonic,mafic,ok
+302747.0,-17.966666666667,29.8,sedimentary and volcaniclastic; crystalline metamorphic rocks,volcanic,ok
+359845.0,0.0,0.0,,unknown,ok
+405074.0,42.145666701876,92.525142503803,sedimentary rocks,other,ok
+432887.0,55.766666666667,-66.933333333333,bimodal volcanic rocks; volcanic: bimodal rocks (mafic and alkaline mafic),volcanic,ok
+433058.0,42.75511661,95.83086032,sedimentary rocks,other,ok
+444013.0,42.014097081244,110.12197494507,intrusive igneous rocks,other,ok
+125.0,-19.7023545167,134.244931032,intrusive igneous rocks; sedimentary; metamorphic,metamorphic,ok
+132.0,-21.540337655,140.498235602,rhyolite; intrusive igneous rocks; sedimentary; metamorphic,felsic,ok
+134.0,-20.7195375299,140.510681958,medium grade metamorphic rock; schist; amphibolite grade orthogneiss/paragneiss/metavolcanic gneiss; diorite; gabbro,metamorphic,ok
+171.0,-33.908755555556,137.65188888889,intrusive igneous rocks; igneous felsic intrusive; granite,felsic,ok
+9786.0,19.75,-14.3833333333,volcanic-sedimentary; orthogneiss/paragneiss/metavolcanic gneiss,volcanic,ok
+11726.0,-30.44,136.872777778,"regolith; siltstone,conglomerate,shale,sandstone,limestone; conglomerate; sandstone",siliciclastic,ok
+13826.0,28.015,75.775555555556,sedimentary rocks,other,ok
+13958.0,-33.9758333333,137.689166667,sedimentary; metamorphic; intrusive igneous rocks,metamorphic,ok
+17046.0,19.2366666667,109.043333333,intrusive igneous rocks,other,ok
+18837.0,63.7583,-116.9167,"intrusive igneous rocks; volcanic: felsic rocks; rhyolite, rhyodacite, dacite, andesite, basalt, gabbro, felsic porphyry, sandstone, conglomerate, siltstone",felsic,ok
+19062.0,-20.9522349734,140.980773926,"sandstone,shale,siltstone,limestone; regolith",carbonate,ok
+24995.0,-6.0325,-50.566388888889,"banded iron formation, metasedimentary clástica, metabasalt, metadiorite, metaigneous, Metapyroclastic volcanic, felsic metavolcanic; low grade unclassified metamorphic rock",felsic,ok
+26538.0,-19.4478422436,133.818891957,intrusive igneous rocks; sedimentary; metamorphic,metamorphic,ok
+27056.0,22.575,103.8,mafic metavolcanics; paragneiss,mafic,ok
+32750.0,63.548220882342,-116.74073296354,"rhyolite, rhyodacite, dacite, andesite, basalt, gabbro, felsic porphyry, sandstone, conglomerate, siltstone; intrusive igneous rocks; volcanic: felsic rocks",felsic,ok
+43252.0,-31.4277777778,140.468611111,"laterite,clay,gravel,sand,silt; regolith",other,ok
+46972.0,41.859761,78.195299,sedimentary rocks,other,ok
+56211.0,-25.2567587597,28.580646074,sedimentary and volcaniclastic; rhyolite; felsic volcanic rocks,felsic,ok
+65285.0,-20.739163888889,140.65382222222,mafic volcanic rocks; marble; igneous mafic volcanic; basalt,mafic,ok
+122266.0,31.8333333333,59.0,mafic-felsic mixed volcanic rocks; tuff,felsic,ok
+123470.0,26.1,101.9,sedimentary rocks,other,ok
+127294.0,-20.625,140.688333333,medium grade metamorphic rock; schist; intrusive igneous rocks; tonalite,metamorphic,ok
+134745.0,26.183333333333,102.98333333333,mafic-intermediate volcanic rocks,mafic,ok
+135235.0,-31.2144444444,137.497222222,"sandstone,shale,limestone,siltstone,tillite,dolomite; sedimentary; metamorphic; sandstone; quartzite",siliciclastic,ok
+144270.0,46.8480555556,89.7130555556,sedimentary rocks,other,ok
+144548.0,25.5472222222,102.229166667,mafic volcanic rocks,mafic,ok
+145877.0,-5.7878388888889,-50.537411111111,"actinolite schist, banded iron formation, metagraywacke; volcanic rocks",metamorphic,ok
+145879.0,-6.43083773729,-50.068699121475,"diorite, granite; medium-high grade unclassified metamorphic rock",felsic,ok
+145884.0,-6.382435109319,-49.547460855723,"low grade unclassified metamorphic rock; charnockite, diorite, gneiss, granite, granitoid (granite), granulite, metamorphic mafic rock",metamorphic,ok
+158934.0,-26.558435795857,-70.325290753794,intrusive igneous rocks,other,ok
+158941.0,67.769281,20.146252,"volcanic rocks; Shale, dolomite, basalt, sandstone, metamorphic; felsic and intermediate volcanic rocks",volcanic,ok
+190718.0,-6.4192737725761,-50.063018153994,"charnockite, diorite, gneiss, granite, granitoid (granite), granulite, metamorphic mafic rock; medium-high grade unclassified metamorphic rock",felsic,ok
+190736.0,-6.3972321230049,-50.1044117399,"metabasalt, meta dacite, metarhyolite, rhyolite; medium-high grade unclassified metamorphic rock",felsic,ok
+191196.0,-27.526505311158,-70.294626892646,sedimentary rocks,other,ok
+191789.0,-20.4442714432,140.705879402,"regolith; felsic; volcanic; sandstone,shale,siltstone,limestone",felsic,ok
+191790.0,-22.0933175,140.572909,"sandstone; sedimentary; metamorphic; sandstone,shale,siltstone,limestone",siliciclastic,ok
+191824.0,0.0,0.0,,unknown,ok
+191825.0,65.082098723874,-134.25716069779,"sedimentary rocks; Major: {siltstone, shale, silty dolostone},Minor: {phyllite, schist}; sedimentary; shale, siltstone, sandstone, and minor dolostone",carbonate,ok
+191826.0,64.995973603824,-133.998246987,"sedimentary rocks; Major: {hematitic breccia}; sedimentary; shale, siltstone, sandstone, and minor dolostone",carbonate,ok
+191827.0,65.04972402761,-138.13556224874,"siltstone,shale,carbonate; shale, siltstone, sandstone, and minor dolostone; Major: {shale,siltstone,sandstone},Minor: {dolostone}; sedimentary",carbonate,ok
+191828.0,65.046936236276,-134.62832740633,"Major: {siltstone, sandstone}; sedimentary rocks; sedimentary; shale, siltstone, sandstone, and minor dolostone",siliciclastic,ok
+191829.0,64.973060423158,-134.40582926709,"sedimentary rocks; sedimentary; Major: {breccia}; shale, siltstone, sandstone, and minor dolostone",carbonate,ok
+191830.0,65.026038635097,-134.41257478951,"Major: {siltstone, sandstone}; sedimentary rocks; sedimentary; shale, siltstone, sandstone, and minor dolostone",siliciclastic,ok
+191961.0,0.0,0.0,,unknown,ok
+195732.0,0.0,0.0,,unknown,ok
+195768.0,-29.7194444444,135.583333333,"sandstone; shale; sandstone,shale,siltstone,limestone; sedimentary; metamorphic",siliciclastic,ok
+203657.0,0.0,0.0,,unknown,ok
+205327.0,67.4957308,23.9213719,"intrusive igneous rocks; Major:{granodiorite-diorite group}, Minor{granite,syenite-monzonite group,meta-granodiorite-diorite group}; tonalite, granite, diorite, granodiorite, monzonite, migmatite",felsic,ok
+205328.0,67.556883240796,23.979828357697,"quartzite, conglomerate, grit, tillite; minor arkose, mica schist, diabase, metabasalt, tuffite, gneiss, marble; Major:{quartzite}, Minor{mica schist,gneiss,siliclastics, consolidated}; metamorphic; mafic volcanic rocks",mafic,ok
+206070.0,-21.8,140.716666667,ash; igneous felsic intrusive; granite; intrusive igneous rocks,felsic,ok
+207467.0,67.516666666667,20.9,"Major:{quartzite}, Minor{mica schist,gneiss,siliclastics, consolidated}; metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; Granite, pegmatite; intrusive igneous rocks",siliciclastic,ok
+209868.0,-21.5489204585,140.497315894,rhyolite; intrusive igneous rocks; sedimentary; metamorphic,felsic,ok
+210493.0,-20.7752777778,140.043888889,amphibolite grade orthogneiss/paragneiss/metavolcanic gneiss; limestone; igneous felsic intrusive; granite,felsic,ok
+216983.0,30.35,117.377222222,sedimentary rocks,other,ok
+229882.0,32.516666666667,80.85,intermediate-felsic volcanic rocks,felsic,ok
+230442.0,14.294551397102,122.64926851543,sedimentary rocks,other,ok
+230718.0,46.466666666667,90.1,sedimentary rocks,other,ok
+232161.0,-15.2833333333,-75.1083333333,medium-high grade unclassified metamorphic rock,metamorphic,ok
+233025.0,-34.5302777778,137.870277778,sedimentary; metamorphic; intrusive igneous rocks,metamorphic,ok
+238301.0,-12.698055555556,-76.6225,sedimentary rocks,other,ok
+241797.0,-34.0558333333,137.614166667,intrusive igneous rocks; sandstone; igneous mafic volcanic; igneous felsic volcanic; felsic,felsic,ok
+250907.0,67.559079055992,23.969422121644,"tonalite, granite, diorite, granodiorite, monzonite, migmatite; Major:{granodiorite-diorite group}, Minor{granite,syenite-monzonite group,meta-granodiorite-diorite group}; mafic volcanic rocks",felsic,ok
+250908.0,0.0,0.0,,unknown,ok
+259639.0,-19.4855876738,133.902166053,tuff; intrusive igneous rocks; sedimentary; metamorphic,volcanic,ok
+263387.0,-19.4298868594,134.066779815,intrusive igneous rocks; sedimentary; metamorphic,metamorphic,ok
+263633.0,62.76,22.8433333333,"Major:{meta-sandstone}, Minor{mica schist,gneiss,amphibolite}; metamorphic; greywacke, phyllite, mica schist, meta-arkose, graphitic schist, paragneiss, conglomerate, amphibolite; mica schist; metasedimentary schist",siliciclastic,ok
+265550.0,-20.4414901528,140.786361694,"sandstone,shale,siltstone,limestone; limestone; regolith",carbonate,ok
+266579.0,0.0,0.0,,unknown,ok
+272577.0,0.0,0.0,,unknown,ok
+273386.0,-21.0483333333,139.966944444,amphibolite grade orthogneiss/paragneiss/metavolcanic gneiss; limestone; medium grade metamorphic rock; schist,metamorphic,ok
+292660.0,-19.6725644632,134.26372524,intrusive igneous rocks; sedimentary; metamorphic,metamorphic,ok
+297726.0,-9.66881,-36.73712,"metavolcaniclastic, slate, gneiss, metagraywacke; crystalline metamorphic rocks",volcanic,ok
+302499.0,38.94021,-119.05178,"volcanic: intermediate rocks; Major:{coarse alluvium,fine alluvium}; sedimentary rocks",volcanic,ok
+339708.0,-21.756948825209,140.44782145846,medium grade metamorphic rock; schist; intrusive igneous rocks; granite,metamorphic,ok
+344977.0,26.191666666667,101.95,sedimentary rocks,other,ok
+413049.0,-6.4783529249112,-51.209864923378,"volcanic rocks; charnockite, diorite, gneiss, granite, granitoid (granite), granulite, metamorphic mafic rock",volcanic,ok
+417880.0,45.536628,130.566666,intrusive igneous rocks,other,ok
+424703.0,19.688056,-97.125556,sedimentary; sedimentary and volcanic rocks; limestone,volcanic,ok
+425517.0,-27.016666666667,-70.1,intrusive igneous rocks,other,ok
+426693.0,-6.0,-49.85,"amphibole-biotite monzogranite, biotite monzogranite, syenogranite, monzogranite, granite; volcanic rocks",felsic,ok
+427366.0,-34.5376924,137.8708404,sedimentary; metamorphic; intrusive igneous rocks,metamorphic,ok
+437536.0,27.808333333333,33.070277777778,mafic-intermediate undivided volcanic rocks; plutonic,mafic,ok
+441900.0,41.77594036,91.59081227,crystalline metamorphic rocks,metamorphic,ok
+442201.0,64.166666666667,-117.13333333333,"rhyolite, rhyodacite, dacite, andesite, basalt, gabbro, felsic porphyry, sandstone, conglomerate, siltstone; volcanic: felsic rocks; intrusive igneous rocks",felsic,ok
+442509.0,67.193888888889,20.88,"Basalt, andesite and subordinate dacite, metamorphic; felsic and intermediate volcanic rocks; meta-rhyolite; metamorphic; intrusive igneous rocks",felsic,ok
+442519.0,67.69276897203,19.502544398374,"Basalt, trachyandesite, andesite, komatiite and metamorphic equivalents; volcanic rocks; felsic and intermediate volcanic rocks",felsic,ok
+445529.0,35.333333333333,58.95,volcanic; mafic-felsic mixed volcanic rocks,volcanic,ok
+446146.0,38.5356,-7.056,"Major:{meta-sandstone}, Minor{marble,shale/slate,greenschist}; metamorphic; quartzite, slate, sandstone and limestone; limestone; metasedimentary schist",carbonate,ok
+446485.0,37.533333333333,46.966666666667,mafic-felsic mixed volcanic rocks; volcanic,felsic,ok
+454720.0,65.5039993,130.2771693,"sandstone, siltstone, shale; marine fossils; ; volcanic; sedimentary rocks",siliciclastic,ok
+455829.0,-6.4833333333333,-49.7,"metabasalt, meta dacite, metarhyolite, rhyolite; medium-high grade unclassified metamorphic rock",felsic,ok
+158935.0,0.0,0.0,,unknown,ok
+206072.0,-19.9977416588,139.917353313,tuff; volcanic; igneous felsic volcanic; felsic; felsic volcanic rocks,felsic,ok
+419976.0,67.554426082233,23.979550121269,"quartzite, conglomerate, grit, tillite; minor arkose, mica schist, diabase, metabasalt, tuffite, gneiss, marble; Major:{quartzite}, Minor{mica schist,gneiss,siliclastics, consolidated}; metamorphic; mafic volcanic rocks",mafic,ok
