@@ -1,6 +1,0 @@
-Copyright (c) 2026 Solaric786
-
-All rights reserved.
-
-This repository is shared for research transparency and review purposes only.
-No permission is granted to copy, modify, distribute, sublicense, or reuse this material without explicit written permission from the authors.
