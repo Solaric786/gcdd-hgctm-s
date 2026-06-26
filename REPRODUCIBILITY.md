@@ -11,7 +11,8 @@
 7. `06_documentation_depth_trimmed_bernoulli.ipynb`
 8. `07_topic_validation_against_deposit_types.ipynb`
 9. `08_strong_geographic_generalisation.ipynb`
-10. `09_manual_host_lithology_validation.ipynb` — still required
+
+A future Notebook 09 will contain the completed manual host-lithology validation.
 
 ## Environment
 
@@ -27,11 +28,13 @@ The completed revision experiments recorded the following core environment:
 
 ## Kaggle execution
 
-The notebooks were developed as Kaggle workflows and include input discovery under `/kaggle/input` and output writing under `/kaggle/working`. The release assets should be attached to the Kaggle notebook or unpacked as input datasets using their original archive names.
+The notebooks were developed as Kaggle workflows and include input discovery under `/kaggle/input` and output writing under `/kaggle/working`. Release assets should be attached to the Kaggle notebook or unpacked as input datasets using their documented archive names.
 
 ## Local execution
 
-For local execution, create the environment and expose the repository data and prior outputs using repository-relative paths or symbolic links. Because several notebooks retain Kaggle-compatible discovery logic, the least invasive local setup is to create an `inputs/` directory containing unpacked release assets and adapt the input-root cell at the beginning of each notebook.
+For local execution, create the environment and expose repository data and prior outputs using repository-relative paths or symbolic links. Because several notebooks retain Kaggle-compatible discovery logic, the least invasive setup is to create an `inputs/` directory containing unpacked release assets and adapt the input-root cell at the beginning of each notebook.
+
+The original GCDD workbook is not included in the Git tree. Obtain it from the official source described in `DATA_SOURCES.md` for a complete acquisition run.
 
 ## Dependency chain
 
@@ -42,7 +45,7 @@ For local execution, create the environment and expose the repository data and p
 
 ## Randomness and fitting
 
-The revision experiments use seeds 42, 123, and 7 where stated. Exact settings and run counts are stored in each experiment's `run_manifest.json`. Do not change K, prior scales, optimisation steps, class handling, or the training-only warm-start rules when reproducing manuscript values.
+The revision experiments use seeds 42, 123, and 7 where stated. Exact settings and run counts are stored in each experiment's `run_manifest.json`. Do not change K, prior scales, optimisation steps, class handling, or training-only warm-start rules when reproducing manuscript values.
 
 ## Public Git tree versus release assets
 
@@ -50,4 +53,4 @@ The Git tree contains notebooks, frozen inputs, summary tables, figures, and man
 
 ## Known incomplete component
 
-The 120-deposit manual host-lithology sample is present only as a template. The completed reference table, analysis notebook, and statistical outputs must be added before the final `v2.0.0` tag.
+The completed 120-deposit manual host-lithology reference table, analysis notebook, and statistical outputs are not yet included. The sample/template retained in the GLiM audit results is not a substitute for the completed validation.

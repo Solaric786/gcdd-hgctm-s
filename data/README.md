@@ -1,12 +1,8 @@
 # Data directory
 
-## `raw/`
-
-`Global_Copper_Deposit_Main.xlsx` is the supplied GCDD source workbook used by the primary workflow. Its provenance and citation are documented in `../DATA_SOURCES.md`.
-
 ## `processed/stage0/`
 
-Frozen model inputs exported by the original Stage 0 workflow:
+Frozen model inputs exported by the Stage 0 workflow:
 
 - `X_family_copper.csv`
 - `X_family_primary.csv`
@@ -26,6 +22,10 @@ Alternative regional lithology assignments used in the revision:
 - independent GLiM assignment;
 - predefined Macrostrat–GLiM fallback assignment.
 
-## `manual_validation/`
+## Source-data note
 
-Contains the 120-deposit template only. It must be replaced by the completed manual reference table before the final release.
+The original GCDD workbook is not redistributed in this Git tree. Obtain it from the official source described in `../DATA_SOURCES.md` when reproducing the complete acquisition workflow.
+
+## Manual-validation note
+
+The completed 120-deposit manual host-lithology reference table and its analysis are not yet included. A sampling template retained within the GLiM audit outputs is not a completed validation dataset.

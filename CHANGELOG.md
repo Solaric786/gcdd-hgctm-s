@@ -14,7 +14,8 @@
 - strong leave-one-continent-out analysis with global and context-only Dirichlet–Multinomial baselines;
 - training-only K sensitivity;
 - frozen Stage 0 model inputs;
-- experiment manifests, summary tables, and figures.
+- experiment manifests, summary tables, and figures;
+- MIT License for original code and associated repository documentation.
 
 ### Changed
 
@@ -22,18 +23,19 @@
 - revised topic terminology to assemblage modes and type-enriched associations;
 - separated full-data interpretive K selection from geographic predictive K sensitivity;
 - distinguished regional lithological context from verified deposit-scale host rock;
-- replaced unpinned basic requirements with a documented environment.
+- replaced unpinned basic requirements with a documented environment;
+- excluded the original GCDD workbook from the Git tree pending source-term review.
 
 ### Removed from evidential workflow
 
 - supervised classification and classifier-based negative controls;
 - the earlier continent-holdout implementation;
 - direct comparison of raw scikit-learn LDA likelihood with HGCTM Dirichlet–Multinomial likelihood;
-- duplicate earlier topic-validation heatmap notebook.
+- duplicate earlier topic-validation heatmap notebook;
+- superseded public-review notebook and all-rights-reserved notice.
 
 ### Still required before final 2.0.0
 
 - completed 120-deposit manual host-lithology reference table;
 - manual-validation notebook and outputs;
-- final licence decision;
 - final Zenodo version DOI check.
