@@ -1,0 +1,5 @@
+metric,value
+n_model_deposits,1335.0
+n_both_strictly_resolved,662.0
+exact_agreement_among_both_resolved,0.39274924471299094
+cohen_kappa_among_both_resolved,0.24481763465636774

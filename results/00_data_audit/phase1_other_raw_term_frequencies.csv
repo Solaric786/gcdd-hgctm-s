@@ -1,0 +1,23 @@
+litho_raw,count,percent_of_other
+sedimentary rocks,287,69.66019417475728
+intrusive igneous rocks,57,13.83495145631068
+sedimentary; sedimentary rocks,32,7.766990291262136
+sedimentary rocks; sedimentary,13,3.1553398058252426
+"sedimentary rocks; Major:{sand,silt,clay}; sedimentary",3,0.7281553398058253
+clay; sedimentary rocks,2,0.4854368932038835
+"Major:{gravel}, Minor{sand,clay}; sedimentary rocks",2,0.4854368932038835
+Major:{fine alluvium}; sedimentary; sedimentary rocks,2,0.4854368932038835
+"sedimentary; Major:{coarse alluvium,fine alluvium}; sedimentary rocks",1,0.24271844660194175
+"sedimentary rocks; sedimentary; Major:{silt,clay}, Minor:{gravel,sand}",1,0.24271844660194175
+feldspar porphyritic intrusive rocks; sedimentary; sedimentary rocks,1,0.24271844660194175
+plutonic: undivided granitic rocks; intrusive igneous rocks; acidic igneous intrusive,1,0.24271844660194175
+plutonic: undivided granitic rocks; intrusive igneous rocks,1,0.24271844660194175
+"sand, clay, gravel; sedimentary rocks",1,0.24271844660194175
+"sedimentary rocks; Major:{coarse alluvium,fine alluvium}; sedimentary",1,0.24271844660194175
+"sedimentary; Major:{silt,clay}, Minor:{gravel,sand}; sedimentary rocks",1,0.24271844660194175
+sedimentary (karoo); sedimentary rocks,1,0.24271844660194175
+"Major:{clay}, Minor{sand,gravel}; sedimentary rocks",1,0.24271844660194175
+sedimentary rocks; plutonic,1,0.24271844660194175
+sand; sedimentary rocks,1,0.24271844660194175
+granophyre; sedimentary; intrusive igneous rocks,1,0.24271844660194175
+"laterite,clay,gravel,sand,silt; regolith",1,0.24271844660194175

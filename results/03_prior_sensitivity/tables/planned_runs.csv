@@ -1,0 +1,40 @@
+source,prior_setting,seed,learn_scales,sigma_litho,sigma_age,description
+Macrostrat,original,42,False,0.3,0.15,Submitted ordered-shrinkage setting
+Macrostrat,original,123,False,0.3,0.15,Submitted ordered-shrinkage setting
+Macrostrat,original,7,False,0.3,0.15,Submitted ordered-shrinkage setting
+Macrostrat,equal_low,42,False,0.15,0.15,Equal conservative prior scales
+Macrostrat,equal_low,123,False,0.15,0.15,Equal conservative prior scales
+Macrostrat,equal_low,7,False,0.15,0.15,Equal conservative prior scales
+Macrostrat,equal_high,42,False,0.3,0.3,Equal wider prior scales
+Macrostrat,equal_high,123,False,0.3,0.3,Equal wider prior scales
+Macrostrat,equal_high,7,False,0.3,0.3,Equal wider prior scales
+Macrostrat,reversed,42,False,0.15,0.3,Age given wider prior scale
+Macrostrat,reversed,123,False,0.15,0.3,Age given wider prior scale
+Macrostrat,reversed,7,False,0.15,0.3,Age given wider prior scale
+Macrostrat,learned_equal_hyperprior,42,True,,,Both scales learned under identical HalfNormal(0.5) priors
+Macrostrat,learned_equal_hyperprior,123,True,,,Both scales learned under identical HalfNormal(0.5) priors
+Macrostrat,learned_equal_hyperprior,7,True,,,Both scales learned under identical HalfNormal(0.5) priors
+GLiM,original,42,False,0.3,0.15,Submitted ordered-shrinkage setting
+GLiM,original,123,False,0.3,0.15,Submitted ordered-shrinkage setting
+GLiM,original,7,False,0.3,0.15,Submitted ordered-shrinkage setting
+GLiM,equal_low,42,False,0.15,0.15,Equal conservative prior scales
+GLiM,equal_low,123,False,0.15,0.15,Equal conservative prior scales
+GLiM,equal_low,7,False,0.15,0.15,Equal conservative prior scales
+GLiM,equal_high,42,False,0.3,0.3,Equal wider prior scales
+GLiM,equal_high,123,False,0.3,0.3,Equal wider prior scales
+GLiM,equal_high,7,False,0.3,0.3,Equal wider prior scales
+GLiM,reversed,42,False,0.15,0.3,Age given wider prior scale
+GLiM,reversed,123,False,0.15,0.3,Age given wider prior scale
+GLiM,reversed,7,False,0.15,0.3,Age given wider prior scale
+GLiM,learned_equal_hyperprior,42,True,,,Both scales learned under identical HalfNormal(0.5) priors
+GLiM,learned_equal_hyperprior,123,True,,,Both scales learned under identical HalfNormal(0.5) priors
+GLiM,learned_equal_hyperprior,7,True,,,Both scales learned under identical HalfNormal(0.5) priors
+Combined,original,42,False,0.3,0.15,Submitted ordered-shrinkage setting
+Combined,original,123,False,0.3,0.15,Submitted ordered-shrinkage setting
+Combined,original,7,False,0.3,0.15,Submitted ordered-shrinkage setting
+Combined,equal_high,42,False,0.3,0.3,Equal wider prior scales
+Combined,equal_high,123,False,0.3,0.3,Equal wider prior scales
+Combined,equal_high,7,False,0.3,0.3,Equal wider prior scales
+Combined,learned_equal_hyperprior,42,True,,,Both scales learned under identical HalfNormal(0.5) priors
+Combined,learned_equal_hyperprior,123,True,,,Both scales learned under identical HalfNormal(0.5) priors
+Combined,learned_equal_hyperprior,7,True,,,Both scales learned under identical HalfNormal(0.5) priors

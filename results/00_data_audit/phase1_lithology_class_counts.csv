@@ -1,0 +1,17 @@
+dataset,litho_class,count,percent
+all_1483_macrostrat_records,other,412,27.781523937963588
+all_1483_macrostrat_records,volcanic,255,17.194875252865813
+all_1483_macrostrat_records,felsic,240,16.183412002697235
+all_1483_macrostrat_records,mafic,169,11.395819285232637
+all_1483_macrostrat_records,unknown,127,8.56372218476062
+all_1483_macrostrat_records,carbonate,114,7.687120701281187
+all_1483_macrostrat_records,metamorphic,106,7.147673634524613
+all_1483_macrostrat_records,siliciclastic,60,4.045853000674309
+final_1335_model_records,other,375,28.089887640449437
+final_1335_model_records,volcanic,230,17.228464419475657
+final_1335_model_records,felsic,224,16.779026217228463
+final_1335_model_records,mafic,156,11.685393258426966
+final_1335_model_records,unknown,100,7.49063670411985
+final_1335_model_records,carbonate,100,7.49063670411985
+final_1335_model_records,metamorphic,94,7.0411985018726595
+final_1335_model_records,siliciclastic,56,4.194756554307116

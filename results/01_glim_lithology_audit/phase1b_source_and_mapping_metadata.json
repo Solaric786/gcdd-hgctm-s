@@ -1,0 +1,142 @@
+{
+  "created_at_utc": "2026-06-17T07:47:46.728836+00:00",
+  "notebook": "HGCTM_Phase1B_GLiM_Lithology_Audit.ipynb",
+  "model_deposit_count": 1335,
+  "stage0_directory": "/kaggle/input/datasets/katerynaglin/hgctm-stage0",
+  "polygon_source_path": "/kaggle/working/phase1b_glim_cache/glim_polygon_source/LiMW_GIS 2015.gdb",
+  "polygon_archive_path": "/kaggle/working/phase1b_glim_cache/LiMW_GIS-2015.gdb.zip",
+  "polygon_archive_sha256": "895be0cde43f68d1fe6a24dafafbde715d9c9893adfea28916a9a69f88cc320c",
+  "polygon_download_url": "https://www.dropbox.com/scl/fi/5v00i8op7a9brmn4qeg8b/LiMW_GIS-2015.gdb.zip?rlkey=89q1aj8zfpmiv82y41xe6ttmp&dl=1",
+  "polygon_version_label": "LiMW_GIS-2015 full polygon GIS linked from UHH GLiM page",
+  "selected_layers": [
+    {
+      "layer": "GLiM_export",
+      "geometry_type": "MultiPolygon",
+      "feature_count": 1235259,
+      "crs": "PROJCS[\"World_Eckert_IV\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Eckert_IV\"],PARAMETER[\"central_meridian\",0],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"54012\"]]",
+      "level1_field": "xx"
+    }
+  ],
+  "spatial_match": {
+    "method": "exact point in polygon",
+    "tile_degrees": 20.0,
+    "bbox_padding_degrees": 0.05,
+    "nearest_polygon_fallback": false,
+    "overlap_rule": [
+      "prefer resolved over other/unknown",
+      "prefer smallest polygon",
+      "use layer and row order only as deterministic tie-breakers"
+    ]
+  },
+  "mapping": {
+    "ev": {
+      "description": "Evaporites",
+      "hgctm_class": "evaporite",
+      "confidence": "high",
+      "rationale": "Direct Level 1 correspondence"
+    },
+    "ig": {
+      "description": "Ice and glaciers",
+      "hgctm_class": "unknown",
+      "confidence": "none",
+      "rationale": "Ice/glacier does not identify host lithology"
+    },
+    "mt": {
+      "description": "Metamorphics",
+      "hgctm_class": "metamorphic",
+      "confidence": "high",
+      "rationale": "Direct Level 1 correspondence"
+    },
+    "nd": {
+      "description": "No data",
+      "hgctm_class": "unknown",
+      "confidence": "none",
+      "rationale": "No GLiM data"
+    },
+    "pa": {
+      "description": "Acid plutonic rocks",
+      "hgctm_class": "felsic",
+      "confidence": "high",
+      "rationale": "Acid plutonic rock"
+    },
+    "pb": {
+      "description": "Basic plutonic rocks",
+      "hgctm_class": "mafic",
+      "confidence": "high",
+      "rationale": "Basic plutonic rock"
+    },
+    "pi": {
+      "description": "Intermediate plutonic rocks",
+      "hgctm_class": "other",
+      "confidence": "low",
+      "rationale": "Intermediate plutonic not forced into felsic or mafic"
+    },
+    "py": {
+      "description": "Pyroclastics",
+      "hgctm_class": "volcanic",
+      "confidence": "medium",
+      "rationale": "Pyroclastic surface unit"
+    },
+    "sc": {
+      "description": "Carbonate sedimentary rocks",
+      "hgctm_class": "carbonate",
+      "confidence": "high",
+      "rationale": "Carbonate sedimentary rock"
+    },
+    "sm": {
+      "description": "Mixed sedimentary rocks",
+      "hgctm_class": "other",
+      "confidence": "low",
+      "rationale": "Mixed sedimentary not forced into carbonate or siliciclastic"
+    },
+    "ss": {
+      "description": "Siliciclastic sedimentary rocks",
+      "hgctm_class": "siliciclastic",
+      "confidence": "high",
+      "rationale": "Siliciclastic sedimentary rock"
+    },
+    "su": {
+      "description": "Unconsolidated sediments",
+      "hgctm_class": "other",
+      "confidence": "low",
+      "rationale": "Unconsolidated cover not treated as bedrock host lithology"
+    },
+    "va": {
+      "description": "Acid volcanic rocks",
+      "hgctm_class": "volcanic",
+      "confidence": "high",
+      "rationale": "Acid volcanic rock"
+    },
+    "vb": {
+      "description": "Basic volcanic rocks",
+      "hgctm_class": "volcanic",
+      "confidence": "high",
+      "rationale": "Basic volcanic rock"
+    },
+    "vi": {
+      "description": "Intermediate volcanic rocks",
+      "hgctm_class": "volcanic",
+      "confidence": "high",
+      "rationale": "Intermediate volcanic rock"
+    },
+    "wb": {
+      "description": "Water bodies",
+      "hgctm_class": "unknown",
+      "confidence": "none",
+      "rationale": "Water body does not identify host lithology"
+    }
+  },
+  "references": [
+    {
+      "authors": "Jens Hartmann; Nils Moosdorf",
+      "title": "The new global lithological map database GLiM: A representation of rock properties at the Earth surface",
+      "doi": "10.1029/2012GC004370"
+    },
+    {
+      "authors": "Jens Hartmann; Nils Moosdorf",
+      "title": "Global Lithological Map Database v1.0 (gridded to 0.5° spatial resolution)",
+      "doi": "10.1594/PANGAEA.788537",
+      "note": "Coarse gridded product not used in this notebook."
+    }
+  ]
+}

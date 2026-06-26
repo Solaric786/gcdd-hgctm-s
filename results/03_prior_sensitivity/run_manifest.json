@@ -1,0 +1,96 @@
+{
+  "created_at_utc": "2026-06-18T15:57:19.393525+00:00",
+  "notebook": "HGCTM_Prior_and_Lithology_Class_Sensitivity_K7.ipynb",
+  "original_notebook_sha256": "6900e1e53eb92730851c9bc35e87c4f2731722ed0deccb9bc403ba223a689f7b",
+  "run_mode": "full",
+  "stage0_directory": "/kaggle/input/datasets/katerynaglin/hgctm-stage0",
+  "phase1b_directory": "/kaggle/input/datasets/katerynaglin/hgctm-phase1b-glim-audit-outputs",
+  "cohort": {
+    "original_model_n": 1335,
+    "excluded_invalid_coordinates": 98,
+    "common_valid_coordinate_n": 1237,
+    "mineral_families": 35
+  },
+  "class_preparation": {
+    "raw_labels_preserved": true,
+    "evaporite_model_recode": "other",
+    "rare_class_warning_threshold": 20,
+    "unknown_retained_as_missingness_category": true
+  },
+  "model": {
+    "K": 7,
+    "sigma_mu": 2.0,
+    "likelihood": "Dirichlet-Multinomial",
+    "tau_prior": "Beta(1,3)",
+    "omega_age_prior": "Beta(2,2)",
+    "learning_rate": 0.005,
+    "steps": 5000,
+    "anneal_end": 1500,
+    "seeds": [
+      42,
+      123,
+      7
+    ],
+    "LDA_warm_start_random_state": 42
+  },
+  "prior_settings": {
+    "original": {
+      "learn_scales": false,
+      "sigma_litho": 0.3,
+      "sigma_age": 0.15,
+      "description": "Submitted ordered-shrinkage setting"
+    },
+    "equal_low": {
+      "learn_scales": false,
+      "sigma_litho": 0.15,
+      "sigma_age": 0.15,
+      "description": "Equal conservative prior scales"
+    },
+    "equal_high": {
+      "learn_scales": false,
+      "sigma_litho": 0.3,
+      "sigma_age": 0.3,
+      "description": "Equal wider prior scales"
+    },
+    "reversed": {
+      "learn_scales": false,
+      "sigma_litho": 0.15,
+      "sigma_age": 0.3,
+      "description": "Age given wider prior scale"
+    },
+    "learned_equal_hyperprior": {
+      "learn_scales": true,
+      "sigma_litho": null,
+      "sigma_age": null,
+      "description": "Both scales learned under identical HalfNormal(0.5) priors"
+    }
+  },
+  "run_plan": {
+    "Macrostrat": [
+      "original",
+      "equal_low",
+      "equal_high",
+      "reversed",
+      "learned_equal_hyperprior"
+    ],
+    "GLiM": [
+      "original",
+      "equal_low",
+      "equal_high",
+      "reversed",
+      "learned_equal_hyperprior"
+    ],
+    "Combined": [
+      "original",
+      "equal_high",
+      "learned_equal_hyperprior"
+    ]
+  },
+  "learned_scale_model": {
+    "sigma_lithology_hyperprior": "HalfNormal(0.5)",
+    "sigma_age_hyperprior": "HalfNormal(0.5)",
+    "variational_family": "LogNormal",
+    "interpretation_note": "Age scale and omega_a jointly determine effective age deviations."
+  },
+  "primary_effect_metric": "frequency-weighted nonmissing lithology effect divided by frequency-weighted nonmissing age effect"
+}

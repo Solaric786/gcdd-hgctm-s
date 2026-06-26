@@ -1,0 +1,69 @@
+{
+  "created_at_utc": "2026-06-18T12:07:57.956723+00:00",
+  "notebook": "HGCTM_Lithology_Source_Sensitivity_K7.ipynb",
+  "original_notebook_sha256": "6900e1e53eb92730851c9bc35e87c4f2731722ed0deccb9bc403ba223a689f7b",
+  "input_directories": {
+    "stage0": "/kaggle/input/datasets/katerynaglin/hgctm-stage0",
+    "phase1b": "/kaggle/input/datasets/katerynaglin/hgctm-phase1b-glim-audit-outputs"
+  },
+  "cohort": {
+    "original_model_n": 1335,
+    "excluded_invalid_coordinate_n": 98,
+    "common_valid_coordinate_n": 1237,
+    "families": 35,
+    "common_ids_file": "common_cohort_covariates.csv"
+  },
+  "sources": {
+    "Macrostrat": "lithology_A_class",
+    "GLiM": "lithology_B_class",
+    "Combined": "lithology_C_class"
+  },
+  "fixed_levels": {
+    "lithology": [
+      "carbonate",
+      "evaporite",
+      "felsic",
+      "mafic",
+      "metamorphic",
+      "other",
+      "siliciclastic",
+      "unknown",
+      "volcanic"
+    ],
+    "age": [
+      "Cenozoic",
+      "Mesozoic",
+      "Paleozoic",
+      "Precambrian",
+      "Unknown"
+    ]
+  },
+  "model": {
+    "name": "M7b sparse HGCTM",
+    "K": 7,
+    "sigma_mu": 2.0,
+    "sigma_litho": 0.3,
+    "sigma_age": 0.15,
+    "likelihood": "Dirichlet-Multinomial",
+    "tau_prior": "Beta(1,3)",
+    "omega_age_prior": "Beta(2,2)",
+    "steps": 5000,
+    "anneal_end": 1500,
+    "learning_rate": 0.005,
+    "seeds": [
+      42,
+      123,
+      7
+    ],
+    "primary_seed": 42,
+    "lda_warm_start_random_state": 42
+  },
+  "common_random_holdout": {
+    "run": true,
+    "fraction_requested": 0.2,
+    "split_seed": 20260618,
+    "model_seed": 42,
+    "note": "Predictive source-sensitivity check only; not a continent-transfer analysis."
+  },
+  "quick_test": false
+}

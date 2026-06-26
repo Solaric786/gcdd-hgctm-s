@@ -1,0 +1,413 @@
+Mindat_id,latitude,longitude,litho_raw,litho_class,api_status
+641.0,-22.2894444444,-68.9011111111,sedimentary rocks,other,ok
+3373.0,31.9822222222,-111.063055556,"sedimentary rocks; Major:{sand,silt,clay}; sedimentary",other,ok
+3376.0,31.8930555556,-111.035,"sedimentary rocks; Major:{sand,silt,clay}; sedimentary",other,ok
+5792.0,31.410301572411,97.73015250491,sedimentary rocks,other,ok
+5793.0,31.0166666667,97.9166666667,sedimentary rocks,other,ok
+5798.0,27.4,101.133333333,sedimentary rocks,other,ok
+8428.0,7.33333333333,126.15,sedimentary rocks,other,ok
+8577.0,9.49166666667,122.679166667,sedimentary rocks,other,ok
+8582.0,17.3444444444,121.058333333,sedimentary rocks,other,ok
+8802.0,16.6377777778,120.676666667,sedimentary rocks,other,ok
+8831.0,-6.31513109142,155.495322227,sedimentary rocks,other,ok
+11307.0,48.9705555556,-65.5202777778,sedimentary rocks; sedimentary,other,ok
+16510.0,22.123619596776,95.03357505746,sedimentary rocks,other,ok
+17175.0,-5.2080348283979,141.13899815844,sedimentary rocks,other,ok
+21538.0,16.2627777778,120.6225,sedimentary rocks,other,ok
+23362.0,-29.0,-67.75,intrusive igneous rocks,other,ok
+25368.0,-17.245252375894,-70.613077242235,sedimentary rocks,other,ok
+27221.0,-26.4983333333,-69.3994444444,sedimentary rocks,other,ok
+27227.0,-26.2444444444,-69.5575,sedimentary rocks,other,ok
+27261.0,-4.0560167339,137.113198169,sedimentary rocks,other,ok
+28448.0,-27.3708333333,-66.28,sedimentary rocks,other,ok
+28588.0,10.313948183707,123.71268376923,sedimentary rocks,other,ok
+32000.0,32.0275,-111.080555556,"sedimentary rocks; Major:{sand,silt,clay}; sedimentary",other,ok
+34975.0,-27.3297222222,-66.6088888889,sedimentary rocks,other,ok
+36818.0,-30.241578766321,-71.102801250415,sedimentary rocks,other,ok
+39272.0,-24.272220317269,-69.068275471678,sedimentary rocks,other,ok
+39273.0,-20.98305202099,-68.673347057618,sedimentary rocks,other,ok
+39275.0,-21.9205555556,-68.8325,sedimentary rocks,other,ok
+43585.0,-0.5,113.183333333,sedimentary rocks,other,ok
+47606.0,42.66526992821,75.579408637148,sedimentary rocks,other,ok
+52775.0,33.061157395057,-111.40899089207,"sedimentary rocks; sedimentary; Major:{silt,clay}, Minor:{gravel,sand}",other,ok
+54260.0,-22.85357,-69.34511,sedimentary rocks,other,ok
+55427.0,-17.0455555556,-70.7072222222,sedimentary rocks,other,ok
+55597.0,-16.5352777778,-71.5916666667,intrusive igneous rocks,other,ok
+63563.0,33.535833,54.544444,sedimentary rocks,other,ok
+64292.0,29.681789169728,115.80344526855,sedimentary rocks,other,ok
+64347.0,39.03,-119.18,"sedimentary; Major:{coarse alluvium,fine alluvium}; sedimentary rocks",other,ok
+64759.0,29.9997222222,114.837777778,sedimentary rocks,other,ok
+69552.0,9.8035347634699,122.45720684612,sedimentary rocks,other,ok
+123464.0,35.3072222222,99.7886111111,sedimentary rocks,other,ok
+133117.0,-22.5333333333,-69.9166666667,intrusive igneous rocks,other,ok
+134575.0,29.6294444444,91.5988888889,sedimentary rocks,other,ok
+134576.0,29.7111111111,91.8388888889,sedimentary rocks,other,ok
+134936.0,26.158205559589,100.18367765932,sedimentary rocks,other,ok
+135237.0,25.1852777778,116.4075,sedimentary rocks,other,ok
+142172.0,29.5,91.4055555556,sedimentary rocks,other,ok
+142173.0,30.0,98.5,sedimentary rocks,other,ok
+142174.0,31.2333333333,97.8666666667,sedimentary rocks,other,ok
+142175.0,31.6833333333,97.1333333333,sedimentary rocks,other,ok
+142183.0,31.1666666667,97.8583333333,sedimentary rocks,other,ok
+142185.0,30.4666666667,98.5,sedimentary rocks,other,ok
+142186.0,31.4833333333,97.35,sedimentary rocks,other,ok
+142187.0,29.9166666667,98.5833333333,sedimentary rocks,other,ok
+142189.0,29.4916666667,90.9222222222,sedimentary rocks,other,ok
+142195.0,31.25,97.7333333333,sedimentary rocks,other,ok
+142196.0,30.0333333333,98.5166666667,sedimentary rocks,other,ok
+142198.0,32.15,96.7666666667,sedimentary rocks,other,ok
+142686.0,42.0666666667,92.5333333333,sedimentary rocks,other,ok
+142687.0,42.1166666667,92.6166666667,sedimentary rocks,other,ok
+142688.0,42.3583333333,94.7555555556,sedimentary rocks,other,ok
+142689.0,42.1666666667,92.85,sedimentary rocks,other,ok
+142690.0,42.2,92.9666666667,sedimentary rocks,other,ok
+142691.0,42.5333333333,91.9166666667,sedimentary rocks,other,ok
+142692.0,28.038611111111,99.989722222222,sedimentary rocks,other,ok
+142695.0,42.25,112.5,intrusive igneous rocks,other,ok
+142696.0,49.425,117.298888889,sedimentary rocks,other,ok
+142698.0,50.1313888889,125.786111111,intrusive igneous rocks,other,ok
+142699.0,29.8172222222,115.4525,sedimentary rocks,other,ok
+142703.0,29.65,87.479166666667,intrusive igneous rocks,other,ok
+155764.0,50.6166666667,19.3666666667,sedimentary rocks,other,ok
+155898.0,29.6833333333,88.9333333333,sedimentary rocks,other,ok
+185556.0,22.815784307634,103.02956451205,sedimentary rocks,other,ok
+185558.0,22.8833333333,102.583333333,sedimentary rocks,other,ok
+188053.0,-21.00168271738,-68.808583068848,sedimentary rocks,other,ok
+189175.0,-20.9927777778,-68.6372222222,sedimentary rocks,other,ok
+191199.0,-23.8883333333,-69.3141666667,sedimentary rocks,other,ok
+191200.0,-23.410833,-68.818888,sedimentary rocks,other,ok
+191957.0,53.4333333333,96.6666666667,intrusive igneous rocks,other,ok
+191971.0,-7.01666666667,-78.3166666667,sedimentary rocks,other,ok
+191972.0,-7.0383782713972,-78.321445428196,sedimentary rocks,other,ok
+191973.0,-6.915,-78.3594444444,sedimentary rocks,other,ok
+192115.0,-39.1833333333,-70.6333333333,intrusive igneous rocks,other,ok
+194690.0,34.55,49.2666666667,sedimentary rocks,other,ok
+195392.0,-13.766666,-75.716666,intrusive igneous rocks,other,ok
+196016.0,-19.8097222222,-69.2805555556,sedimentary rocks,other,ok
+203737.0,-5.9666666,150.38333,intrusive igneous rocks,other,ok
+203740.0,-5.1666666,151.71666,intrusive igneous rocks,other,ok
+205745.0,52.9333333333,96.7833333333,intrusive igneous rocks,other,ok
+205756.0,48.7083333333,98.3416666667,intrusive igneous rocks,other,ok
+205761.0,44.0,106.166666667,sedimentary rocks,other,ok
+205763.0,48.7166666667,98.3416666667,intrusive igneous rocks,other,ok
+205772.0,-0.611666666667,128.091666667,sedimentary rocks,other,ok
+205784.0,-7.22,106.56,sedimentary rocks,other,ok
+205844.0,-17.5333333333,-51.6,"sand, clay, gravel; sedimentary rocks",other,ok
+205857.0,-28.6333333333,-69.8833333333,intrusive igneous rocks,other,ok
+205858.0,-22.9666666667,-69.0583333333,sedimentary rocks,other,ok
+205859.0,-27.7833333333,-69.2333333333,intrusive igneous rocks,other,ok
+205860.0,-22.975463130546,-69.061440941728,sedimentary rocks,other,ok
+205861.0,-21.9538888889,-68.7355555556,sedimentary rocks,other,ok
+205862.0,-20.9016666667,-68.8852777778,sedimentary rocks,other,ok
+205864.0,-22.9877777778,-69.0763888889,sedimentary rocks,other,ok
+205922.0,-31.3,-69.3666666667,sedimentary rocks,other,ok
+205923.0,-27.2666666667,-66.65,sedimentary rocks,other,ok
+205926.0,-27.4,-66.55,sedimentary rocks,other,ok
+205927.0,-27.2833333333,-66.5666666667,sedimentary rocks,other,ok
+205928.0,-26.3,-67.9,sedimentary rocks,other,ok
+205929.0,-27.3833333333,-66.2166666667,sedimentary rocks,other,ok
+205930.0,-30.0,-69.1666666667,sedimentary rocks,other,ok
+205931.0,-31.963613491568,-70.053673983493,sedimentary rocks,other,ok
+205942.0,-22.4666666667,-68.9666666667,sedimentary rocks,other,ok
+205943.0,-23.3,-69.2333333333,sedimentary rocks,other,ok
+205944.0,-22.37964284915,-68.914602851868,sedimentary rocks,other,ok
+205945.0,-21.9166666667,-69.8333333333,sedimentary rocks,other,ok
+205947.0,-22.4166666667,-68.95,sedimentary rocks,other,ok
+205949.0,-32.4075,-70.425,intrusive igneous rocks,other,ok
+205952.0,-28.5,-70.3,intrusive igneous rocks,other,ok
+205981.0,46.9897222222,74.9872222222,intrusive igneous rocks,other,ok
+205983.0,52.3333333333,62.1833333333,clay; sedimentary rocks,other,ok
+205985.0,51.846900508083,74.291111826897,sedimentary rocks,other,ok
+206003.0,-5.715,-79.2069444444,intrusive igneous rocks,other,ok
+206004.0,-13.9291666667,-75.35,sedimentary rocks,other,ok
+206005.0,-17.097725754867,-70.627246168525,sedimentary rocks,other,ok
+206009.0,-6.08333333333,-79.2833333333,sedimentary rocks,other,ok
+206135.0,45.5666666667,22.2333333333,"Major:{gravel}, Minor{sand,clay}; sedimentary rocks",other,ok
+206138.0,45.55,22.35,"Major:{gravel}, Minor{sand,clay}; sedimentary rocks",other,ok
+206142.0,50.4666666667,19.6166666667,sedimentary rocks,other,ok
+206145.0,58.9666666667,152.683333333,sedimentary rocks,other,ok
+206152.0,54.2833333333,157.666666667,sedimentary rocks,other,ok
+206153.0,59.7166666667,150.316666667,intrusive igneous rocks,other,ok
+206154.0,59.25,153.766666667,intrusive igneous rocks,other,ok
+206156.0,53.75,126.616666667,intrusive igneous rocks,other,ok
+206157.0,54.05,89.5666666667,sedimentary rocks,other,ok
+206163.0,41.0977777778,70.1258333333,intrusive igneous rocks,other,ok
+206169.0,40.7769444444,69.7791666667,intrusive igneous rocks,other,ok
+206190.0,11.8166666667,125.25,sedimentary rocks,other,ok
+206191.0,9.43333333333,122.7,sedimentary rocks,other,ok
+206195.0,9.58333333333,122.566666667,sedimentary rocks,other,ok
+206196.0,9.56666666667,122.633333333,sedimentary rocks,other,ok
+206199.0,13.5,121.883333333,sedimentary rocks,other,ok
+206202.0,13.424352095715,121.98377421588,sedimentary rocks,other,ok
+206205.0,9.6002021352618,125.55099008653,sedimentary rocks,other,ok
+206207.0,7.55,126.166666667,sedimentary rocks,other,ok
+206208.0,7.59166666667,126.066666667,sedimentary rocks,other,ok
+206210.0,7.35,126.016666667,sedimentary rocks,other,ok
+206211.0,6.56666666667,124.4,sedimentary rocks,other,ok
+206223.0,40.5775,40.9045,intrusive igneous rocks,other,ok
+206296.0,39.375,46.0227777778,sedimentary rocks,other,ok
+206306.0,-5.01666666667,141.216666667,sedimentary rocks,other,ok
+206307.0,-5.06666666667,141.333333333,sedimentary rocks,other,ok
+206313.0,-24.2,-65.8666666667,sedimentary rocks,other,ok
+206317.0,-32.1377777778,-69.4391666667,sedimentary rocks,other,ok
+206318.0,-32.25,-69.4333333333,sedimentary rocks,other,ok
+206321.0,-32.4166666667,-69.0833333333,sedimentary rocks,other,ok
+206322.0,-32.4833333333,-69.1,sedimentary rocks,other,ok
+206330.0,9.69722222222,-83.3583333333,sedimentary rocks; sedimentary,other,ok
+206334.0,23.7083333333,95.5166666667,sedimentary rocks,other,ok
+206449.0,53.535,-127.2375,feldspar porphyritic intrusive rocks; sedimentary; sedimentary rocks,other,ok
+206849.0,-3.578908312764,-78.433699622227,sedimentary rocks,other,ok
+206850.0,0.333055555556,-78.5830555556,intrusive igneous rocks,other,ok
+206851.0,-3.6,-78.5,sedimentary rocks,other,ok
+206852.0,-1.56638888889,-79.1330555556,sedimentary rocks,other,ok
+206853.0,-3.78305555556,-78.6,sedimentary rocks,other,ok
+206854.0,-4.33305555556,-80.0,intrusive igneous rocks,other,ok
+206855.0,-4.2,-79.5830555556,sedimentary rocks,other,ok
+206856.0,-2.93305555556,-79.4163888889,sedimentary rocks,other,ok
+206858.0,-3.58305555556,-79.3330555556,sedimentary rocks,other,ok
+206859.0,-3.05,-79.683333,sedimentary rocks,other,ok
+206860.0,-1.38305555556,-79.1163888889,sedimentary rocks,other,ok
+206908.0,29.2705555556,61.5844444444,sedimentary rocks,other,ok
+206910.0,29.554444,64.504166,sedimentary rocks,other,ok
+206911.0,29.1225,62.194166,sedimentary rocks,other,ok
+206942.0,-11.6,-76.133333,sedimentary rocks,other,ok
+206943.0,-6.76138888889,-78.6055555556,sedimentary rocks,other,ok
+206944.0,-16.5455555556,-71.5525,intrusive igneous rocks,other,ok
+206945.0,-17.6813888889,-69.9005555556,sedimentary rocks,other,ok
+206947.0,-8.21527777778,-77.7713888889,sedimentary rocks,other,ok
+206949.0,-7.11777777778,-78.5752777778,sedimentary rocks,other,ok
+206950.0,-14.4613888889,-72.9930555556,sedimentary rocks,other,ok
+206958.0,-6.725,-78.6691666667,sedimentary rocks,other,ok
+206959.0,-13.6858333333,-75.0927777778,sedimentary rocks,other,ok
+206960.0,-13.2344444444,-75.9163888889,sedimentary rocks,other,ok
+206961.0,-15.8163888889,-73.5830555556,sedimentary rocks,other,ok
+206962.0,-8.775,-77.991666666667,sedimentary rocks,other,ok
+207056.0,-16.7733333333,-71.3575,sedimentary rocks,other,ok
+207057.0,-6.35805555556,-79.1191666667,sedimentary rocks,other,ok
+207058.0,-12.9755555556,-76.1391666667,sedimentary rocks,other,ok
+207059.0,-4.94416666667,-79.3080555556,intrusive igneous rocks,other,ok
+207061.0,-8.55944444444,-77.8963888889,sedimentary rocks,other,ok
+207063.0,-14.1830555556,-75.1480555556,sedimentary rocks,other,ok
+207064.0,-11.4794444444,-76.0841666667,sedimentary rocks,other,ok
+207065.0,-5.70444444444,-79.2805555556,sedimentary rocks,other,ok
+207164.0,17.7666666667,121.233333333,sedimentary rocks,other,ok
+207165.0,16.75,121.35,sedimentary rocks,other,ok
+207169.0,16.7333333333,120.766666667,sedimentary rocks,other,ok
+207170.0,17.3,121.01,sedimentary rocks,other,ok
+207172.0,16.75,120.7,sedimentary rocks,other,ok
+207174.0,13.8,121.133333333,sedimentary rocks,other,ok
+207177.0,17.4,120.866666667,sedimentary rocks,other,ok
+207179.0,14.9736111111,120.204166667,intrusive igneous rocks,other,ok
+207288.0,-28.2166666667,-69.6,intrusive igneous rocks,other,ok
+207289.0,-23.4277777778,-69.5113888889,sedimentary rocks,other,ok
+207315.0,27.1677777778,-109.019166667,plutonic: undivided granitic rocks; intrusive igneous rocks; acidic igneous intrusive,other,ok
+208266.0,17.3333333333,101.5,sedimentary rocks,other,ok
+208267.0,17.5,101.666666667,sedimentary rocks,other,ok
+208268.0,18.1166666667,102.083333333,sedimentary rocks,other,ok
+208273.0,45.7833333333,100.6,sedimentary rocks,other,ok
+208275.0,48.5833333333,97.7833333333,intrusive igneous rocks,other,ok
+208280.0,48.775,104.21126,sedimentary rocks,other,ok
+208285.0,9.28333333333,-79.3833333333,plutonic: undivided granitic rocks; intrusive igneous rocks,other,ok
+208328.0,8.4875,-77.3211111111,sedimentary; sedimentary rocks,other,ok
+208333.0,46.95157188965,79.864566853136,sedimentary rocks,other,ok
+208336.0,51.95,72.3333333333,sedimentary rocks,other,ok
+208337.0,53.0166666667,62.5666666667,clay; sedimentary rocks,other,ok
+208346.0,50.1619444444,76.1619444444,sedimentary rocks,other,ok
+208348.0,47.5333333333,84.4166666667,sedimentary rocks,other,ok
+208398.0,47.3833333333,75.2333333333,intrusive igneous rocks,other,ok
+208478.0,-5.98333333333,150.466666667,intrusive igneous rocks,other,ok
+208484.0,16.8583333333,120.783333333,sedimentary rocks,other,ok
+208930.0,16.3833333333,120.983333333,sedimentary rocks,other,ok
+208931.0,7.16666666667,125.991666667,sedimentary rocks,other,ok
+208933.0,7.93333333333,123.3,sedimentary rocks,other,ok
+208934.0,8.12222222222,126.381666667,sedimentary rocks,other,ok
+208935.0,16.45,120.866666667,sedimentary rocks,other,ok
+208936.0,17.1666666667,120.733333333,sedimentary rocks,other,ok
+208937.0,16.490278,120.65556,sedimentary rocks,other,ok
+209628.0,-3.65,-78.416667,sedimentary rocks,other,ok
+209836.0,-4.1155371964011,-78.583557670277,sedimentary rocks,other,ok
+209837.0,-1.66666666667,-79.15,sedimentary rocks,other,ok
+209838.0,29.4,64.1416666667,sedimentary rocks,other,ok
+209839.0,29.1227777778,62.0788888889,sedimentary rocks,other,ok
+226944.0,-4.7,141.783333333,intrusive igneous rocks,other,ok
+227982.0,-22.6666666667,-68.75,sedimentary rocks,other,ok
+227985.0,-25.2166666667,-69.2333333333,sedimentary rocks,other,ok
+227986.0,-26.775306834597,-69.874478793685,sedimentary rocks,other,ok
+228015.0,39.8,-115.15,"sedimentary rocks; Major:{coarse alluvium,fine alluvium}; sedimentary",other,ok
+228019.0,9.25833333333,125.523333333,sedimentary rocks,other,ok
+228020.0,7.54333333333,126.1,sedimentary rocks,other,ok
+230046.0,43.866666666667,108.33333333333,sedimentary rocks,other,ok
+232876.0,25.516666666667,100.43333333333,sedimentary rocks,other,ok
+274837.0,32.869822832797,-109.54275431436,"sedimentary; Major:{silt,clay}, Minor:{gravel,sand}; sedimentary rocks",other,ok
+433182.0,-24.150860785689,-69.139838250555,sedimentary rocks,other,ok
+4322.0,-10.713490343447,25.445446855678,sedimentary; sedimentary rocks,other,ok
+4331.0,-11.6344444444,27.5808333333,sedimentary; sedimentary rocks,other,ok
+10790.0,45.9369444444,-64.4769444444,sedimentary; sedimentary rocks,other,ok
+13482.0,-10.9755555556,25.9002777778,sedimentary; sedimentary rocks,other,ok
+14351.0,-11.513835,27.440574,sedimentary; sedimentary rocks,other,ok
+14738.0,-11.0163888889,25.2261111111,sedimentary; sedimentary rocks,other,ok
+20111.0,-10.677777777778,25.535277777778,sedimentary rocks; sedimentary,other,ok
+22701.0,34.5166666667,-99.55,Major:{fine alluvium}; sedimentary; sedimentary rocks,other,ok
+32562.0,-19.361370105939,-66.861841680366,sedimentary rocks,other,ok
+41271.0,-11.1688888889,27.0091666667,sedimentary; sedimentary rocks,other,ok
+41272.0,-10.9525,26.7722222222,sedimentary; sedimentary rocks,other,ok
+41275.0,-10.8466666667,26.4783333333,sedimentary; sedimentary rocks,other,ok
+42400.0,-10.728248534883,26.381352481256,sedimentary rocks; sedimentary,other,ok
+44003.0,-10.719444444444,25.402777777778,sedimentary; sedimentary rocks,other,ok
+55929.0,48.26667,67.3333,sedimentary rocks,other,ok
+65223.0,-17.68,-68.37,sedimentary rocks,other,ok
+105775.0,32.75,-0.583333333333,sedimentary; sedimentary rocks,other,ok
+132305.0,-17.4789,-68.356,sedimentary rocks,other,ok
+135092.0,-17.329166666667,-68.407777777778,sedimentary rocks,other,ok
+153539.0,26.5225,102.2,sedimentary rocks,other,ok
+157353.0,26.783333333333,112.56666666667,sedimentary rocks,other,ok
+185349.0,-10.815,26.5886111111,sedimentary; sedimentary rocks,other,ok
+185781.0,-18.181922222222,-68.192369444444,sedimentary rocks,other,ok
+187080.0,27.95,110.116666667,sedimentary rocks,other,ok
+187092.0,26.5416666667,112.475,sedimentary rocks,other,ok
+188882.0,-8.8968317923421,28.268504280197,sedimentary; sedimentary rocks,other,ok
+192407.0,25.8583333333,101.391666667,sedimentary rocks,other,ok
+211939.0,26.257930555556,102.46292222222,sedimentary rocks,other,ok
+212975.0,33.8469444444,-0.341388888889,sedimentary; sedimentary rocks,other,ok
+212976.0,32.85,-0.45,sedimentary; sedimentary rocks,other,ok
+212977.0,32.8330555556,-0.241388888889,sedimentary; sedimentary rocks,other,ok
+212978.0,32.7697222222,-0.666388888889,sedimentary; sedimentary rocks,other,ok
+212981.0,31.5,-2.96638888889,sedimentary; sedimentary rocks,other,ok
+228164.0,32.200677777778,-6.2988888888889,sedimentary; sedimentary rocks,other,ok
+228176.0,16.9833333333,7.93333333333,sedimentary; sedimentary rocks,other,ok
+228184.0,12.2666666667,-11.35,sedimentary; sedimentary rocks,other,ok
+228186.0,-10.602738864377,26.134671612671,sedimentary rocks; sedimentary,other,ok
+228187.0,-10.609825464404,26.300497171316,sedimentary rocks; sedimentary,other,ok
+228192.0,-12.5111111111,13.5166666667,sedimentary; sedimentary rocks,other,ok
+228193.0,-11.16552,27.45077,sedimentary; sedimentary rocks,other,ok
+228195.0,-12.0163888889,27.9005555556,sedimentary rocks; sedimentary,other,ok
+228202.0,-12.2752777778,27.9672222222,sedimentary rocks; sedimentary,other,ok
+228207.0,-12.419444444444,28.335277777778,sedimentary; sedimentary rocks,other,ok
+228258.0,-20.5,26.5583333333,sedimentary (karoo); sedimentary rocks,other,ok
+228259.0,-20.75,23.1,sedimentary rocks; sedimentary,other,ok
+228268.0,-22.9583333333,17.6833333333,sedimentary; sedimentary rocks,other,ok
+228325.0,56.7833333333,117.083333333,intrusive igneous rocks,other,ok
+228329.0,55.5,103.75,sedimentary rocks,other,ok
+228352.0,50.5,91.5,sedimentary rocks,other,ok
+228353.0,50.1444444444,91.4791666667,sedimentary rocks,other,ok
+228357.0,37.6333333333,87.0,sedimentary rocks,other,ok
+228364.0,23.75,103.58333333333,sedimentary rocks,other,ok
+228365.0,26.05,101.333333333,sedimentary rocks,other,ok
+228368.0,23.583333333333,104.08333333333,sedimentary rocks,other,ok
+229581.0,-38.85,-69.0,sedimentary rocks,other,ok
+242440.0,23.5,103.91666666667,sedimentary rocks,other,ok
+245304.0,48.1742504888,67.5921472168,sedimentary rocks,other,ok
+250732.0,34.5166666667,-99.5497222222,Major:{fine alluvium}; sedimentary; sedimentary rocks,other,ok
+290467.0,50.3546614597,4.06150817871,"Major:{clay}, Minor{sand,gravel}; sedimentary rocks",other,ok
+413086.0,-10.875871038485,26.596670663273,sedimentary; sedimentary rocks,other,ok
+443145.0,36.825,47.866666666667,sedimentary rocks,other,ok
+648.0,-27.5902777778,-70.35,sedimentary rocks,other,ok
+2567.0,16.859871411637,120.77577662768,sedimentary rocks,other,ok
+8418.0,18.0163888889,43.7011111111,sedimentary; sedimentary rocks,other,ok
+8563.0,15.987921786818,119.95553389241,intrusive igneous rocks,other,ok
+8588.0,24.35,56.4,intrusive igneous rocks,other,ok
+8667.0,33.8527777778,133.313888889,sedimentary rocks,other,ok
+8906.0,47.4788888889,-65.8922222222,sedimentary rocks; sedimentary,other,ok
+9014.0,50.1975,82.4347222222,sedimentary rocks,other,ok
+9743.0,24.41869265,56.40773624,intrusive igneous rocks,other,ok
+11605.0,31.364692687987,-8.0559644848108,sedimentary rocks; sedimentary,other,ok
+14096.0,24.273273850227,56.433540153503,intrusive igneous rocks,other,ok
+17373.0,33.5138888889,132.655555556,sedimentary rocks,other,ok
+17539.0,15.55,-89.7166666667,sedimentary rocks,other,ok
+18705.0,51.6333333333,81.75,sedimentary rocks,other,ok
+19429.0,50.357467942368,83.540028127001,intrusive igneous rocks,other,ok
+19975.0,23.851570017734,40.939985211657,sedimentary rocks; plutonic,other,ok
+20269.0,48.291666666667,86.333333333333,sedimentary rocks,other,ok
+21603.0,33.9038888889,133.541666667,sedimentary rocks,other,ok
+25611.0,22.89167,-83.24444,sedimentary; sedimentary rocks,other,ok
+25612.0,22.066666666667,-80.116666666667,sedimentary rocks; sedimentary,other,ok
+25615.0,22.47,-84.13,sedimentary; sedimentary rocks,other,ok
+28719.0,34.2475,135.438888889,sedimentary rocks,other,ok
+28720.0,34.0288888889,134.322222222,sedimentary rocks,other,ok
+28721.0,34.0211111111,134.225,sedimentary rocks,other,ok
+28722.0,35.085,137.833333333,sedimentary rocks,other,ok
+28723.0,33.8277777778,133.472222222,sedimentary rocks,other,ok
+28724.0,36.6291666667,140.605555556,sedimentary rocks,other,ok
+56379.0,33.9333333333,133.633333333,sedimentary rocks,other,ok
+60100.0,-0.39,-78.925,sedimentary rocks,other,ok
+60101.0,-0.925533,-79.061604,sedimentary rocks,other,ok
+134605.0,24.1,101.683333333,sedimentary rocks,other,ok
+135298.0,34.384781223876,100.11875336329,sedimentary rocks,other,ok
+143888.0,42.35,113.433333333,intrusive igneous rocks,other,ok
+144055.0,42.280555555556,89.5225,sedimentary rocks,other,ok
+144272.0,47.3527777778,89.1983333333,sedimentary rocks,other,ok
+144903.0,31.25,99.5666666667,sedimentary rocks,other,ok
+145237.0,29.9333333333,120.5,sedimentary rocks,other,ok
+146933.0,31.1844444444,99.5386111111,sedimentary rocks,other,ok
+147151.0,28.4938888889,101.688888889,sedimentary rocks,other,ok
+186441.0,31.5666666667,99.3,sedimentary rocks,other,ok
+191851.0,35.4333333333,99.6833333333,sedimentary rocks,other,ok
+192017.0,38.247394,100.02285,sedimentary rocks,other,ok
+195124.0,31.868106326343,-8.1770946993493,sedimentary rocks; sedimentary,other,ok
+204066.0,38.234867,-8.4652,sand; sedimentary rocks,other,ok
+205423.0,45.7666666667,135.966666667,sedimentary rocks,other,ok
+224829.0,33.7963888889,133.252777778,sedimentary rocks,other,ok
+231161.0,22.03,-80.15,sedimentary; sedimentary rocks,other,ok
+244626.0,50.5330555556,81.8755555556,sedimentary rocks,other,ok
+248675.0,11.8004,125.2658,sedimentary rocks,other,ok
+248677.0,8.0008,117.0493,sedimentary rocks,other,ok
+251086.0,51.19784851042,82.196097169946,sedimentary rocks,other,ok
+262768.0,54.302602637933,85.778760139051,sedimentary rocks,other,ok
+289643.0,51.583055555556,81.593055555556,sedimentary rocks,other,ok
+297488.0,50.933576265461,81.36501967907,sedimentary rocks,other,ok
+297491.0,50.237526705976,82.350054234266,sedimentary rocks,other,ok
+308438.0,49.240279126543,86.622313510478,sedimentary rocks,other,ok
+332884.0,-4.9166666666667,-80.166666666667,intrusive igneous rocks,other,ok
+333667.0,38.49834,67.65078,sedimentary rocks,other,ok
+423314.0,34.140994,107.718021,intrusive igneous rocks,other,ok
+424809.0,50.0,84.0,intrusive igneous rocks,other,ok
+721.0,41.992858333333,110.12308055556,intrusive igneous rocks,other,ok
+730.0,30.6986111111,101.909722222,sedimentary rocks,other,ok
+8082.0,46.6333333333,-81.3833333333,granophyre; sedimentary; intrusive igneous rocks,other,ok
+25759.0,56.33,-62.0952777778,sedimentary; sedimentary rocks,other,ok
+48983.0,33.25,106.366666667,sedimentary rocks,other,ok
+52166.0,38.4666666667,102.166666667,sedimentary rocks,other,ok
+134599.0,22.8583333333,102.966666667,sedimentary rocks,other,ok
+143633.0,43.3027777778,127.419444444,intrusive igneous rocks,other,ok
+143648.0,42.8833333333,126.5,intrusive igneous rocks,other,ok
+143685.0,43.1291666667,129.668055556,intrusive igneous rocks,other,ok
+143975.0,46.7575,89.6763888889,sedimentary rocks,other,ok
+144051.0,42.3367557,94.73407634,sedimentary rocks,other,ok
+144069.0,42.25,94.1166666667,sedimentary rocks,other,ok
+144070.0,42.15,94.2666666667,sedimentary rocks,other,ok
+144071.0,42.29718102,94.60404525,sedimentary rocks,other,ok
+144072.0,42.2166666667,94.6833333333,sedimentary rocks,other,ok
+144073.0,42.39329096,94.58143114,sedimentary rocks,other,ok
+144081.0,42.70423487,95.70082923,sedimentary rocks,other,ok
+144083.0,41.92970185,94.98848499,sedimentary rocks,other,ok
+144450.0,45.1277777778,131.344444444,sedimentary rocks,other,ok
+147060.0,26.3166666667,102.083333333,sedimentary rocks,other,ok
+147067.0,26.7952777778,101.575,sedimentary rocks,other,ok
+155865.0,25.7833333333,101.9,sedimentary rocks,other,ok
+185761.0,41.86751307,94.92629621,sedimentary rocks,other,ok
+185767.0,40.21668356,91.51722021,sedimentary rocks,other,ok
+192016.0,36.6,100.866666667,sedimentary rocks,other,ok
+225646.0,25.75,100.25,sedimentary rocks,other,ok
+232236.0,42.5363888889,95.7016666667,sedimentary rocks,other,ok
+232939.0,41.839961111111,109.99635555556,intrusive igneous rocks,other,ok
+254843.0,42.9333333333,82.3,intrusive igneous rocks,other,ok
+260009.0,36.4930555556,93.3611111111,sedimentary rocks,other,ok
+266410.0,56.316666666667,157.2,sedimentary rocks,other,ok
+405074.0,42.145666701876,92.525142503803,sedimentary rocks,other,ok
+433058.0,42.75511661,95.83086032,sedimentary rocks,other,ok
+444013.0,42.014097081244,110.12197494507,intrusive igneous rocks,other,ok
+13826.0,28.015,75.775555555556,sedimentary rocks,other,ok
+17046.0,19.2366666667,109.043333333,intrusive igneous rocks,other,ok
+43252.0,-31.4277777778,140.468611111,"laterite,clay,gravel,sand,silt; regolith",other,ok
+46972.0,41.859761,78.195299,sedimentary rocks,other,ok
+123470.0,26.1,101.9,sedimentary rocks,other,ok
+144270.0,46.8480555556,89.7130555556,sedimentary rocks,other,ok
+158934.0,-26.558435795857,-70.325290753794,intrusive igneous rocks,other,ok
+191196.0,-27.526505311158,-70.294626892646,sedimentary rocks,other,ok
+216983.0,30.35,117.377222222,sedimentary rocks,other,ok
+230442.0,14.294551397102,122.64926851543,sedimentary rocks,other,ok
+230718.0,46.466666666667,90.1,sedimentary rocks,other,ok
+238301.0,-12.698055555556,-76.6225,sedimentary rocks,other,ok
+344977.0,26.191666666667,101.95,sedimentary rocks,other,ok
+417880.0,45.536628,130.566666,intrusive igneous rocks,other,ok
+425517.0,-27.016666666667,-70.1,intrusive igneous rocks,other,ok
