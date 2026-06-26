@@ -1,0 +1,51 @@
+{
+  "created_at_utc": "2026-06-18T19:05:50.728793+00:00",
+  "analysis": "documentation_depth_trimmed_bernoulli_sensitivity",
+  "notebook": "HGCTM_Documentation_Depth_Trimmed_Bernoulli_K7.ipynb",
+  "input_root": "/kaggle/input/datasets/katerynaglin/hgctm-presence-absence-sensitivity-k7-outputs",
+  "trim_rule": {
+    "fraction": 0.1,
+    "stratification": "Deposit_type",
+    "n_removed_rule": "ceil(fraction * n_type)",
+    "sort_order": [
+      "mapped_species_count descending",
+      "present_family_count descending",
+      "Mindat_id ascending"
+    ]
+  },
+  "cohort": {
+    "n_full": 1237,
+    "n_removed": 127,
+    "n_retained": 1110,
+    "n_families": 35
+  },
+  "model": {
+    "likelihood": "Bernoulli",
+    "K": 7,
+    "sigma_lithology": 0.3,
+    "sigma_age": 0.3,
+    "tau_prior": "Beta(1,3)",
+    "omega_age_prior": "Beta(2,2)",
+    "steps": 5000,
+    "anneal_end": 1500,
+    "learning_rate": 0.005,
+    "seeds": [
+      42,
+      123,
+      7
+    ],
+    "warm_start": "trimmed binary LDA plus trimmed marginal family prevalence"
+  },
+  "comparison": {
+    "reference": "matching full-cohort Bernoulli HGCTM, equal-high prior",
+    "metrics": [
+      "frequency-weighted lithology-to-age ratio",
+      "strict-resolved ratio",
+      "topic cosine",
+      "top-10 family Jaccard",
+      "dominant-topic agreement on retained deposits",
+      "mean absolute theta difference",
+      "Topic 7 sensitivity"
+    ]
+  }
+}

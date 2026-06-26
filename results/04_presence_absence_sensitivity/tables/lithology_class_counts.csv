@@ -1,0 +1,17 @@
+source,lithology_class,count,percent,rare_under_20,zero_count
+Macrostrat,carbonate,100,8.084074373484237,False,False
+Macrostrat,felsic,224,18.108326596604687,False,False
+Macrostrat,mafic,156,12.611156022635408,False,False
+Macrostrat,metamorphic,94,7.599029911075182,False,False
+Macrostrat,other,375,30.315278900565886,False,False
+Macrostrat,siliciclastic,56,4.527081649151172,False,False
+Macrostrat,unknown,2,0.16168148746968472,True,False
+Macrostrat,volcanic,230,18.593371059013744,False,False
+GLiM,carbonate,75,6.063055780113177,False,False
+GLiM,felsic,161,13.01535974130962,False,False
+GLiM,mafic,27,2.1827000808407435,False,False
+GLiM,metamorphic,196,15.844785772029102,False,False
+GLiM,other,331,26.758286176232822,False,False
+GLiM,siliciclastic,134,10.832659660468876,False,False
+GLiM,unknown,8,0.6467259498787389,True,False
+GLiM,volcanic,305,24.65642683912692,False,False

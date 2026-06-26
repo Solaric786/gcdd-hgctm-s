@@ -1,0 +1,3 @@
+source,n_removed,n_retained,primary_ratio_min,strict_ratio_min,mean_topic_cosine_median,minimum_topic_cosine_min,dominant_topic_agreement_median,topic7_cosine_median,conclusion
+GLiM,127,1110,3.8048828554853107,3.7390544787556452,0.9749065296990531,0.9053487181663513,0.8639639639639639,0.9969962239265442,strong_support_after_documentation_trim
+Macrostrat,127,1110,3.0134067286455153,2.684963841891798,0.9522327780723572,0.8095630407333374,0.9540540540540541,0.9931665658950806,strong_support_after_documentation_trim

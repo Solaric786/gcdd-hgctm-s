@@ -1,0 +1,8 @@
+cohort,topic,topic_label,pre_specified_expected_type,strongest_observed_type,strongest_enrichment_ratio,expected_type_enrichment_ratio,ratio_ci_low,ratio_ci_high,permutation_p_maxT,validation_status
+full_1335,1,T1 Porphyry-enriched mixed alteration,Porphyry,Porphyry,1.7687040367657632,1.7687040367657632,1.7161750190167129,1.81916718191801,0.0001999600079984003,supported
+full_1335,2,T2 Supergene Cu-enrichment overprint,,Sediment-Hosted,5.5644549499897575,,4.916934682454981,6.277077537586568,0.0001999600079984003,cross_type_or_overprint_mode
+full_1335,3,T3 Broad polymetallic sulphide background,,IOCG,2.1060333804942655,,1.7900824967907176,2.4321335494743574,0.0001999600079984003,cross_type_or_overprint_mode
+full_1335,4,T4 Magmatic-sulphide-enriched Ni-Co-As,Magmatic sulfide,Magmatic sulfide,6.584279353507445,6.584279353507445,5.617487792362968,7.741247873128884,0.0001999600079984003,supported
+full_1335,5,T5 Sodic-calcic silicate-halide mode,IOCG,Sediment-Hosted,1.5257325123155876,1.403481506725957,0.6479459301665996,2.275870672640476,0.9968006398720256,partially_supported
+full_1335,6,T6 VMS-enriched Pb-Zn-Cu-barite,VMS,VMS,2.290530519113874,2.290530519113874,1.9340683906214506,2.6667282761141857,0.5676864627074585,partially_supported
+full_1335,7,T7 Diffuse sulphate-phosphate residual,,Sediment-Hosted,1.661423124362112,,0.09149330770700469,3.4055893294343993,1.0,cross_type_or_overprint_mode
